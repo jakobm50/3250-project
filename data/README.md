@@ -11,6 +11,10 @@ source data:
 
 Original, unmodified data after downloading, scraping, etc.
 
+### clean
+
+Cleaned, and modified data after downloading or scraping data.
+
 ### final
 
 Data after all cleaning, processing, and analyzing.
@@ -21,9 +25,12 @@ Data after all cleaning, processing, and analyzing.
 
 | Column                | Data Type | Description                                                                                    |
 | --------------------- | --------- | ---------------------------------------------------------------------------------------------- |
-| **Date**              | `Date`    | The date of the game in `YYYY-MM-DD` format.                                                   |
+| **Date**              | `Date`    | The date of the game in `DD-MM-YYYY HH:MM:SS` format.                                          |
+| **Location**          | `String`  | The name of the arena the game is played in.                                                   |
 | **Favorite**          | `String`  | The name of the team favored to win the game.                                                  |
 | **Underdog**          | `String`  | The name of the team expected to lose the game.                                                |
+| **Home_Team**         | `String`  | The name of the team expected who is home.                                                     |
+| **Away_Team**         | `String`  | The name of the team expected who is away.                                                     |
 | **Score**             | `String`  | The final score of the game, formatted as "Favorite_Score-Underdog_Score".                     |
 | **Moneyline_Result**  | `String`  | Indicates whether the favorite or underdog won, with values `Favorite`, `Underdog`, or `Push`. |
 | **Spread**            | `Float`   | The point spread assigned to the game, indicating how much the favorite is expected to win by. |
