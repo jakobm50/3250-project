@@ -1,0 +1,1779 @@
+date,schedule_season,home_team,score_home,away_team,score_away,team_favorite,spread_favorite,over_under_line,location,weather_temperature,weather_humidity,weather_detail
+09/06/2018,2018,Philadelphia Eagles,18,Atlanta Falcons,12,Philadelphia Eagles,1.0,44.5,Lincoln Financial Field,81.0,,rain
+09/09/2018,2018,Arizona Cardinals,6,Washington Redskins,24,Arizona Cardinals,2.0,43.5,University of Phoenix Stadium,72.0,,indoor
+09/09/2018,2018,Baltimore Ravens,47,Buffalo Bills,3,Baltimore Ravens,7.5,39.0,M&T Bank Stadium,61.0,,rain
+09/09/2018,2018,Carolina Panthers,16,Dallas Cowboys,8,Carolina Panthers,2.5,42.5,Bank of America Stadium,81.0,,rain
+09/09/2018,2018,Cleveland Browns,21,Pittsburgh Steelers,21,Pittsburgh Steelers,3.5,41.0,FirstEnergy Stadium,58.0,,rain
+09/09/2018,2018,Denver Broncos,27,Seattle Seahawks,24,Denver Broncos,3.0,42.5,Sports Authority Field at Mile High,84.0,,
+09/09/2018,2018,Green Bay Packers,24,Chicago Bears,23,Green Bay Packers,6.5,45.0,Lambeau Field,62.0,,
+09/09/2018,2018,Indianapolis Colts,23,Cincinnati Bengals,34,Cincinnati Bengals,1.0,47.5,Lucas Oil Stadium,72.0,,indoor
+09/09/2018,2018,Los Angeles Chargers,28,Kansas City Chiefs,38,San Diego Chargers,3.5,48.0,StubHub Center,84.0,,
+09/09/2018,2018,Miami Dolphins,27,Tennessee Titans,20,Tennessee Titans,1.0,43.5,Hard Rock Stadium,89.0,,rain
+09/09/2018,2018,Minnesota Vikings,24,San Francisco 49ers,16,Minnesota Vikings,6.0,46.5,U.S. Bank Stadium,72.0,,indoor
+09/09/2018,2018,New England Patriots,27,Houston Texans,20,New England Patriots,6.0,49.5,Gillette Stadium,62.0,,
+09/09/2018,2018,New Orleans Saints,40,Tampa Bay Buccaneers,48,New Orleans Saints,10.0,50.0,Mercedes-Benz Superdome,72.0,,indoor
+09/09/2018,2018,New York Giants,15,Jacksonville Jaguars,20,Jacksonville Jaguars,2.5,43.0,MetLife Stadium,59.0,,rain
+09/10/2018,2018,Detroit Lions,17,New York Jets,48,Detroit Lions,7.0,44.0,Ford Field,72.0,,indoor
+09/10/2018,2018,Oakland Raiders,13,Los Angeles Rams,33,St. Louis Rams,6.5,47.5,Oakland Coliseum,69.0,,
+09/13/2018,2018,Cincinnati Bengals,34,Baltimore Ravens,23,Cincinnati Bengals,1.0,43.0,Paul Brown Stadium,82.0,,
+09/16/2018,2018,Atlanta Falcons,31,Carolina Panthers,24,Atlanta Falcons,5.5,44.0,Mercedes-Benz Stadium,72.0,,indoor
+09/16/2018,2018,Buffalo Bills,20,Los Angeles Chargers,31,San Diego Chargers,7.5,41.5,New Era Field,83.0,,
+09/16/2018,2018,Dallas Cowboys,20,New York Giants,13,Dallas Cowboys,3.0,42.0,AT&T Stadium,72.0,,indoor
+09/16/2018,2018,Denver Broncos,20,Oakland Raiders,19,Denver Broncos,5.5,44.0,Sports Authority Field at Mile High,92.0,,
+09/16/2018,2018,Green Bay Packers,29,Minnesota Vikings,29,Minnesota Vikings,2.0,45.0,Lambeau Field,80.0,,
+09/16/2018,2018,Jacksonville Jaguars,31,New England Patriots,20,New England Patriots,2.0,44.5,EverBank Field,97.0,,rain
+09/16/2018,2018,Los Angeles Rams,34,Arizona Cardinals,0,St. Louis Rams,13.5,43.5,Los Angeles Memorial Coliseum,86.0,,
+09/16/2018,2018,New Orleans Saints,21,Cleveland Browns,18,New Orleans Saints,10.0,51.0,Mercedes-Benz Superdome,72.0,,indoor
+09/16/2018,2018,New York Jets,12,Miami Dolphins,20,New York Jets,3.0,43.0,MetLife Stadium,80.0,,
+09/16/2018,2018,Pittsburgh Steelers,37,Kansas City Chiefs,42,Pittsburgh Steelers,4.5,52.0,Heinz Field,80.0,,
+09/16/2018,2018,San Francisco 49ers,30,Detroit Lions,27,San Francisco 49ers,6.0,48.5,Levi's Stadium,73.0,,
+09/16/2018,2018,Tampa Bay Buccaneers,27,Philadelphia Eagles,21,Philadelphia Eagles,3.0,46.5,Raymond James Stadium,91.0,,
+09/16/2018,2018,Tennessee Titans,20,Houston Texans,17,Houston Texans,3.5,41.0,Nissan Stadium,81.0,,
+09/16/2018,2018,Washington Redskins,9,Indianapolis Colts,21,Washington Redskins,6.0,48.0,FedEx Field,71.0,,
+09/17/2018,2018,Chicago Bears,24,Seattle Seahawks,17,Chicago Bears,4.5,42.5,Soldier Field,79.0,,
+09/20/2018,2018,Cleveland Browns,21,New York Jets,17,Cleveland Browns,3.0,41.0,FirstEnergy Stadium,83.0,,
+09/23/2018,2018,Arizona Cardinals,14,Chicago Bears,16,Chicago Bears,5.5,39.0,University of Phoenix Stadium,72.0,,indoor
+09/23/2018,2018,Atlanta Falcons,37,New Orleans Saints,43,Atlanta Falcons,1.5,54.0,Mercedes-Benz Stadium,72.0,,indoor
+09/23/2018,2018,Baltimore Ravens,27,Denver Broncos,14,Baltimore Ravens,5.5,46.0,M&T Bank Stadium,61.0,,rain
+09/23/2018,2018,Carolina Panthers,31,Cincinnati Bengals,21,Carolina Panthers,2.5,44.0,Bank of America Stadium,80.0,,
+09/23/2018,2018,Detroit Lions,26,New England Patriots,10,New England Patriots,7.0,55.0,Ford Field,72.0,,indoor
+09/23/2018,2018,Houston Texans,22,New York Giants,27,Houston Texans,6.5,44.0,NRG Stadium,72.0,,indoor
+09/23/2018,2018,Jacksonville Jaguars,6,Tennessee Titans,9,Jacksonville Jaguars,10.0,39.0,TIAA Bank Field,89.0,,
+09/23/2018,2018,Kansas City Chiefs,38,San Francisco 49ers,27,Kansas City Chiefs,5.5,53.0,Arrowhead Stadium,70.0,,
+09/23/2018,2018,Los Angeles Rams,35,Los Angeles Chargers,23,St. Louis Rams,7.5,49.0,Los Angeles Memorial Coliseum,80.0,,
+09/23/2018,2018,Miami Dolphins,28,Oakland Raiders,20,Miami Dolphins,3.0,46.0,Hard Rock Stadium,90.0,,
+09/23/2018,2018,Minnesota Vikings,6,Buffalo Bills,27,Minnesota Vikings,16.5,41.0,U.S. Bank Stadium,72.0,,indoor
+09/23/2018,2018,Philadelphia Eagles,20,Indianapolis Colts,16,Philadelphia Eagles,6.5,45.5,Lincoln Financial Field,61.0,,rain
+09/23/2018,2018,Seattle Seahawks,24,Dallas Cowboys,13,Seattle Seahawks,1.0,40.0,CenturyLink Field,61.0,,
+09/23/2018,2018,Washington Redskins,31,Green Bay Packers,17,Green Bay Packers,2.5,45.5,FedEx Field,62.0,,rain
+09/24/2018,2018,Tampa Bay Buccaneers,27,Pittsburgh Steelers,30,Pittsburgh Steelers,1.0,55.0,Raymond James Stadium,77.0,,
+09/27/2018,2018,Los Angeles Rams,38,Minnesota Vikings,31,St. Louis Rams,7.5,48.5,Los Angeles Memorial Coliseum,75.0,,
+09/30/2018,2018,Arizona Cardinals,17,Seattle Seahawks,20,Seattle Seahawks,3.5,40.0,University of Phoenix Stadium,72.0,,indoor
+09/30/2018,2018,Atlanta Falcons,36,Cincinnati Bengals,37,Atlanta Falcons,3.5,52.5,Mercedes-Benz Stadium,72.0,,indoor
+09/30/2018,2018,Chicago Bears,48,Tampa Bay Buccaneers,10,Chicago Bears,3.0,46.0,Soldier Field,66.0,,
+09/30/2018,2018,Dallas Cowboys,26,Detroit Lions,24,Dallas Cowboys,2.5,43.5,AT&T Stadium,72.0,,indoor
+09/30/2018,2018,Green Bay Packers,22,Buffalo Bills,0,Green Bay Packers,8.5,43.5,Lambeau Field,49.0,,
+09/30/2018,2018,Indianapolis Colts,34,Houston Texans,37,Indianapolis Colts,1.0,48.0,Lucas Oil Stadium,72.0,,indoor
+09/30/2018,2018,Jacksonville Jaguars,31,New York Jets,12,Jacksonville Jaguars,7.5,40.5,TIAA Bank Field,86.0,,
+09/30/2018,2018,Los Angeles Chargers,29,San Francisco 49ers,27,San Diego Chargers,10.5,46.0,StubHub Center,78.0,,
+09/30/2018,2018,New England Patriots,38,Miami Dolphins,7,New England Patriots,6.5,50.5,Gillette Stadium,65.0,,
+09/30/2018,2018,New York Giants,18,New Orleans Saints,33,New Orleans Saints,3.5,51.5,MetLife Stadium,71.0,,
+09/30/2018,2018,Oakland Raiders,45,Cleveland Browns,42,Oakland Raiders,2.5,44.5,Oakland Coliseum,71.0,,
+09/30/2018,2018,Pittsburgh Steelers,14,Baltimore Ravens,26,Pittsburgh Steelers,3.0,51.0,Heinz Field,69.0,,
+09/30/2018,2018,Tennessee Titans,26,Philadelphia Eagles,23,Philadelphia Eagles,3.0,41.5,Nissan Stadium,80.0,,
+10/01/2018,2018,Denver Broncos,23,Kansas City Chiefs,27,Kansas City Chiefs,3.5,53.5,Sports Authority Field at Mile High,65.0,,
+10/04/2018,2018,New England Patriots,38,Indianapolis Colts,24,New England Patriots,10.5,49.5,Gillette Stadium,66.0,,
+10/07/2018,2018,Buffalo Bills,13,Tennessee Titans,12,Tennessee Titans,6.0,38.5,New Era Field,62.0,,
+10/07/2018,2018,Carolina Panthers,33,New York Giants,31,Carolina Panthers,7.0,43.5,Bank of America Stadium,80.0,,
+10/07/2018,2018,Cincinnati Bengals,27,Miami Dolphins,17,Cincinnati Bengals,6.5,47.5,Paul Brown Stadium,87.0,,
+10/07/2018,2018,Cleveland Browns,12,Baltimore Ravens,9,Baltimore Ravens,3.0,44.5,FirstEnergy Stadium,72.0,,
+10/07/2018,2018,Detroit Lions,31,Green Bay Packers,23,Green Bay Packers,1.0,50.0,Ford Field,72.0,,indoor
+10/07/2018,2018,Houston Texans,19,Dallas Cowboys,16,Houston Texans,3.5,45.5,NRG Stadium,72.0,,indoor
+10/07/2018,2018,Kansas City Chiefs,30,Jacksonville Jaguars,14,Kansas City Chiefs,3.0,48.0,Arrowhead Stadium,58.0,,rain
+10/07/2018,2018,Los Angeles Chargers,26,Oakland Raiders,10,San Diego Chargers,5.0,52.0,StubHub Center,75.0,,
+10/07/2018,2018,New York Jets,34,Denver Broncos,16,New York Jets,1.0,43.0,MetLife Stadium,77.0,,
+10/07/2018,2018,Philadelphia Eagles,21,Minnesota Vikings,23,Philadelphia Eagles,3.5,48.0,Lincoln Financial Field,79.0,,
+10/07/2018,2018,Pittsburgh Steelers,41,Atlanta Falcons,17,Pittsburgh Steelers,3.5,57.0,Heinz Field,83.0,,
+10/07/2018,2018,San Francisco 49ers,18,Arizona Cardinals,28,San Francisco 49ers,3.0,40.5,Levi's Stadium,79.0,,
+10/07/2018,2018,Seattle Seahawks,31,Los Angeles Rams,33,St. Louis Rams,7.5,50.5,CenturyLink Field,53.0,,
+10/08/2018,2018,New Orleans Saints,43,Washington Redskins,19,New Orleans Saints,5.5,51.5,Mercedes-Benz Superdome,72.0,,indoor
+10/11/2018,2018,New York Giants,13,Philadelphia Eagles,34,Philadelphia Eagles,1.5,45.0,MetLife Stadium,70.0,,rain
+10/14/2018,2018,Atlanta Falcons,34,Tampa Bay Buccaneers,29,Atlanta Falcons,3.0,57.0,Mercedes-Benz Stadium,72.0,,indoor
+10/14/2018,2018,Cincinnati Bengals,21,Pittsburgh Steelers,28,Cincinnati Bengals,1.5,49.5,Paul Brown Stadium,51.0,,
+10/14/2018,2018,Cleveland Browns,14,Los Angeles Chargers,38,Cleveland Browns,1.0,47.0,FirstEnergy Stadium,57.0,,
+10/14/2018,2018,Dallas Cowboys,40,Jacksonville Jaguars,7,Jacksonville Jaguars,3.0,39.0,AT&T Stadium,72.0,,indoor
+10/14/2018,2018,Denver Broncos,20,Los Angeles Rams,23,St. Louis Rams,7.0,50.0,Sports Authority Field at Mile High,25.0,,
+10/14/2018,2018,Houston Texans,20,Buffalo Bills,13,Houston Texans,10.5,40.5,NRG Stadium,72.0,,indoor
+10/14/2018,2018,Miami Dolphins,31,Chicago Bears,28,Chicago Bears,7.5,40.5,Hard Rock Stadium,89.0,,
+10/14/2018,2018,Minnesota Vikings,27,Arizona Cardinals,17,Minnesota Vikings,10.0,43.5,U.S. Bank Stadium,72.0,,indoor
+10/14/2018,2018,New England Patriots,43,Kansas City Chiefs,40,New England Patriots,3.5,59.5,Gillette Stadium,45.0,,
+10/14/2018,2018,New York Jets,42,Indianapolis Colts,34,New York Jets,2.5,47.5,MetLife Stadium,60.0,,
+10/14/2018,2018,Oakland Raiders,3,Seattle Seahawks,27,Seattle Seahawks,3.0,48.0,Tottenham Stadium,50.0,,rain
+10/14/2018,2018,Tennessee Titans,0,Baltimore Ravens,21,Baltimore Ravens,2.5,43.5,Nissan Stadium,66.0,,
+10/14/2018,2018,Washington Redskins,23,Carolina Panthers,17,Carolina Panthers,1.0,44.5,FedEx Field,52.0,,
+10/15/2018,2018,Green Bay Packers,33,San Francisco 49ers,30,Green Bay Packers,9.0,46.5,Lambeau Field,37.0,,
+10/18/2018,2018,Arizona Cardinals,10,Denver Broncos,45,Denver Broncos,1.0,42.5,University of Phoenix Stadium,72.0,,indoor
+10/21/2018,2018,Baltimore Ravens,23,New Orleans Saints,24,Baltimore Ravens,2.5,49.0,M&T Bank Stadium,54.0,,
+10/21/2018,2018,Chicago Bears,31,New England Patriots,38,New England Patriots,1.0,48.5,Soldier Field,44.0,,
+10/21/2018,2018,Indianapolis Colts,37,Buffalo Bills,5,Indianapolis Colts,7.0,43.5,Lucas Oil Stadium,72.0,,indoor
+10/21/2018,2018,Jacksonville Jaguars,7,Houston Texans,20,Jacksonville Jaguars,3.5,42.5,TIAA Bank Field,68.0,,
+10/21/2018,2018,Kansas City Chiefs,45,Cincinnati Bengals,10,Kansas City Chiefs,6.5,56.0,Arrowhead Stadium,59.0,,
+10/21/2018,2018,Los Angeles Chargers,20,Tennessee Titans,19,San Diego Chargers,6.5,46.0,Wembley Stadium,66.0,,
+10/21/2018,2018,Miami Dolphins,21,Detroit Lions,32,Detroit Lions,3.0,47.0,Hard Rock Stadium,89.0,,
+10/21/2018,2018,New York Jets,17,Minnesota Vikings,37,Minnesota Vikings,3.5,45.0,MetLife Stadium,46.0,,
+10/21/2018,2018,Philadelphia Eagles,17,Carolina Panthers,21,Philadelphia Eagles,5.0,45.0,Lincoln Financial Field,49.0,,
+10/21/2018,2018,San Francisco 49ers,10,Los Angeles Rams,39,St. Louis Rams,8.0,52.0,Levi's Stadium,62.0,,
+10/21/2018,2018,Tampa Bay Buccaneers,26,Cleveland Browns,23,Tampa Bay Buccaneers,3.5,52.5,Raymond James Stadium,79.0,,
+10/21/2018,2018,Washington Redskins,20,Dallas Cowboys,17,Dallas Cowboys,1.0,40.5,FedEx Field,52.0,,
+10/22/2018,2018,Atlanta Falcons,23,New York Giants,20,Atlanta Falcons,4.0,53.0,Mercedes-Benz Stadium,72.0,,indoor
+10/25/2018,2018,Houston Texans,42,Miami Dolphins,23,Houston Texans,7.5,45.0,NRG Stadium,72.0,,indoor
+10/28/2018,2018,Arizona Cardinals,18,San Francisco 49ers,15,Arizona Cardinals,2.5,40.0,University of Phoenix Stadium,72.0,,indoor
+10/28/2018,2018,Carolina Panthers,36,Baltimore Ravens,21,Baltimore Ravens,2.5,44.0,Bank of America Stadium,61.0,,
+10/28/2018,2018,Chicago Bears,24,New York Jets,10,Chicago Bears,8.5,42.5,Soldier Field,48.0,,
+10/28/2018,2018,Cincinnati Bengals,37,Tampa Bay Buccaneers,34,Cincinnati Bengals,3.5,55.0,Paul Brown Stadium,55.0,,
+10/28/2018,2018,Detroit Lions,14,Seattle Seahawks,28,Detroit Lions,3.0,48.0,Ford Field,72.0,,indoor
+10/28/2018,2018,Jacksonville Jaguars,18,Philadelphia Eagles,24,Philadelphia Eagles,3.5,44.0,Wembley Stadium,48.0,,
+10/28/2018,2018,Kansas City Chiefs,30,Denver Broncos,23,Kansas City Chiefs,8.5,53.0,Arrowhead Stadium,56.0,,
+10/28/2018,2018,Los Angeles Rams,29,Green Bay Packers,27,St. Louis Rams,7.5,57.0,Los Angeles Memorial Coliseum,82.0,,
+10/28/2018,2018,Minnesota Vikings,20,New Orleans Saints,30,Minnesota Vikings,2.5,53.5,U.S. Bank Stadium,72.0,,indoor
+10/28/2018,2018,New York Giants,13,Washington Redskins,20,Washington Redskins,1.0,44.0,MetLife Stadium,51.0,,
+10/28/2018,2018,Oakland Raiders,28,Indianapolis Colts,42,Indianapolis Colts,3.5,51.0,Oakland Coliseum,69.0,,
+10/28/2018,2018,Pittsburgh Steelers,33,Cleveland Browns,18,Pittsburgh Steelers,8.5,47.5,Heinz Field,47.0,,
+10/29/2018,2018,Buffalo Bills,6,New England Patriots,25,New England Patriots,13.5,44.5,New Era Field,46.0,,
+11/01/2018,2018,San Francisco 49ers,34,Oakland Raiders,3,Oakland Raiders,1.5,44.0,Levi's Stadium,82.0,,
+11/04/2018,2018,Baltimore Ravens,16,Pittsburgh Steelers,23,Baltimore Ravens,1.5,46.5,M&T Bank Stadium,55.0,,
+11/04/2018,2018,Buffalo Bills,9,Chicago Bears,41,Chicago Bears,10.5,38.0,New Era Field,49.0,,
+11/04/2018,2018,Carolina Panthers,42,Tampa Bay Buccaneers,28,Carolina Panthers,6.0,55.5,Bank of America Stadium,62.0,,
+11/04/2018,2018,Cleveland Browns,21,Kansas City Chiefs,37,Kansas City Chiefs,7.5,51.5,FirstEnergy Stadium,53.0,,
+11/04/2018,2018,Denver Broncos,17,Houston Texans,19,Denver Broncos,1.0,46.5,Sports Authority Field at Mile High,53.0,,
+11/04/2018,2018,Miami Dolphins,13,New York Jets,6,Miami Dolphins,3.0,43.0,Hard Rock Stadium,87.0,,
+11/04/2018,2018,Minnesota Vikings,24,Detroit Lions,9,Minnesota Vikings,4.5,47.5,U.S. Bank Stadium,72.0,,indoor
+11/04/2018,2018,New England Patriots,31,Green Bay Packers,17,New England Patriots,5.0,56.0,Gillette Stadium,40.0,,
+11/04/2018,2018,New Orleans Saints,45,Los Angeles Rams,35,St. Louis Rams,1.5,57.0,Mercedes-Benz Superdome,72.0,,indoor
+11/04/2018,2018,Seattle Seahawks,17,Los Angeles Chargers,25,Seattle Seahawks,1.0,48.0,CenturyLink Field,56.0,,rain
+11/04/2018,2018,Washington Redskins,14,Atlanta Falcons,38,Washington Redskins,1.5,46.5,FedEx Field,55.0,,
+11/05/2018,2018,Dallas Cowboys,14,Tennessee Titans,28,Dallas Cowboys,4.5,40.5,AT&T Stadium,72.0,,indoor
+11/08/2018,2018,Pittsburgh Steelers,52,Carolina Panthers,21,Pittsburgh Steelers,3.5,51.0,Heinz Field,40.0,,
+11/11/2018,2018,Chicago Bears,34,Detroit Lions,22,Chicago Bears,7.5,44.5,Soldier Field,37.0,,
+11/11/2018,2018,Cincinnati Bengals,14,New Orleans Saints,51,New Orleans Saints,6.0,53.5,Paul Brown Stadium,39.0,,
+11/11/2018,2018,Cleveland Browns,28,Atlanta Falcons,16,Atlanta Falcons,5.5,49.5,FirstEnergy Stadium,36.0,,
+11/11/2018,2018,Green Bay Packers,31,Miami Dolphins,12,Green Bay Packers,11.0,48.5,Lambeau Field,33.0,,
+11/11/2018,2018,Indianapolis Colts,29,Jacksonville Jaguars,26,Indianapolis Colts,3.0,48.0,Lucas Oil Stadium,72.0,,indoor
+11/11/2018,2018,Kansas City Chiefs,26,Arizona Cardinals,14,Kansas City Chiefs,16.5,49.5,Arrowhead Stadium,43.0,,
+11/11/2018,2018,Los Angeles Rams,36,Seattle Seahawks,31,St. Louis Rams,10.0,51.0,Los Angeles Memorial Coliseum,75.0,,
+11/11/2018,2018,New York Jets,10,Buffalo Bills,41,New York Jets,7.0,38.0,MetLife Stadium,46.0,,
+11/11/2018,2018,Oakland Raiders,6,Los Angeles Chargers,20,San Diego Chargers,10.5,50.0,Oakland Coliseum,69.0,,
+11/11/2018,2018,Philadelphia Eagles,20,Dallas Cowboys,27,Philadelphia Eagles,7.5,45.5,Lincoln Financial Field,38.0,,
+11/11/2018,2018,Tampa Bay Buccaneers,3,Washington Redskins,16,Tampa Bay Buccaneers,3.5,51.0,Raymond James Stadium,82.0,,
+11/11/2018,2018,Tennessee Titans,34,New England Patriots,10,New England Patriots,6.5,47.0,Nissan Stadium,46.0,,
+11/12/2018,2018,San Francisco 49ers,23,New York Giants,27,San Francisco 49ers,3.0,45.0,Levi's Stadium,62.0,,
+11/15/2018,2018,Seattle Seahawks,27,Green Bay Packers,24,Seattle Seahawks,3.0,49.0,CenturyLink Field,54.0,,
+11/18/2018,2018,Arizona Cardinals,21,Oakland Raiders,23,Arizona Cardinals,4.5,41.0,University of Phoenix Stadium,72.0,,indoor
+11/18/2018,2018,Atlanta Falcons,19,Dallas Cowboys,22,Atlanta Falcons,3.5,50.0,Mercedes-Benz Stadium,72.0,,indoor
+11/18/2018,2018,Baltimore Ravens,24,Cincinnati Bengals,21,Baltimore Ravens,6.5,44.0,M&T Bank Stadium,48.0,,
+11/18/2018,2018,Chicago Bears,25,Minnesota Vikings,20,Chicago Bears,2.5,44.0,Soldier Field,33.0,,
+11/18/2018,2018,Detroit Lions,20,Carolina Panthers,19,Carolina Panthers,4.0,48.0,Ford Field,72.0,,indoor
+11/18/2018,2018,Indianapolis Colts,38,Tennessee Titans,10,Indianapolis Colts,1.0,50.0,Lucas Oil Stadium,72.0,,indoor
+11/18/2018,2018,Jacksonville Jaguars,16,Pittsburgh Steelers,20,Pittsburgh Steelers,4.0,47.0,TIAA Bank Field,73.0,,
+11/18/2018,2018,Los Angeles Chargers,22,Denver Broncos,23,San Diego Chargers,7.5,46.5,StubHub Center,69.0,,
+11/18/2018,2018,New Orleans Saints,48,Philadelphia Eagles,7,New Orleans Saints,7.0,56.5,Mercedes-Benz Superdome,72.0,,indoor
+11/18/2018,2018,New York Giants,38,Tampa Bay Buccaneers,35,New York Giants,3.0,53.5,MetLife Stadium,42.0,,
+11/18/2018,2018,Washington Redskins,21,Houston Texans,23,Houston Texans,3.0,40.5,FedEx Field,48.0,,
+11/19/2018,2018,Los Angeles Rams,54,Kansas City Chiefs,51,St. Louis Rams,3.0,63.5,Los Angeles Memorial Coliseum,69.0,,
+11/22/2018,2018,Dallas Cowboys,31,Washington Redskins,23,Dallas Cowboys,7.0,40.0,AT&T Stadium,72.0,,indoor
+11/22/2018,2018,Detroit Lions,16,Chicago Bears,23,Chicago Bears,3.0,43.0,Ford Field,72.0,,indoor
+11/22/2018,2018,New Orleans Saints,31,Atlanta Falcons,17,New Orleans Saints,11.5,61.5,Mercedes-Benz Superdome,72.0,,indoor
+11/25/2018,2018,Baltimore Ravens,34,Oakland Raiders,17,Baltimore Ravens,13.0,42.0,M&T Bank Stadium,60.0,,
+11/25/2018,2018,Buffalo Bills,24,Jacksonville Jaguars,21,Jacksonville Jaguars,3.0,36.5,New Era Field,44.0,,
+11/25/2018,2018,Carolina Panthers,27,Seattle Seahawks,30,Carolina Panthers,3.0,46.5,Bank of America Stadium,57.0,,
+11/25/2018,2018,Cincinnati Bengals,20,Cleveland Browns,35,Cleveland Browns,1.0,46.5,Paul Brown Stadium,44.0,,
+11/25/2018,2018,Denver Broncos,24,Pittsburgh Steelers,17,Pittsburgh Steelers,3.0,47.5,Sports Authority Field at Mile High,41.0,,
+11/25/2018,2018,Indianapolis Colts,27,Miami Dolphins,24,Indianapolis Colts,9.0,52.5,Lucas Oil Stadium,72.0,,indoor
+11/25/2018,2018,Los Angeles Chargers,45,Arizona Cardinals,10,San Diego Chargers,14.0,43.0,StubHub Center,74.0,,
+11/25/2018,2018,Minnesota Vikings,24,Green Bay Packers,17,Minnesota Vikings,3.5,48.0,U.S. Bank Stadium,72.0,,indoor
+11/25/2018,2018,New York Jets,13,New England Patriots,27,New England Patriots,13.0,46.5,MetLife Stadium,54.0,,
+11/25/2018,2018,Philadelphia Eagles,25,New York Giants,22,Philadelphia Eagles,4.5,49.0,Lincoln Financial Field,56.0,,
+11/25/2018,2018,Tampa Bay Buccaneers,27,San Francisco 49ers,9,Tampa Bay Buccaneers,1.5,54.5,Raymond James Stadium,77.0,,
+11/26/2018,2018,Houston Texans,34,Tennessee Titans,17,Houston Texans,3.5,42.5,NRG Stadium,72.0,,indoor
+11/29/2018,2018,Dallas Cowboys,13,New Orleans Saints,10,New Orleans Saints,7.5,51.5,AT&T Stadium,72.0,,indoor
+12/02/2018,2018,Atlanta Falcons,16,Baltimore Ravens,26,Atlanta Falcons,2.5,46.5,Mercedes-Benz Stadium,72.0,,indoor
+12/02/2018,2018,Cincinnati Bengals,10,Denver Broncos,24,Denver Broncos,4.0,45.0,Paul Brown Stadium,63.0,,
+12/02/2018,2018,Detroit Lions,16,Los Angeles Rams,30,St. Louis Rams,10.5,54.0,Ford Field,72.0,,indoor
+12/02/2018,2018,Green Bay Packers,17,Arizona Cardinals,20,Green Bay Packers,13.5,41.0,Lambeau Field,34.0,,rain
+12/02/2018,2018,Houston Texans,29,Cleveland Browns,13,Houston Texans,5.0,47.5,NRG Stadium,72.0,,indoor
+12/02/2018,2018,Jacksonville Jaguars,6,Indianapolis Colts,0,Indianapolis Colts,4.0,45.5,TIAA Bank Field,78.0,,rain
+12/02/2018,2018,Miami Dolphins,21,Buffalo Bills,17,Miami Dolphins,3.5,40.0,Hard Rock Stadium,86.0,,
+12/02/2018,2018,New England Patriots,24,Minnesota Vikings,10,New England Patriots,6.0,49.5,Gillette Stadium,53.0,,
+12/02/2018,2018,New York Giants,30,Chicago Bears,27,Chicago Bears,4.0,44.0,MetLife Stadium,52.0,,fog
+12/02/2018,2018,Oakland Raiders,33,Kansas City Chiefs,40,Kansas City Chiefs,14.0,53.5,Oakland Coliseum,57.0,,
+12/02/2018,2018,Pittsburgh Steelers,30,Los Angeles Chargers,33,Pittsburgh Steelers,3.0,52.5,Heinz Field,57.0,,
+12/02/2018,2018,Seattle Seahawks,43,San Francisco 49ers,16,Seattle Seahawks,10.0,45.5,CenturyLink Field,45.0,,
+12/02/2018,2018,Tampa Bay Buccaneers,24,Carolina Panthers,17,Carolina Panthers,3.5,52.0,Raymond James Stadium,81.0,,
+12/02/2018,2018,Tennessee Titans,26,New York Jets,22,Tennessee Titans,10.5,40.5,Nissan Stadium,70.0,,
+12/03/2018,2018,Philadelphia Eagles,28,Washington Redskins,13,Philadelphia Eagles,5.5,45.0,Lincoln Financial Field,36.0,,
+12/06/2018,2018,Tennessee Titans,30,Jacksonville Jaguars,9,Tennessee Titans,5.5,37.5,Nissan Stadium,44.0,,
+12/09/2018,2018,Arizona Cardinals,3,Detroit Lions,17,Detroit Lions,2.5,40.5,University of Phoenix Stadium,72.0,,indoor
+12/09/2018,2018,Buffalo Bills,23,New York Jets,27,Buffalo Bills,4.5,37.0,New Era Field,31.0,,
+12/09/2018,2018,Chicago Bears,15,Los Angeles Rams,6,St. Louis Rams,3.0,51.0,Soldier Field,29.0,,
+12/09/2018,2018,Cleveland Browns,26,Carolina Panthers,20,Carolina Panthers,1.0,47.5,FirstEnergy Stadium,28.0,,
+12/09/2018,2018,Dallas Cowboys,29,Philadelphia Eagles,23,Dallas Cowboys,3.5,45.5,AT&T Stadium,72.0,,indoor
+12/09/2018,2018,Green Bay Packers,34,Atlanta Falcons,20,Green Bay Packers,4.0,50.5,Lambeau Field,25.0,,
+12/09/2018,2018,Houston Texans,21,Indianapolis Colts,24,Houston Texans,4.0,49.0,NRG Stadium,72.0,,indoor
+12/09/2018,2018,Kansas City Chiefs,27,Baltimore Ravens,24,Kansas City Chiefs,6.5,48.5,Arrowhead Stadium,27.0,,
+12/09/2018,2018,Los Angeles Chargers,26,Cincinnati Bengals,21,San Diego Chargers,17.0,48.5,StubHub Center,70.0,,
+12/09/2018,2018,Miami Dolphins,34,New England Patriots,33,New England Patriots,9.5,49.5,Hard Rock Stadium,82.0,,
+12/09/2018,2018,Oakland Raiders,24,Pittsburgh Steelers,21,Pittsburgh Steelers,10.5,51.0,Oakland Coliseum,55.0,,
+12/09/2018,2018,San Francisco 49ers,20,Denver Broncos,14,Denver Broncos,3.0,45.5,Levi's Stadium,54.0,,
+12/09/2018,2018,Tampa Bay Buccaneers,14,New Orleans Saints,28,New Orleans Saints,10.0,54.0,Raymond James Stadium,71.0,,rain
+12/09/2018,2018,Washington Redskins,16,New York Giants,40,New York Giants,3.0,40.5,FedEx Field,33.0,,
+12/10/2018,2018,Seattle Seahawks,21,Minnesota Vikings,7,Seattle Seahawks,3.0,45.5,CenturyLink Field,48.0,,
+12/13/2018,2018,Kansas City Chiefs,28,Los Angeles Chargers,29,Kansas City Chiefs,3.5,54.0,Arrowhead Stadium,39.0,,rain
+12/15/2018,2018,Denver Broncos,16,Cleveland Browns,17,Denver Broncos,1.0,47.0,Sports Authority Field at Mile High,46.0,,
+12/15/2018,2018,New York Jets,22,Houston Texans,29,Houston Texans,7.0,44.0,MetLife Stadium,51.0,,rain
+12/16/2018,2018,Atlanta Falcons,40,Arizona Cardinals,14,Atlanta Falcons,10.0,43.5,Mercedes-Benz Stadium,72.0,,indoor
+12/16/2018,2018,Baltimore Ravens,20,Tampa Bay Buccaneers,12,Baltimore Ravens,8.5,45.0,M&T Bank Stadium,43.0,,rain
+12/16/2018,2018,Buffalo Bills,14,Detroit Lions,13,Buffalo Bills,2.5,40.0,New Era Field,39.0,,rain
+12/16/2018,2018,Chicago Bears,24,Green Bay Packers,17,Chicago Bears,5.5,46.5,Soldier Field,45.0,,
+12/16/2018,2018,Cincinnati Bengals,30,Oakland Raiders,16,Cincinnati Bengals,3.0,46.0,Paul Brown Stadium,43.0,,
+12/16/2018,2018,Indianapolis Colts,23,Dallas Cowboys,0,Indianapolis Colts,3.0,46.5,Lucas Oil Stadium,72.0,,indoor
+12/16/2018,2018,Jacksonville Jaguars,13,Washington Redskins,16,Jacksonville Jaguars,7.5,36.5,TIAA Bank Field,64.0,,
+12/16/2018,2018,Los Angeles Rams,23,Philadelphia Eagles,30,St. Louis Rams,13.5,52.5,Los Angeles Memorial Coliseum,60.0,,
+12/16/2018,2018,Minnesota Vikings,41,Miami Dolphins,17,Minnesota Vikings,7.5,45.0,U.S. Bank Stadium,72.0,,indoor
+12/16/2018,2018,New York Giants,0,Tennessee Titans,17,Tennessee Titans,2.5,42.0,MetLife Stadium,40.0,,rain
+12/16/2018,2018,Pittsburgh Steelers,17,New England Patriots,10,New England Patriots,2.5,56.0,Heinz Field,42.0,,
+12/16/2018,2018,San Francisco 49ers,26,Seattle Seahawks,23,Seattle Seahawks,3.5,44.0,Levi's Stadium,61.0,,
+12/17/2018,2018,Carolina Panthers,9,New Orleans Saints,12,New Orleans Saints,6.0,50.5,Bank of America Stadium,48.0,,
+12/22/2018,2018,Los Angeles Chargers,10,Baltimore Ravens,22,San Diego Chargers,4.0,42.5,StubHub Center,60.0,,
+12/22/2018,2018,Tennessee Titans,25,Washington Redskins,16,Tennessee Titans,11.5,37.5,Nissan Stadium,51.0,,
+12/23/2018,2018,Arizona Cardinals,9,Los Angeles Rams,31,St. Louis Rams,14.5,43.0,University of Phoenix Stadium,72.0,,indoor
+12/23/2018,2018,Carolina Panthers,10,Atlanta Falcons,24,Atlanta Falcons,3.0,46.0,Bank of America Stadium,52.0,,
+12/23/2018,2018,Cleveland Browns,26,Cincinnati Bengals,18,Cleveland Browns,10.0,44.0,FirstEnergy Stadium,37.0,,
+12/23/2018,2018,Dallas Cowboys,27,Tampa Bay Buccaneers,20,Dallas Cowboys,7.5,48.0,AT&T Stadium,72.0,,indoor
+12/23/2018,2018,Detroit Lions,9,Minnesota Vikings,27,Minnesota Vikings,6.5,42.5,Ford Field,72.0,,indoor
+12/23/2018,2018,Indianapolis Colts,28,New York Giants,27,Indianapolis Colts,10.0,48.5,Lucas Oil Stadium,72.0,,indoor
+12/23/2018,2018,Miami Dolphins,7,Jacksonville Jaguars,17,Miami Dolphins,3.0,39.5,Hard Rock Stadium,73.0,,
+12/23/2018,2018,New England Patriots,24,Buffalo Bills,12,New England Patriots,13.5,45.0,Gillette Stadium,40.0,,
+12/23/2018,2018,New Orleans Saints,31,Pittsburgh Steelers,28,New Orleans Saints,6.5,53.0,Mercedes-Benz Superdome,72.0,,indoor
+12/23/2018,2018,New York Jets,38,Green Bay Packers,44,Green Bay Packers,3.0,47.5,MetLife Stadium,43.0,,
+12/23/2018,2018,Philadelphia Eagles,32,Houston Texans,30,Philadelphia Eagles,1.0,46.5,Lincoln Financial Field,44.0,,
+12/23/2018,2018,San Francisco 49ers,9,Chicago Bears,14,Chicago Bears,4.0,44.0,Levi's Stadium,50.0,,
+12/23/2018,2018,Seattle Seahawks,38,Kansas City Chiefs,31,Kansas City Chiefs,1.0,54.5,CenturyLink Field,43.0,,
+12/24/2018,2018,Oakland Raiders,27,Denver Broncos,14,Denver Broncos,2.5,42.5,Oakland Coliseum,58.0,,rain
+12/30/2018,2018,Baltimore Ravens,26,Cleveland Browns,24,Baltimore Ravens,7.0,41.0,M&T Bank Stadium,48.0,,
+12/30/2018,2018,Buffalo Bills,42,Miami Dolphins,17,Buffalo Bills,5.5,39.5,New Era Field,33.0,,
+12/30/2018,2018,Denver Broncos,9,Los Angeles Chargers,23,San Diego Chargers,7.0,43.5,Sports Authority Field at Mile High,51.0,,
+12/30/2018,2018,Green Bay Packers,0,Detroit Lions,31,Green Bay Packers,7.5,44.5,Lambeau Field,26.0,,
+12/30/2018,2018,Houston Texans,20,Jacksonville Jaguars,3,Houston Texans,7.0,39.5,NRG Stadium,72.0,,indoor
+12/30/2018,2018,Kansas City Chiefs,35,Oakland Raiders,3,Kansas City Chiefs,14.5,52.5,Arrowhead Stadium,45.0,,
+12/30/2018,2018,Los Angeles Rams,48,San Francisco 49ers,32,St. Louis Rams,10.5,49.5,Los Angeles Memorial Coliseum,65.0,,
+12/30/2018,2018,Minnesota Vikings,10,Chicago Bears,24,Minnesota Vikings,6.0,40.5,U.S. Bank Stadium,72.0,,indoor
+12/30/2018,2018,New England Patriots,38,New York Jets,3,New England Patriots,14.5,46.5,Gillette Stadium,33.0,,
+12/30/2018,2018,New Orleans Saints,14,Carolina Panthers,33,New Orleans Saints,8.0,42.0,Mercedes-Benz Superdome,72.0,,indoor
+12/30/2018,2018,New York Giants,35,Dallas Cowboys,36,New York Giants,7.5,38.5,MetLife Stadium,37.0,,
+12/30/2018,2018,Pittsburgh Steelers,16,Cincinnati Bengals,13,Pittsburgh Steelers,14.0,45.0,Heinz Field,42.0,,
+12/30/2018,2018,Seattle Seahawks,27,Arizona Cardinals,24,Seattle Seahawks,14.0,39.5,CenturyLink Field,45.0,,
+12/30/2018,2018,Tampa Bay Buccaneers,32,Atlanta Falcons,34,Atlanta Falcons,2.5,51.5,Raymond James Stadium,80.0,,
+12/30/2018,2018,Tennessee Titans,17,Indianapolis Colts,33,Indianapolis Colts,5.5,42.5,Nissan Stadium,53.0,,
+12/30/2018,2018,Washington Redskins,0,Philadelphia Eagles,24,Philadelphia Eagles,6.0,42.5,FedEx Field,46.0,,
+09/05/2019,2019,Chicago Bears,3,Green Bay Packers,10,Chicago Bears,3.0,46.5,Soldier Field,,,
+09/08/2019,2019,Arizona Cardinals,27,Detroit Lions,27,Detroit Lions,3.0,45.5,University of Phoenix Stadium,72.0,,indoor
+09/08/2019,2019,Carolina Panthers,27,Los Angeles Rams,30,St. Louis Rams,2.0,49.5,Bank of America Stadium,,,
+09/08/2019,2019,Cleveland Browns,13,Tennessee Titans,43,Cleveland Browns,5.5,44.0,FirstEnergy Stadium,,,
+09/08/2019,2019,Dallas Cowboys,35,New York Giants,17,Dallas Cowboys,7.0,44.0,AT&T Stadium,72.0,,indoor
+09/08/2019,2019,Jacksonville Jaguars,26,Kansas City Chiefs,40,Kansas City Chiefs,3.5,49.0,TIAA Bank Field,,,
+09/08/2019,2019,Los Angeles Chargers,30,Indianapolis Colts,24,San Diego Chargers,6.0,44.5,Dignity Health Sports Park,,,
+09/08/2019,2019,Miami Dolphins,10,Baltimore Ravens,59,Baltimore Ravens,7.0,40.5,Hard Rock Stadium,,,
+09/08/2019,2019,Minnesota Vikings,28,Atlanta Falcons,12,Minnesota Vikings,3.5,47.0,U.S. Bank Stadium,72.0,,indoor
+09/08/2019,2019,New England Patriots,33,Pittsburgh Steelers,3,New England Patriots,5.5,49.0,Gillette Stadium,,,
+09/08/2019,2019,New York Jets,16,Buffalo Bills,17,New York Jets,2.5,41.0,MetLife Stadium,,,
+09/08/2019,2019,Philadelphia Eagles,32,Washington Redskins,27,Philadelphia Eagles,10.0,44.5,Lincoln Financial Field,,,
+09/08/2019,2019,Seattle Seahawks,21,Cincinnati Bengals,20,Seattle Seahawks,9.0,44.0,CenturyLink Field,,,
+09/08/2019,2019,Tampa Bay Buccaneers,17,San Francisco 49ers,31,Tampa Bay Buccaneers,1.0,51.0,Raymond James Stadium,,,
+09/09/2019,2019,New Orleans Saints,30,Houston Texans,28,New Orleans Saints,6.5,51.5,Mercedes-Benz Superdome,72.0,,indoor
+09/09/2019,2019,Oakland Raiders,24,Denver Broncos,16,Denver Broncos,3.0,42.5,Oakland Coliseum,,,
+09/12/2019,2019,Carolina Panthers,14,Tampa Bay Buccaneers,20,Carolina Panthers,6.5,48.0,Bank of America Stadium,,,
+09/15/2019,2019,Atlanta Falcons,24,Philadelphia Eagles,20,Philadelphia Eagles,1.0,53.0,Mercedes-Benz Stadium,72.0,,indoor
+09/15/2019,2019,Baltimore Ravens,23,Arizona Cardinals,17,Baltimore Ravens,13.0,45.5,M&T Bank Stadium,,,
+09/15/2019,2019,Cincinnati Bengals,17,San Francisco 49ers,41,Cincinnati Bengals,1.0,46.0,Paul Brown Stadium,,,
+09/15/2019,2019,Denver Broncos,14,Chicago Bears,16,Chicago Bears,3.0,40.5,Sports Authority Field at Mile High,,,
+09/15/2019,2019,Detroit Lions,13,Los Angeles Chargers,10,San Diego Chargers,1.0,46.5,Ford Field,72.0,,indoor
+09/15/2019,2019,Green Bay Packers,21,Minnesota Vikings,16,Green Bay Packers,3.0,43.0,Lambeau Field,,,
+09/15/2019,2019,Houston Texans,13,Jacksonville Jaguars,12,Houston Texans,7.0,43.0,NRG Stadium,72.0,,indoor
+09/15/2019,2019,Los Angeles Rams,27,New Orleans Saints,9,St. Louis Rams,2.0,52.0,Los Angeles Memorial Coliseum,,,
+09/15/2019,2019,Miami Dolphins,0,New England Patriots,43,New England Patriots,18.0,48.5,Hard Rock Stadium,,,
+09/15/2019,2019,New York Giants,14,Buffalo Bills,28,Buffalo Bills,1.0,44.5,MetLife Stadium,,,
+09/15/2019,2019,Oakland Raiders,10,Kansas City Chiefs,28,Kansas City Chiefs,7.0,53.0,Oakland Coliseum,,,
+09/15/2019,2019,Pittsburgh Steelers,26,Seattle Seahawks,28,Pittsburgh Steelers,4.0,47.0,Heinz Field,,,
+09/15/2019,2019,Tennessee Titans,17,Indianapolis Colts,19,Tennessee Titans,3.5,43.5,Nissan Stadium,,,
+09/15/2019,2019,Washington Redskins,21,Dallas Cowboys,31,Dallas Cowboys,6.0,46.0,FedEx Field,,,
+09/16/2019,2019,New York Jets,3,Cleveland Browns,23,Cleveland Browns,6.5,45.0,MetLife Stadium,,,
+09/19/2019,2019,Jacksonville Jaguars,20,Tennessee Titans,7,Tennessee Titans,2.0,38.0,TIAA Bank Field,,,
+09/22/2019,2019,Arizona Cardinals,20,Carolina Panthers,38,Arizona Cardinals,2.5,45.5,University of Phoenix Stadium,72.0,,indoor
+09/22/2019,2019,Buffalo Bills,21,Cincinnati Bengals,17,Buffalo Bills,6.0,43.5,New Era Field,,,
+09/22/2019,2019,Cleveland Browns,13,Los Angeles Rams,20,St. Louis Rams,4.0,48.0,FirstEnergy Stadium,,,
+09/22/2019,2019,Dallas Cowboys,31,Miami Dolphins,6,Dallas Cowboys,21.5,46.5,AT&T Stadium,72.0,,indoor
+09/22/2019,2019,Green Bay Packers,27,Denver Broncos,16,Green Bay Packers,7.0,41.5,Lambeau Field,,,
+09/22/2019,2019,Indianapolis Colts,27,Atlanta Falcons,24,Indianapolis Colts,1.5,48.0,Lucas Oil Stadium,72.0,,indoor
+09/22/2019,2019,Kansas City Chiefs,33,Baltimore Ravens,28,Kansas City Chiefs,5.0,52.0,Arrowhead Stadium,,,
+09/22/2019,2019,Los Angeles Chargers,20,Houston Texans,27,San Diego Chargers,3.0,49.0,Dignity Health Sports Park,,,
+09/22/2019,2019,Minnesota Vikings,34,Oakland Raiders,14,Minnesota Vikings,9.0,43.5,U.S. Bank Stadium,72.0,,indoor
+09/22/2019,2019,New England Patriots,30,New York Jets,14,New England Patriots,21.0,43.0,Gillette Stadium,,,
+09/22/2019,2019,Philadelphia Eagles,24,Detroit Lions,27,Philadelphia Eagles,4.0,45.0,Lincoln Financial Field,,,
+09/22/2019,2019,San Francisco 49ers,24,Pittsburgh Steelers,20,San Francisco 49ers,6.0,44.5,Levi's Stadium,,,
+09/22/2019,2019,Seattle Seahawks,27,New Orleans Saints,33,Seattle Seahawks,5.0,44.0,CenturyLink Field,,,
+09/22/2019,2019,Tampa Bay Buccaneers,31,New York Giants,32,Tampa Bay Buccaneers,5.0,48.0,Raymond James Stadium,,,
+09/23/2019,2019,Washington Redskins,15,Chicago Bears,31,Chicago Bears,5.0,41.0,FedEx Field,,,
+09/26/2019,2019,Green Bay Packers,27,Philadelphia Eagles,34,Green Bay Packers,3.5,46.5,Lambeau Field,,,
+09/29/2019,2019,Arizona Cardinals,10,Seattle Seahawks,27,Seattle Seahawks,5.5,48.5,University of Phoenix Stadium,72.0,,indoor
+09/29/2019,2019,Atlanta Falcons,10,Tennessee Titans,24,Atlanta Falcons,3.5,46.5,Mercedes-Benz Stadium,72.0,,indoor
+09/29/2019,2019,Baltimore Ravens,25,Cleveland Browns,40,Baltimore Ravens,7.0,47.5,M&T Bank Stadium,,,
+09/29/2019,2019,Buffalo Bills,10,New England Patriots,16,New England Patriots,7.0,41.5,New Era Field,,,
+09/29/2019,2019,Chicago Bears,16,Minnesota Vikings,6,Chicago Bears,1.0,38.5,Soldier Field,,,
+09/29/2019,2019,Denver Broncos,24,Jacksonville Jaguars,26,Denver Broncos,2.5,37.5,Sports Authority Field at Mile High,,,
+09/29/2019,2019,Detroit Lions,30,Kansas City Chiefs,34,Kansas City Chiefs,7.0,54.5,Ford Field,72.0,,indoor
+09/29/2019,2019,Houston Texans,10,Carolina Panthers,16,Houston Texans,5.0,47.5,NRG Stadium,72.0,,indoor
+09/29/2019,2019,Indianapolis Colts,24,Oakland Raiders,31,Indianapolis Colts,6.0,46.5,Lucas Oil Stadium,72.0,,indoor
+09/29/2019,2019,Los Angeles Rams,40,Tampa Bay Buccaneers,55,St. Louis Rams,9.0,48.5,Los Angeles Memorial Coliseum,,,
+09/29/2019,2019,Miami Dolphins,10,Los Angeles Chargers,30,San Diego Chargers,15.0,43.5,Hard Rock Stadium,,,
+09/29/2019,2019,New Orleans Saints,12,Dallas Cowboys,10,Dallas Cowboys,2.5,47.0,Mercedes-Benz Superdome,72.0,,indoor
+09/29/2019,2019,New York Giants,24,Washington Redskins,3,New York Giants,3.0,48.0,MetLife Stadium,,,
+09/30/2019,2019,Pittsburgh Steelers,27,Cincinnati Bengals,3,Pittsburgh Steelers,3.5,45.0,Heinz Field,,,
+10/03/2019,2019,Seattle Seahawks,30,Los Angeles Rams,29,Seattle Seahawks,1.5,48.5,CenturyLink Field,,,
+10/06/2019,2019,Carolina Panthers,34,Jacksonville Jaguars,27,Carolina Panthers,3.0,40.5,Bank of America Stadium,,,
+10/06/2019,2019,Cincinnati Bengals,23,Arizona Cardinals,26,Cincinnati Bengals,3.0,46.5,Paul Brown Stadium,,,
+10/06/2019,2019,Dallas Cowboys,24,Green Bay Packers,34,Dallas Cowboys,3.0,46.5,AT&T Stadium,72.0,,indoor
+10/06/2019,2019,Houston Texans,53,Atlanta Falcons,32,Houston Texans,4.0,49.0,NRG Stadium,72.0,,indoor
+10/06/2019,2019,Kansas City Chiefs,13,Indianapolis Colts,19,Kansas City Chiefs,10.5,55.5,Arrowhead Stadium,,,
+10/06/2019,2019,Los Angeles Chargers,13,Denver Broncos,20,San Diego Chargers,4.5,45.5,Dignity Health Sports Park,,,
+10/06/2019,2019,New Orleans Saints,31,Tampa Bay Buccaneers,24,New Orleans Saints,3.0,46.5,Mercedes-Benz Superdome,72.0,,indoor
+10/06/2019,2019,New York Giants,10,Minnesota Vikings,28,Minnesota Vikings,5.5,43.5,MetLife Stadium,,,
+10/06/2019,2019,Oakland Raiders,24,Chicago Bears,21,Chicago Bears,6.5,39.5,Tottenham Hotspur Stadium,,,
+10/06/2019,2019,Philadelphia Eagles,31,New York Jets,6,Philadelphia Eagles,14.0,43.0,Lincoln Financial Field,,,
+10/06/2019,2019,Pittsburgh Steelers,23,Baltimore Ravens,26,Baltimore Ravens,3.0,44.0,Heinz Field,,,
+10/06/2019,2019,Tennessee Titans,7,Buffalo Bills,14,Tennessee Titans,3.0,39.5,Nissan Stadium,,,
+10/06/2019,2019,Washington Redskins,7,New England Patriots,33,New England Patriots,16.5,41.5,FedEx Field,,,
+10/07/2019,2019,San Francisco 49ers,31,Cleveland Browns,3,San Francisco 49ers,4.5,48.0,Levi's Stadium,,,
+10/10/2019,2019,New England Patriots,35,New York Giants,14,New England Patriots,16.5,43.0,Gillette Stadium,,,
+10/13/2019,2019,Arizona Cardinals,34,Atlanta Falcons,33,Atlanta Falcons,3.0,52.0,University of Phoenix Stadium,72.0,,indoor
+10/13/2019,2019,Baltimore Ravens,23,Cincinnati Bengals,17,Baltimore Ravens,10.5,46.5,M&T Bank Stadium,,,
+10/13/2019,2019,Cleveland Browns,28,Seattle Seahawks,32,Cleveland Browns,1.0,45.5,FirstEnergy Stadium,,,
+10/13/2019,2019,Denver Broncos,16,Tennessee Titans,0,Denver Broncos,1.5,41.0,Sports Authority Field at Mile High,,,
+10/13/2019,2019,Jacksonville Jaguars,6,New Orleans Saints,13,Jacksonville Jaguars,2.5,42.5,TIAA Bank Field,,,
+10/13/2019,2019,Kansas City Chiefs,24,Houston Texans,31,Kansas City Chiefs,3.5,54.5,Arrowhead Stadium,,,
+10/13/2019,2019,Los Angeles Chargers,17,Pittsburgh Steelers,24,San Diego Chargers,6.0,42.5,Dignity Health Sports Park,,,
+10/13/2019,2019,Los Angeles Rams,7,San Francisco 49ers,20,St. Louis Rams,3.0,50.0,Los Angeles Memorial Coliseum,,,
+10/13/2019,2019,Miami Dolphins,16,Washington Redskins,17,Washington Redskins,5.5,42.5,Hard Rock Stadium,,,
+10/13/2019,2019,Minnesota Vikings,38,Philadelphia Eagles,20,Minnesota Vikings,3.5,44.5,U.S. Bank Stadium,72.0,,indoor
+10/13/2019,2019,New York Jets,24,Dallas Cowboys,22,Dallas Cowboys,7.0,43.5,MetLife Stadium,,,
+10/13/2019,2019,Tampa Bay Buccaneers,26,Carolina Panthers,37,Carolina Panthers,2.0,47.5,Tottenham Hotspur Stadium,,,
+10/14/2019,2019,Green Bay Packers,23,Detroit Lions,22,Green Bay Packers,3.5,47.0,Lambeau Field,,,
+10/17/2019,2019,Denver Broncos,6,Kansas City Chiefs,30,Kansas City Chiefs,3.0,49.5,Sports Authority Field at Mile High,,,
+10/20/2019,2019,Atlanta Falcons,10,Los Angeles Rams,37,St. Louis Rams,3.0,54.5,Mercedes-Benz Stadium,72.0,,indoor
+10/20/2019,2019,Buffalo Bills,31,Miami Dolphins,21,Buffalo Bills,17.0,42.5,New Era Field,,,
+10/20/2019,2019,Chicago Bears,25,New Orleans Saints,36,Chicago Bears,4.0,37.0,Soldier Field,,,
+10/20/2019,2019,Cincinnati Bengals,17,Jacksonville Jaguars,27,Jacksonville Jaguars,4.0,44.0,Paul Brown Stadium,,,
+10/20/2019,2019,Dallas Cowboys,37,Philadelphia Eagles,10,Dallas Cowboys,3.0,50.0,AT&T Stadium,72.0,,indoor
+10/20/2019,2019,Detroit Lions,30,Minnesota Vikings,42,Minnesota Vikings,2.5,43.5,Ford Field,72.0,,indoor
+10/20/2019,2019,Green Bay Packers,42,Oakland Raiders,24,Green Bay Packers,5.5,47.5,Lambeau Field,,,
+10/20/2019,2019,Indianapolis Colts,30,Houston Texans,23,Indianapolis Colts,1.0,46.5,Lucas Oil Stadium,72.0,,indoor
+10/20/2019,2019,New York Giants,21,Arizona Cardinals,27,New York Giants,3.5,50.0,MetLife Stadium,,,
+10/20/2019,2019,Seattle Seahawks,16,Baltimore Ravens,30,Seattle Seahawks,3.0,48.5,CenturyLink Field,,,
+10/20/2019,2019,Tennessee Titans,23,Los Angeles Chargers,20,Tennessee Titans,2.5,42.5,Nissan Stadium,,,
+10/20/2019,2019,Washington Redskins,0,San Francisco 49ers,9,San Francisco 49ers,10.0,39.0,FedEx Field,,,
+10/21/2019,2019,New York Jets,0,New England Patriots,33,New England Patriots,10.0,43.0,MetLife Stadium,,,
+10/24/2019,2019,Minnesota Vikings,19,Washington Redskins,9,Minnesota Vikings,16.5,42.0,U.S. Bank Stadium,72.0,,indoor
+10/27/2019,2019,Atlanta Falcons,20,Seattle Seahawks,27,Seattle Seahawks,7.5,48.5,Mercedes-Benz Stadium,72.0,,indoor
+10/27/2019,2019,Buffalo Bills,13,Philadelphia Eagles,31,Buffalo Bills,1.0,39.5,New Era Field,,,
+10/27/2019,2019,Chicago Bears,16,Los Angeles Chargers,17,Chicago Bears,3.5,41.0,Soldier Field,,,
+10/27/2019,2019,Detroit Lions,31,New York Giants,26,Detroit Lions,6.5,49.0,Ford Field,72.0,,indoor
+10/27/2019,2019,Houston Texans,27,Oakland Raiders,24,Houston Texans,6.0,52.0,NRG Stadium,72.0,,indoor
+10/27/2019,2019,Indianapolis Colts,15,Denver Broncos,13,Indianapolis Colts,6.0,42.0,Lucas Oil Stadium,72.0,,indoor
+10/27/2019,2019,Jacksonville Jaguars,29,New York Jets,15,Jacksonville Jaguars,6.5,40.0,TIAA Bank Field,,,
+10/27/2019,2019,Kansas City Chiefs,24,Green Bay Packers,31,Green Bay Packers,5.0,47.5,Arrowhead Stadium,,,
+10/27/2019,2019,Los Angeles Rams,24,Cincinnati Bengals,10,St. Louis Rams,12.0,48.5,Wembley Stadium,,,
+10/27/2019,2019,New England Patriots,27,Cleveland Browns,13,New England Patriots,10.0,43.0,Gillette Stadium,,,
+10/27/2019,2019,New Orleans Saints,31,Arizona Cardinals,9,New Orleans Saints,12.5,48.0,Mercedes-Benz Superdome,72.0,,indoor
+10/27/2019,2019,San Francisco 49ers,51,Carolina Panthers,13,San Francisco 49ers,4.0,40.5,Levi's Stadium,,,
+10/27/2019,2019,Tennessee Titans,27,Tampa Bay Buccaneers,23,Tennessee Titans,2.0,45.5,Nissan Stadium,,,
+10/28/2019,2019,Pittsburgh Steelers,27,Miami Dolphins,14,Pittsburgh Steelers,14.0,44.0,Heinz Field,,,
+10/31/2019,2019,Arizona Cardinals,25,San Francisco 49ers,28,San Francisco 49ers,10.0,43.0,University of Phoenix Stadium,72.0,,indoor
+11/03/2019,2019,Baltimore Ravens,37,New England Patriots,20,New England Patriots,3.0,44.5,M&T Bank Stadium,,,
+11/03/2019,2019,Buffalo Bills,24,Washington Redskins,9,Buffalo Bills,10.5,37.0,New Era Field,,,
+11/03/2019,2019,Carolina Panthers,30,Tennessee Titans,20,Carolina Panthers,3.5,43.0,Bank of America Stadium,,,
+11/03/2019,2019,Denver Broncos,24,Cleveland Browns,19,Cleveland Browns,4.0,39.0,Sports Authority Field at Mile High,,,
+11/03/2019,2019,Jacksonville Jaguars,3,Houston Texans,26,Jacksonville Jaguars,1.0,46.0,Wembley Stadium,,,
+11/03/2019,2019,Kansas City Chiefs,26,Minnesota Vikings,23,Minnesota Vikings,5.5,45.5,Arrowhead Stadium,,,
+11/03/2019,2019,Los Angeles Chargers,26,Green Bay Packers,11,Green Bay Packers,4.0,50.0,Dignity Health Sports Park,,,
+11/03/2019,2019,Miami Dolphins,26,New York Jets,18,New York Jets,3.0,42.5,Hard Rock Stadium,,,
+11/03/2019,2019,Oakland Raiders,31,Detroit Lions,24,Oakland Raiders,2.5,51.0,Oakland Coliseum,,,
+11/03/2019,2019,Philadelphia Eagles,22,Chicago Bears,14,Philadelphia Eagles,5.0,41.0,Lincoln Financial Field,,,
+11/03/2019,2019,Pittsburgh Steelers,26,Indianapolis Colts,24,Pittsburgh Steelers,1.0,40.0,Heinz Field,,,
+11/03/2019,2019,Seattle Seahawks,40,Tampa Bay Buccaneers,34,Seattle Seahawks,4.0,51.0,CenturyLink Field,,,
+11/04/2019,2019,New York Giants,18,Dallas Cowboys,37,Dallas Cowboys,6.5,48.5,MetLife Stadium,,,
+11/07/2019,2019,Oakland Raiders,26,Los Angeles Chargers,24,San Diego Chargers,1.0,49.0,Oakland Coliseum,,,
+11/10/2019,2019,Chicago Bears,20,Detroit Lions,13,Chicago Bears,6.0,38.0,Soldier Field,,,
+11/10/2019,2019,Cincinnati Bengals,13,Baltimore Ravens,49,Baltimore Ravens,10.5,44.0,Paul Brown Stadium,,,
+11/10/2019,2019,Cleveland Browns,19,Buffalo Bills,16,Cleveland Browns,3.0,42.0,FirstEnergy Stadium,,,
+11/10/2019,2019,Dallas Cowboys,24,Minnesota Vikings,28,Dallas Cowboys,3.0,48.0,AT&T Stadium,72.0,,indoor
+11/10/2019,2019,Green Bay Packers,24,Carolina Panthers,16,Green Bay Packers,5.0,49.0,Lambeau Field,,,
+11/10/2019,2019,Indianapolis Colts,12,Miami Dolphins,16,Indianapolis Colts,11.0,44.0,Lucas Oil Stadium,72.0,,indoor
+11/10/2019,2019,New Orleans Saints,9,Atlanta Falcons,26,New Orleans Saints,13.5,51.5,Mercedes-Benz Superdome,72.0,,indoor
+11/10/2019,2019,New York Jets,34,New York Giants,27,New York Giants,3.0,43.0,MetLife Stadium,,,
+11/10/2019,2019,Pittsburgh Steelers,17,Los Angeles Rams,12,St. Louis Rams,4.5,43.5,Heinz Field,,,
+11/10/2019,2019,Tampa Bay Buccaneers,30,Arizona Cardinals,27,Tampa Bay Buccaneers,5.5,51.5,Raymond James Stadium,,,
+11/10/2019,2019,Tennessee Titans,35,Kansas City Chiefs,32,Kansas City Chiefs,6.0,49.0,Nissan Stadium,,,
+11/11/2019,2019,San Francisco 49ers,24,Seattle Seahawks,27,San Francisco 49ers,6.5,46.5,Levi's Stadium,,,
+11/14/2019,2019,Cleveland Browns,21,Pittsburgh Steelers,7,Cleveland Browns,3.0,41.5,FirstEnergy Stadium,,,
+11/17/2019,2019,Baltimore Ravens,41,Houston Texans,7,Baltimore Ravens,4.5,51.0,M&T Bank Stadium,,,
+11/17/2019,2019,Carolina Panthers,3,Atlanta Falcons,29,Carolina Panthers,4.0,49.0,Bank of America Stadium,,,
+11/17/2019,2019,Detroit Lions,27,Dallas Cowboys,35,Dallas Cowboys,7.0,46.5,Ford Field,72.0,,indoor
+11/17/2019,2019,Indianapolis Colts,33,Jacksonville Jaguars,13,Indianapolis Colts,2.5,41.5,Lucas Oil Stadium,72.0,,indoor
+11/17/2019,2019,Los Angeles Rams,17,Chicago Bears,7,St. Louis Rams,5.5,40.0,Los Angeles Memorial Coliseum,,,
+11/17/2019,2019,Miami Dolphins,20,Buffalo Bills,37,Buffalo Bills,7.0,41.0,Hard Rock Stadium,,,
+11/17/2019,2019,Minnesota Vikings,27,Denver Broncos,23,Minnesota Vikings,10.0,40.0,U.S. Bank Stadium,72.0,,indoor
+11/17/2019,2019,Oakland Raiders,17,Cincinnati Bengals,10,Oakland Raiders,13.0,48.0,Oakland Coliseum,,,
+11/17/2019,2019,Philadelphia Eagles,10,New England Patriots,17,New England Patriots,4.5,45.0,Lincoln Financial Field,,,
+11/17/2019,2019,San Francisco 49ers,36,Arizona Cardinals,26,San Francisco 49ers,10.0,44.0,Levi's Stadium,,,
+11/17/2019,2019,Tampa Bay Buccaneers,17,New Orleans Saints,34,New Orleans Saints,5.0,50.5,Raymond James Stadium,,,
+11/17/2019,2019,Washington Redskins,17,New York Jets,34,Washington Redskins,2.0,37.5,FedEx Field,,,
+11/18/2019,2019,Los Angeles Chargers,17,Kansas City Chiefs,24,Kansas City Chiefs,5.5,52.5,Estadio Azteca,,,
+11/21/2019,2019,Houston Texans,20,Indianapolis Colts,17,Houston Texans,3.5,46.0,NRG Stadium,72.0,,indoor
+11/24/2019,2019,Atlanta Falcons,22,Tampa Bay Buccaneers,35,Atlanta Falcons,3.5,51.5,Mercedes-Benz Stadium,72.0,,indoor
+11/24/2019,2019,Buffalo Bills,20,Denver Broncos,3,Buffalo Bills,3.5,37.0,New Era Field,,,
+11/24/2019,2019,Chicago Bears,19,New York Giants,14,Chicago Bears,6.0,41.0,Soldier Field,,,
+11/24/2019,2019,Cincinnati Bengals,10,Pittsburgh Steelers,16,Pittsburgh Steelers,6.5,37.0,Paul Brown Stadium,,,
+11/24/2019,2019,Cleveland Browns,41,Miami Dolphins,24,Cleveland Browns,11.0,46.0,FirstEnergy Stadium,,,
+11/24/2019,2019,New England Patriots,13,Dallas Cowboys,9,New England Patriots,5.5,44.5,Gillette Stadium,,,
+11/24/2019,2019,New Orleans Saints,34,Carolina Panthers,31,New Orleans Saints,10.0,46.5,Mercedes-Benz Superdome,72.0,,indoor
+11/24/2019,2019,New York Jets,34,Oakland Raiders,3,Oakland Raiders,3.0,44.5,MetLife Stadium,,,
+11/24/2019,2019,Philadelphia Eagles,9,Seattle Seahawks,17,Seattle Seahawks,2.0,45.5,Lincoln Financial Field,,,
+11/24/2019,2019,San Francisco 49ers,37,Green Bay Packers,8,San Francisco 49ers,3.0,48.0,Levi's Stadium,,,
+11/24/2019,2019,Tennessee Titans,42,Jacksonville Jaguars,20,Tennessee Titans,4.0,42.5,Nissan Stadium,,,
+11/24/2019,2019,Washington Redskins,19,Detroit Lions,16,Detroit Lions,4.0,40.0,FedEx Field,,,
+11/25/2019,2019,Los Angeles Rams,6,Baltimore Ravens,45,Baltimore Ravens,3.5,47.0,Los Angeles Memorial Coliseum,,,
+11/28/2019,2019,Atlanta Falcons,18,New Orleans Saints,26,New Orleans Saints,7.0,48.0,Mercedes-Benz Stadium,72.0,,indoor
+11/28/2019,2019,Dallas Cowboys,15,Buffalo Bills,26,Dallas Cowboys,6.5,46.5,AT&T Stadium,72.0,,indoor
+11/28/2019,2019,Detroit Lions,20,Chicago Bears,24,Chicago Bears,5.5,37.0,Ford Field,72.0,,indoor
+12/01/2019,2019,Arizona Cardinals,7,Los Angeles Rams,34,St. Louis Rams,2.5,47.0,University of Phoenix Stadium,72.0,,indoor
+12/01/2019,2019,Baltimore Ravens,20,San Francisco 49ers,17,Baltimore Ravens,5.5,45.0,M&T Bank Stadium,,,
+12/01/2019,2019,Carolina Panthers,21,Washington Redskins,29,Carolina Panthers,10.5,38.5,Bank of America Stadium,,,
+12/01/2019,2019,Cincinnati Bengals,22,New York Jets,6,New York Jets,3.0,43.0,Paul Brown Stadium,,,
+12/01/2019,2019,Denver Broncos,23,Los Angeles Chargers,20,San Diego Chargers,4.5,38.5,Sports Authority Field at Mile High,,,
+12/01/2019,2019,Houston Texans,28,New England Patriots,22,New England Patriots,3.0,47.0,NRG Stadium,72.0,,indoor
+12/01/2019,2019,Indianapolis Colts,17,Tennessee Titans,31,Tennessee Titans,1.0,41.5,Lucas Oil Stadium,72.0,,indoor
+12/01/2019,2019,Jacksonville Jaguars,11,Tampa Bay Buccaneers,28,Tampa Bay Buccaneers,3.0,46.5,TIAA Bank Field,,,
+12/01/2019,2019,Kansas City Chiefs,40,Oakland Raiders,9,Kansas City Chiefs,10.5,49.5,Arrowhead Stadium,,,
+12/01/2019,2019,Miami Dolphins,37,Philadelphia Eagles,31,Philadelphia Eagles,10.0,44.5,Hard Rock Stadium,,,
+12/01/2019,2019,New York Giants,13,Green Bay Packers,31,Green Bay Packers,6.5,43.5,MetLife Stadium,,,
+12/01/2019,2019,Pittsburgh Steelers,20,Cleveland Browns,13,Cleveland Browns,1.0,40.0,Heinz Field,,,
+12/02/2019,2019,Seattle Seahawks,37,Minnesota Vikings,30,Seattle Seahawks,2.5,48.5,CenturyLink Field,,,
+12/05/2019,2019,Chicago Bears,31,Dallas Cowboys,24,Dallas Cowboys,3.0,43.0,Soldier Field,,,
+12/08/2019,2019,Arizona Cardinals,17,Pittsburgh Steelers,23,Pittsburgh Steelers,2.5,43.5,University of Phoenix Stadium,72.0,,indoor
+12/08/2019,2019,Atlanta Falcons,40,Carolina Panthers,20,Atlanta Falcons,3.5,48.0,Mercedes-Benz Stadium,72.0,,indoor
+12/08/2019,2019,Buffalo Bills,17,Baltimore Ravens,24,Baltimore Ravens,6.0,44.0,New Era Field,,,
+12/08/2019,2019,Cleveland Browns,27,Cincinnati Bengals,19,Cleveland Browns,6.5,43.5,FirstEnergy Stadium,,,
+12/08/2019,2019,Green Bay Packers,20,Washington Redskins,15,Green Bay Packers,13.0,42.0,Lambeau Field,,,
+12/08/2019,2019,Houston Texans,24,Denver Broncos,38,Houston Texans,8.0,42.5,NRG Stadium,72.0,,indoor
+12/08/2019,2019,Jacksonville Jaguars,10,Los Angeles Chargers,45,San Diego Chargers,3.0,42.0,TIAA Bank Field,,,
+12/08/2019,2019,Los Angeles Rams,28,Seattle Seahawks,12,St. Louis Rams,1.0,47.5,Los Angeles Memorial Coliseum,,,
+12/08/2019,2019,Minnesota Vikings,20,Detroit Lions,7,Minnesota Vikings,11.5,44.0,U.S. Bank Stadium,72.0,,indoor
+12/08/2019,2019,New England Patriots,16,Kansas City Chiefs,23,New England Patriots,3.0,48.5,Gillette Stadium,,,
+12/08/2019,2019,New Orleans Saints,46,San Francisco 49ers,48,New Orleans Saints,1.5,45.0,Mercedes-Benz Superdome,72.0,,indoor
+12/08/2019,2019,New York Jets,22,Miami Dolphins,21,New York Jets,5.0,47.0,MetLife Stadium,,,
+12/08/2019,2019,Oakland Raiders,21,Tennessee Titans,42,Tennessee Titans,2.5,47.0,Oakland Coliseum,,,
+12/08/2019,2019,Tampa Bay Buccaneers,38,Indianapolis Colts,35,Tampa Bay Buccaneers,3.0,46.5,Raymond James Stadium,,,
+12/09/2019,2019,Philadelphia Eagles,23,New York Giants,17,Philadelphia Eagles,9.5,45.0,Lincoln Financial Field,,,
+12/12/2019,2019,Baltimore Ravens,42,New York Jets,21,Baltimore Ravens,17.0,44.0,M&T Bank Stadium,,,
+12/15/2019,2019,Arizona Cardinals,38,Cleveland Browns,24,Cleveland Browns,3.0,49.0,University of Phoenix Stadium,72.0,,indoor
+12/15/2019,2019,Carolina Panthers,24,Seattle Seahawks,30,Seattle Seahawks,6.0,48.5,Bank of America Stadium,,,
+12/15/2019,2019,Cincinnati Bengals,13,New England Patriots,34,New England Patriots,10.5,41.5,Paul Brown Stadium,,,
+12/15/2019,2019,Dallas Cowboys,44,Los Angeles Rams,21,St. Louis Rams,1.0,48.5,AT&T Stadium,72.0,,indoor
+12/15/2019,2019,Detroit Lions,17,Tampa Bay Buccaneers,38,Tampa Bay Buccaneers,6.0,46.0,Ford Field,72.0,,indoor
+12/15/2019,2019,Green Bay Packers,21,Chicago Bears,13,Green Bay Packers,4.5,41.0,Lambeau Field,,,
+12/15/2019,2019,Kansas City Chiefs,23,Denver Broncos,3,Kansas City Chiefs,9.0,43.0,Arrowhead Stadium,,,
+12/15/2019,2019,Los Angeles Chargers,10,Minnesota Vikings,39,Minnesota Vikings,1.0,45.0,Dignity Health Sports Park,,,
+12/15/2019,2019,New York Giants,36,Miami Dolphins,20,New York Giants,3.5,46.5,MetLife Stadium,,,
+12/15/2019,2019,Oakland Raiders,16,Jacksonville Jaguars,20,Oakland Raiders,6.5,46.0,Oakland Coliseum,,,
+12/15/2019,2019,Pittsburgh Steelers,10,Buffalo Bills,17,Pittsburgh Steelers,1.0,37.0,Heinz Field,,,
+12/15/2019,2019,San Francisco 49ers,22,Atlanta Falcons,29,San Francisco 49ers,10.0,49.5,Levi's Stadium,,,
+12/15/2019,2019,Tennessee Titans,21,Houston Texans,24,Tennessee Titans,3.0,50.0,Nissan Stadium,,,
+12/15/2019,2019,Washington Redskins,27,Philadelphia Eagles,37,Philadelphia Eagles,6.5,38.5,FedEx Field,,,
+12/16/2019,2019,New Orleans Saints,34,Indianapolis Colts,7,New Orleans Saints,8.5,49.0,Mercedes-Benz Superdome,72.0,,indoor
+12/21/2019,2019,New England Patriots,24,Buffalo Bills,17,New England Patriots,6.5,38.5,Gillette Stadium,,,
+12/21/2019,2019,San Francisco 49ers,34,Los Angeles Rams,31,San Francisco 49ers,7.0,45.5,Levi's Stadium,,,
+12/21/2019,2019,Tampa Bay Buccaneers,20,Houston Texans,23,Houston Texans,3.0,50.5,Raymond James Stadium,,,
+12/22/2019,2019,Atlanta Falcons,24,Jacksonville Jaguars,12,Atlanta Falcons,7.0,48.0,Mercedes-Benz Stadium,72.0,,indoor
+12/22/2019,2019,Chicago Bears,3,Kansas City Chiefs,26,Kansas City Chiefs,7.0,45.5,Soldier Field,,,
+12/22/2019,2019,Cleveland Browns,15,Baltimore Ravens,31,Baltimore Ravens,10.0,49.0,FirstEnergy Stadium,,,
+12/22/2019,2019,Denver Broncos,27,Detroit Lions,17,Denver Broncos,7.5,40.0,Sports Authority Field at Mile High,,,
+12/22/2019,2019,Indianapolis Colts,38,Carolina Panthers,6,Indianapolis Colts,7.0,46.5,Lucas Oil Stadium,72.0,,indoor
+12/22/2019,2019,Los Angeles Chargers,17,Oakland Raiders,24,San Diego Chargers,7.5,45.0,Dignity Health Sports Park,,,
+12/22/2019,2019,Miami Dolphins,38,Cincinnati Bengals,35,Cincinnati Bengals,1.5,45.0,Hard Rock Stadium,,,
+12/22/2019,2019,New York Jets,16,Pittsburgh Steelers,10,Pittsburgh Steelers,3.0,36.5,MetLife Stadium,,,
+12/22/2019,2019,Philadelphia Eagles,17,Dallas Cowboys,9,Dallas Cowboys,2.0,46.5,Lincoln Financial Field,,,
+12/22/2019,2019,Seattle Seahawks,13,Arizona Cardinals,27,Seattle Seahawks,8.0,51.0,CenturyLink Field,,,
+12/22/2019,2019,Tennessee Titans,28,New Orleans Saints,38,New Orleans Saints,3.0,49.0,Nissan Stadium,,,
+12/22/2019,2019,Washington Redskins,35,New York Giants,41,New York Giants,1.0,42.0,FedEx Field,,,
+12/23/2019,2019,Minnesota Vikings,10,Green Bay Packers,23,Minnesota Vikings,4.0,46.5,U.S. Bank Stadium,72.0,,indoor
+12/29/2019,2019,Baltimore Ravens,28,Pittsburgh Steelers,10,Pittsburgh Steelers,1.0,35.0,M&T Bank Stadium,,,
+12/29/2019,2019,Buffalo Bills,6,New York Jets,13,New York Jets,1.0,37.0,New Era Field,,,
+12/29/2019,2019,Carolina Panthers,10,New Orleans Saints,42,New Orleans Saints,14.0,44.5,Bank of America Stadium,,,
+12/29/2019,2019,Cincinnati Bengals,33,Cleveland Browns,23,Cleveland Browns,2.5,43.5,Paul Brown Stadium,,,
+12/29/2019,2019,Dallas Cowboys,47,Washington Redskins,16,Dallas Cowboys,12.5,47.5,AT&T Stadium,72.0,,indoor
+12/29/2019,2019,Denver Broncos,16,Oakland Raiders,15,Denver Broncos,4.5,41.0,Sports Authority Field at Mile High,,,
+12/29/2019,2019,Detroit Lions,20,Green Bay Packers,23,Green Bay Packers,13.0,44.0,Ford Field,72.0,,indoor
+12/29/2019,2019,Houston Texans,14,Tennessee Titans,35,Tennessee Titans,10.0,43.0,NRG Stadium,72.0,,indoor
+12/29/2019,2019,Jacksonville Jaguars,38,Indianapolis Colts,20,Indianapolis Colts,5.5,41.5,TIAA Bank Field,,,
+12/29/2019,2019,Kansas City Chiefs,31,Los Angeles Chargers,21,Kansas City Chiefs,9.5,46.0,Arrowhead Stadium,,,
+12/29/2019,2019,Los Angeles Rams,31,Arizona Cardinals,24,St. Louis Rams,7.0,45.5,Los Angeles Memorial Coliseum,,,
+12/29/2019,2019,Minnesota Vikings,19,Chicago Bears,21,Chicago Bears,4.5,36.0,U.S. Bank Stadium,72.0,,indoor
+12/29/2019,2019,New England Patriots,24,Miami Dolphins,27,New England Patriots,17.0,45.5,Gillette Stadium,,,
+12/29/2019,2019,New York Giants,17,Philadelphia Eagles,34,Philadelphia Eagles,3.5,44.5,MetLife Stadium,,,
+12/29/2019,2019,Seattle Seahawks,21,San Francisco 49ers,26,San Francisco 49ers,3.5,47.0,CenturyLink Field,,,
+12/29/2019,2019,Tampa Bay Buccaneers,22,Atlanta Falcons,28,Tampa Bay Buccaneers,1.0,48.5,Raymond James Stadium,,,
+09/10/2020,2020,Kansas City Chiefs,34,Houston Texans,20,Kansas City Chiefs,9.0,54.0,Arrowhead Stadium,,,
+09/13/2020,2020,Atlanta Falcons,25,Seattle Seahawks,38,Seattle Seahawks,1.0,49.0,Mercedes-Benz Stadium,72.0,,indoor
+09/13/2020,2020,Baltimore Ravens,38,Cleveland Browns,6,Baltimore Ravens,7.0,47.5,M&T Bank Stadium,,,
+09/13/2020,2020,Buffalo Bills,27,New York Jets,17,Buffalo Bills,6.5,39.5,New Era Field,,,
+09/13/2020,2020,Carolina Panthers,30,Las Vegas Raiders,34,Oakland Raiders,3.0,48.0,Bank of America Stadium,,,
+09/13/2020,2020,Cincinnati Bengals,13,Los Angeles Chargers,16,San Diego Chargers,3.0,41.5,Paul Brown Stadium,,,
+09/13/2020,2020,Detroit Lions,23,Chicago Bears,27,Detroit Lions,2.5,42.5,Ford Field,72.0,,indoor
+09/13/2020,2020,Jacksonville Jaguars,27,Indianapolis Colts,20,Indianapolis Colts,8.0,45.0,TIAA Bank Field,,,
+09/13/2020,2020,Los Angeles Rams,20,Dallas Cowboys,17,Dallas Cowboys,2.0,51.5,SoFi Stadium,72.0,,indoor
+09/13/2020,2020,Minnesota Vikings,34,Green Bay Packers,43,Minnesota Vikings,2.5,44.5,U.S. Bank Stadium,72.0,,indoor
+09/13/2020,2020,New England Patriots,21,Miami Dolphins,11,New England Patriots,7.0,41.5,Gillette Stadium,,,
+09/13/2020,2020,New Orleans Saints,34,Tampa Bay Buccaneers,23,New Orleans Saints,3.5,47.5,Mercedes-Benz Superdome,72.0,,indoor
+09/13/2020,2020,San Francisco 49ers,20,Arizona Cardinals,24,San Francisco 49ers,6.5,48.0,Levi's Stadium,,,
+09/13/2020,2020,Washington Football Team,27,Philadelphia Eagles,17,Philadelphia Eagles,5.0,42.0,FedEx Field,,,
+09/14/2020,2020,Denver Broncos,14,Tennessee Titans,16,Tennessee Titans,3.0,41.0,Sports Authority Field at Mile High,,,
+09/14/2020,2020,New York Giants,16,Pittsburgh Steelers,26,Pittsburgh Steelers,5.5,45.0,MetLife Stadium,,,
+09/17/2020,2020,Cleveland Browns,35,Cincinnati Bengals,30,Cleveland Browns,6.0,43.0,FirstEnergy Stadium,,,
+09/20/2020,2020,Arizona Cardinals,30,Washington Football Team,15,Arizona Cardinals,7.0,46.5,University of Phoenix Stadium,72.0,,indoor
+09/20/2020,2020,Chicago Bears,17,New York Giants,13,Chicago Bears,5.5,42.0,Soldier Field,,,
+09/20/2020,2020,Dallas Cowboys,40,Atlanta Falcons,39,Dallas Cowboys,3.5,53.5,AT&T Stadium,72.0,,indoor
+09/20/2020,2020,Green Bay Packers,42,Detroit Lions,21,Green Bay Packers,6.0,50.0,Lambeau Field,,,
+09/20/2020,2020,Houston Texans,16,Baltimore Ravens,33,Baltimore Ravens,7.0,49.0,NRG Stadium,72.0,,indoor
+09/20/2020,2020,Indianapolis Colts,28,Minnesota Vikings,11,Indianapolis Colts,3.0,49.0,Lucas Oil Stadium,72.0,,indoor
+09/20/2020,2020,Los Angeles Chargers,20,Kansas City Chiefs,23,Kansas City Chiefs,8.5,47.5,SoFi Stadium,72.0,,indoor
+09/20/2020,2020,Miami Dolphins,28,Buffalo Bills,31,Buffalo Bills,5.5,42.0,Hard Rock Stadium,,,
+09/20/2020,2020,New York Jets,13,San Francisco 49ers,31,San Francisco 49ers,7.0,41.5,MetLife Stadium,,,
+09/20/2020,2020,Philadelphia Eagles,19,Los Angeles Rams,37,Philadelphia Eagles,1.5,45.5,Lincoln Financial Field,,,
+09/20/2020,2020,Pittsburgh Steelers,26,Denver Broncos,21,Pittsburgh Steelers,6.5,40.5,Heinz Field,,,
+09/20/2020,2020,Seattle Seahawks,35,New England Patriots,30,Seattle Seahawks,4.0,44.5,CenturyLink Field,,,
+09/20/2020,2020,Tampa Bay Buccaneers,31,Carolina Panthers,17,Tampa Bay Buccaneers,8.0,47.0,Raymond James Stadium,,,
+09/20/2020,2020,Tennessee Titans,33,Jacksonville Jaguars,30,Tennessee Titans,7.5,44.0,Nissan Stadium,,,
+09/21/2020,2020,Las Vegas Raiders,34,New Orleans Saints,24,New Orleans Saints,5.5,48.5,Allegiant Stadium,72.0,,indoor
+09/24/2020,2020,Jacksonville Jaguars,13,Miami Dolphins,31,Jacksonville Jaguars,3.0,48.0,TIAA Bank Field,,,
+09/27/2020,2020,Arizona Cardinals,23,Detroit Lions,26,Arizona Cardinals,5.5,55.5,University of Phoenix Stadium,72.0,,indoor
+09/27/2020,2020,Atlanta Falcons,26,Chicago Bears,30,Atlanta Falcons,3.0,47.0,Mercedes-Benz Stadium,72.0,,indoor
+09/27/2020,2020,Buffalo Bills,35,Los Angeles Rams,32,Buffalo Bills,2.0,47.0,New Era Field,,,
+09/27/2020,2020,Cleveland Browns,34,Washington Football Team,20,Cleveland Browns,7.0,44.5,FirstEnergy Stadium,,,
+09/27/2020,2020,Denver Broncos,10,Tampa Bay Buccaneers,28,Tampa Bay Buccaneers,6.0,42.5,Sports Authority Field at Mile High,,,
+09/27/2020,2020,Indianapolis Colts,36,New York Jets,7,Indianapolis Colts,11.5,44.0,Lucas Oil Stadium,72.0,,indoor
+09/27/2020,2020,Los Angeles Chargers,16,Carolina Panthers,21,San Diego Chargers,6.5,43.5,SoFi Stadium,72.0,,indoor
+09/27/2020,2020,Minnesota Vikings,30,Tennessee Titans,31,Tennessee Titans,2.5,50.0,U.S. Bank Stadium,72.0,,indoor
+09/27/2020,2020,New England Patriots,36,Las Vegas Raiders,20,New England Patriots,6.5,47.0,Gillette Stadium,,,
+09/27/2020,2020,New Orleans Saints,30,Green Bay Packers,37,New Orleans Saints,3.0,53.0,Mercedes-Benz Superdome,72.0,,indoor
+09/27/2020,2020,New York Giants,9,San Francisco 49ers,36,San Francisco 49ers,3.0,43.0,MetLife Stadium,,,
+09/27/2020,2020,Philadelphia Eagles,23,Cincinnati Bengals,23,Philadelphia Eagles,4.5,47.5,Lincoln Financial Field,,,
+09/27/2020,2020,Pittsburgh Steelers,28,Houston Texans,21,Pittsburgh Steelers,4.0,46.0,Heinz Field,,,
+09/27/2020,2020,Seattle Seahawks,38,Dallas Cowboys,31,Seattle Seahawks,5.0,56.5,CenturyLink Field,,,
+09/28/2020,2020,Baltimore Ravens,20,Kansas City Chiefs,34,Baltimore Ravens,3.0,54.0,M&T Bank Stadium,,,
+10/01/2020,2020,New York Jets,28,Denver Broncos,37,New York Jets,1.5,41.0,MetLife Stadium,,,
+10/04/2020,2020,Carolina Panthers,31,Arizona Cardinals,21,Arizona Cardinals,3.0,51.5,Bank of America Stadium,,,
+10/04/2020,2020,Chicago Bears,11,Indianapolis Colts,19,Indianapolis Colts,3.0,43.0,Soldier Field,,,
+10/04/2020,2020,Cincinnati Bengals,33,Jacksonville Jaguars,25,Cincinnati Bengals,2.5,49.0,Paul Brown Stadium,,,
+10/04/2020,2020,Dallas Cowboys,38,Cleveland Browns,49,Dallas Cowboys,3.5,56.0,AT&T Stadium,72.0,,indoor
+10/04/2020,2020,Detroit Lions,29,New Orleans Saints,35,New Orleans Saints,3.0,54.5,Ford Field,72.0,,indoor
+10/04/2020,2020,Houston Texans,23,Minnesota Vikings,31,Houston Texans,3.5,53.5,NRG Stadium,72.0,,indoor
+10/04/2020,2020,Las Vegas Raiders,23,Buffalo Bills,30,Buffalo Bills,3.0,53.0,Allegiant Stadium,72.0,,indoor
+10/04/2020,2020,Los Angeles Rams,17,New York Giants,9,St. Louis Rams,13.0,48.5,SoFi Stadium,72.0,,indoor
+10/04/2020,2020,Miami Dolphins,23,Seattle Seahawks,31,Seattle Seahawks,5.5,54.5,Hard Rock Stadium,,,
+10/04/2020,2020,San Francisco 49ers,20,Philadelphia Eagles,25,San Francisco 49ers,7.5,45.0,Levi's Stadium,,,
+10/04/2020,2020,Tampa Bay Buccaneers,38,Los Angeles Chargers,31,Tampa Bay Buccaneers,7.0,42.5,Raymond James Stadium,,,
+10/04/2020,2020,Washington Football Team,17,Baltimore Ravens,31,Baltimore Ravens,14.0,45.0,FedEx Field,,,
+10/05/2020,2020,Green Bay Packers,30,Atlanta Falcons,16,Green Bay Packers,7.0,56.5,Lambeau Field,,,
+10/05/2020,2020,Kansas City Chiefs,26,New England Patriots,10,Kansas City Chiefs,7.0,53.0,Arrowhead Stadium,,,
+10/08/2020,2020,Chicago Bears,20,Tampa Bay Buccaneers,19,Tampa Bay Buccaneers,3.5,44.5,Soldier Field,,,
+10/11/2020,2020,Atlanta Falcons,16,Carolina Panthers,23,Atlanta Falcons,2.5,54.0,Mercedes-Benz Stadium,72.0,,indoor
+10/11/2020,2020,Baltimore Ravens,27,Cincinnati Bengals,3,Baltimore Ravens,11.0,50.5,M&T Bank Stadium,,,
+10/11/2020,2020,Cleveland Browns,32,Indianapolis Colts,23,Cleveland Browns,1.0,48.0,FirstEnergy Stadium,,,
+10/11/2020,2020,Dallas Cowboys,37,New York Giants,34,Dallas Cowboys,8.0,53.0,AT&T Stadium,72.0,,indoor
+10/11/2020,2020,Houston Texans,30,Jacksonville Jaguars,14,Houston Texans,5.5,54.5,NRG Stadium,72.0,,indoor
+10/11/2020,2020,Kansas City Chiefs,32,Las Vegas Raiders,40,Kansas City Chiefs,10.5,54.5,Arrowhead Stadium,,,
+10/11/2020,2020,New York Jets,10,Arizona Cardinals,30,Arizona Cardinals,7.0,47.5,MetLife Stadium,,,
+10/11/2020,2020,Pittsburgh Steelers,38,Philadelphia Eagles,29,Pittsburgh Steelers,7.0,43.5,Heinz Field,,,
+10/11/2020,2020,San Francisco 49ers,17,Miami Dolphins,43,San Francisco 49ers,7.5,51.0,Levi's Stadium,,,
+10/11/2020,2020,Seattle Seahawks,27,Minnesota Vikings,26,Seattle Seahawks,6.5,56.5,CenturyLink Field,,,
+10/11/2020,2020,Washington Football Team,10,Los Angeles Rams,30,St. Louis Rams,7.0,46.0,FedEx Field,,,
+10/12/2020,2020,New Orleans Saints,30,Los Angeles Chargers,27,New Orleans Saints,7.0,49.5,Mercedes-Benz Superdome,72.0,,indoor
+10/13/2020,2020,Tennessee Titans,42,Buffalo Bills,16,Buffalo Bills,3.5,53.0,Nissan Stadium,,,
+10/18/2020,2020,Carolina Panthers,16,Chicago Bears,23,Carolina Panthers,1.5,44.5,Bank of America Stadium,,,
+10/18/2020,2020,Indianapolis Colts,31,Cincinnati Bengals,27,Indianapolis Colts,7.5,45.5,Lucas Oil Stadium,72.0,,indoor
+10/18/2020,2020,Jacksonville Jaguars,16,Detroit Lions,34,Detroit Lions,3.0,54.5,TIAA Bank Field,,,
+10/18/2020,2020,Miami Dolphins,24,New York Jets,0,Miami Dolphins,9.0,47.0,Hard Rock Stadium,,,
+10/18/2020,2020,Minnesota Vikings,23,Atlanta Falcons,40,Minnesota Vikings,4.0,54.0,U.S. Bank Stadium,72.0,,indoor
+10/18/2020,2020,New England Patriots,12,Denver Broncos,18,New England Patriots,8.0,45.0,Gillette Stadium,,,
+10/18/2020,2020,New York Giants,20,Washington Football Team,19,New York Giants,2.5,43.0,MetLife Stadium,,,
+10/18/2020,2020,Philadelphia Eagles,28,Baltimore Ravens,30,Baltimore Ravens,10.0,46.5,Lincoln Financial Field,,,
+10/18/2020,2020,Pittsburgh Steelers,38,Cleveland Browns,7,Pittsburgh Steelers,3.0,51.0,Heinz Field,,,
+10/18/2020,2020,San Francisco 49ers,24,Los Angeles Rams,16,St. Louis Rams,2.5,51.5,Levi's Stadium,,,
+10/18/2020,2020,Tampa Bay Buccaneers,38,Green Bay Packers,10,Green Bay Packers,1.0,55.0,Raymond James Stadium,,,
+10/18/2020,2020,Tennessee Titans,42,Houston Texans,36,Tennessee Titans,3.5,53.5,Nissan Stadium,,,
+10/19/2020,2020,Buffalo Bills,17,Kansas City Chiefs,26,Kansas City Chiefs,5.0,57.5,New Era Field,,,
+10/19/2020,2020,Dallas Cowboys,10,Arizona Cardinals,38,Arizona Cardinals,1.0,55.0,AT&T Stadium,72.0,,indoor
+10/22/2020,2020,Philadelphia Eagles,22,New York Giants,21,Philadelphia Eagles,4.5,45.0,Lincoln Financial Field,,,
+10/25/2020,2020,Arizona Cardinals,37,Seattle Seahawks,34,Seattle Seahawks,3.5,56.0,University of Phoenix Stadium,72.0,,indoor
+10/25/2020,2020,Atlanta Falcons,22,Detroit Lions,23,Atlanta Falcons,2.0,55.0,Mercedes-Benz Stadium,72.0,,indoor
+10/25/2020,2020,Cincinnati Bengals,34,Cleveland Browns,37,Cleveland Browns,3.0,51.0,Paul Brown Stadium,,,
+10/25/2020,2020,Denver Broncos,16,Kansas City Chiefs,43,Kansas City Chiefs,7.0,46.0,Sports Authority Field at Mile High,,,
+10/25/2020,2020,Houston Texans,20,Green Bay Packers,35,Green Bay Packers,3.0,57.0,NRG Stadium,72.0,,indoor
+10/25/2020,2020,Las Vegas Raiders,20,Tampa Bay Buccaneers,45,Tampa Bay Buccaneers,3.5,52.0,Allegiant Stadium,72.0,,indoor
+10/25/2020,2020,Los Angeles Chargers,39,Jacksonville Jaguars,29,San Diego Chargers,7.5,48.5,SoFi Stadium,72.0,,indoor
+10/25/2020,2020,New England Patriots,6,San Francisco 49ers,33,New England Patriots,3.0,44.5,Gillette Stadium,,,
+10/25/2020,2020,New Orleans Saints,27,Carolina Panthers,24,New Orleans Saints,6.5,50.0,Mercedes-Benz Superdome,72.0,,indoor
+10/25/2020,2020,New York Jets,10,Buffalo Bills,18,Buffalo Bills,10.0,46.0,MetLife Stadium,,,
+10/25/2020,2020,Tennessee Titans,24,Pittsburgh Steelers,27,Tennessee Titans,1.0,51.0,Nissan Stadium,,,
+10/25/2020,2020,Washington Football Team,25,Dallas Cowboys,3,Washington Redskins,1.0,45.0,FedEx Field,,,
+10/26/2020,2020,Los Angeles Rams,24,Chicago Bears,10,St. Louis Rams,6.0,45.0,SoFi Stadium,72.0,,indoor
+10/29/2020,2020,Carolina Panthers,17,Atlanta Falcons,25,Carolina Panthers,2.0,51.0,Bank of America Stadium,,,
+11/01/2020,2020,Baltimore Ravens,24,Pittsburgh Steelers,28,Baltimore Ravens,4.0,46.0,M&T Bank Stadium,,,
+11/01/2020,2020,Buffalo Bills,24,New England Patriots,21,Buffalo Bills,4.5,40.5,New Era Field,,,
+11/01/2020,2020,Chicago Bears,23,New Orleans Saints,26,New Orleans Saints,4.0,43.0,Soldier Field,,,
+11/01/2020,2020,Cincinnati Bengals,31,Tennessee Titans,20,Tennessee Titans,7.0,50.5,Paul Brown Stadium,,,
+11/01/2020,2020,Cleveland Browns,6,Las Vegas Raiders,16,Cleveland Browns,1.5,48.0,FirstEnergy Stadium,,,
+11/01/2020,2020,Denver Broncos,31,Los Angeles Chargers,30,San Diego Chargers,3.5,44.5,Sports Authority Field at Mile High,,,
+11/01/2020,2020,Detroit Lions,21,Indianapolis Colts,41,Indianapolis Colts,3.0,49.5,Ford Field,72.0,,indoor
+11/01/2020,2020,Green Bay Packers,22,Minnesota Vikings,28,Green Bay Packers,6.5,50.0,Lambeau Field,,,
+11/01/2020,2020,Kansas City Chiefs,35,New York Jets,9,Kansas City Chiefs,19.5,49.0,Arrowhead Stadium,,,
+11/01/2020,2020,Miami Dolphins,28,Los Angeles Rams,17,St. Louis Rams,3.5,45.5,Hard Rock Stadium,,,
+11/01/2020,2020,Philadelphia Eagles,23,Dallas Cowboys,9,Philadelphia Eagles,11.5,42.5,Lincoln Financial Field,,,
+11/01/2020,2020,Seattle Seahawks,37,San Francisco 49ers,27,Seattle Seahawks,3.0,53.5,CenturyLink Field,,,
+11/02/2020,2020,New York Giants,23,Tampa Bay Buccaneers,25,Tampa Bay Buccaneers,12.5,45.0,MetLife Stadium,,,
+11/05/2020,2020,San Francisco 49ers,17,Green Bay Packers,34,Green Bay Packers,7.5,48.5,Levi's Stadium,,,
+11/08/2020,2020,Arizona Cardinals,31,Miami Dolphins,34,Arizona Cardinals,5.5,49.0,University of Phoenix Stadium,72.0,,indoor
+11/08/2020,2020,Atlanta Falcons,34,Denver Broncos,27,Atlanta Falcons,4.0,49.0,Mercedes-Benz Stadium,72.0,,indoor
+11/08/2020,2020,Buffalo Bills,44,Seattle Seahawks,34,Seattle Seahawks,3.0,55.0,New Era Field,,,
+11/08/2020,2020,Dallas Cowboys,19,Pittsburgh Steelers,24,Pittsburgh Steelers,14.0,44.0,AT&T Stadium,72.0,,indoor
+11/08/2020,2020,Indianapolis Colts,10,Baltimore Ravens,24,Baltimore Ravens,1.0,48.0,Lucas Oil Stadium,72.0,,indoor
+11/08/2020,2020,Jacksonville Jaguars,25,Houston Texans,27,Houston Texans,6.5,49.5,TIAA Bank Field,,,
+11/08/2020,2020,Kansas City Chiefs,33,Carolina Panthers,31,Kansas City Chiefs,10.0,51.5,Arrowhead Stadium,,,
+11/08/2020,2020,Los Angeles Chargers,26,Las Vegas Raiders,31,Oakland Raiders,1.0,52.5,SoFi Stadium,72.0,,indoor
+11/08/2020,2020,Minnesota Vikings,34,Detroit Lions,20,Minnesota Vikings,4.0,52.0,U.S. Bank Stadium,72.0,,indoor
+11/08/2020,2020,Tampa Bay Buccaneers,3,New Orleans Saints,38,Tampa Bay Buccaneers,4.0,50.5,Raymond James Stadium,,,
+11/08/2020,2020,Tennessee Titans,24,Chicago Bears,17,Tennessee Titans,6.5,47.0,Nissan Stadium,,,
+11/08/2020,2020,Washington Football Team,20,New York Giants,23,Washington Redskins,2.5,43.0,FedEx Field,,,
+11/09/2020,2020,New York Jets,27,New England Patriots,30,New England Patriots,9.5,41.5,MetLife Stadium,,,
+11/12/2020,2020,Tennessee Titans,17,Indianapolis Colts,34,Tennessee Titans,1.0,48.5,Nissan Stadium,,,
+11/15/2020,2020,Arizona Cardinals,32,Buffalo Bills,30,Arizona Cardinals,2.5,56.0,University of Phoenix Stadium,72.0,,indoor
+11/15/2020,2020,Carolina Panthers,23,Tampa Bay Buccaneers,46,Tampa Bay Buccaneers,6.0,51.0,Bank of America Stadium,,,
+11/15/2020,2020,Cleveland Browns,10,Houston Texans,7,Cleveland Browns,4.0,45.5,FirstEnergy Stadium,,,
+11/15/2020,2020,Detroit Lions,30,Washington Football Team,27,Detroit Lions,3.0,46.0,Ford Field,72.0,,indoor
+11/15/2020,2020,Green Bay Packers,24,Jacksonville Jaguars,20,Green Bay Packers,14.0,47.5,Lambeau Field,,,
+11/15/2020,2020,Las Vegas Raiders,37,Denver Broncos,12,Oakland Raiders,3.5,50.5,Allegiant Stadium,72.0,,indoor
+11/15/2020,2020,Los Angeles Rams,23,Seattle Seahawks,16,St. Louis Rams,3.0,54.5,SoFi Stadium,72.0,,indoor
+11/15/2020,2020,Miami Dolphins,29,Los Angeles Chargers,21,Miami Dolphins,2.0,48.5,Hard Rock Stadium,,,
+11/15/2020,2020,New England Patriots,23,Baltimore Ravens,17,Baltimore Ravens,7.0,43.5,Gillette Stadium,,,
+11/15/2020,2020,New Orleans Saints,27,San Francisco 49ers,13,New Orleans Saints,9.5,49.5,Mercedes-Benz Superdome,72.0,,indoor
+11/15/2020,2020,New York Giants,27,Philadelphia Eagles,17,Philadelphia Eagles,4.0,44.5,MetLife Stadium,,,
+11/15/2020,2020,Pittsburgh Steelers,36,Cincinnati Bengals,10,Pittsburgh Steelers,7.0,46.5,Heinz Field,,,
+11/16/2020,2020,Chicago Bears,13,Minnesota Vikings,19,Minnesota Vikings,3.0,43.5,Soldier Field,,,
+11/19/2020,2020,Seattle Seahawks,28,Arizona Cardinals,21,Seattle Seahawks,3.0,57.5,CenturyLink Field,,,
+11/22/2020,2020,Baltimore Ravens,24,Tennessee Titans,30,Baltimore Ravens,6.0,50.0,M&T Bank Stadium,,,
+11/22/2020,2020,Carolina Panthers,20,Detroit Lions,0,Detroit Lions,1.5,46.5,Bank of America Stadium,,,
+11/22/2020,2020,Cleveland Browns,22,Philadelphia Eagles,17,Cleveland Browns,3.0,47.0,FirstEnergy Stadium,,,
+11/22/2020,2020,Denver Broncos,20,Miami Dolphins,13,Miami Dolphins,3.5,46.0,Sports Authority Field at Mile High,,,
+11/22/2020,2020,Houston Texans,27,New England Patriots,20,New England Patriots,2.5,49.0,NRG Stadium,72.0,,indoor
+11/22/2020,2020,Indianapolis Colts,34,Green Bay Packers,31,Indianapolis Colts,1.5,51.5,Lucas Oil Stadium,72.0,,indoor
+11/22/2020,2020,Jacksonville Jaguars,3,Pittsburgh Steelers,27,Pittsburgh Steelers,10.5,46.0,TIAA Bank Field,,,
+11/22/2020,2020,Las Vegas Raiders,31,Kansas City Chiefs,35,Kansas City Chiefs,7.5,57.0,Allegiant Stadium,72.0,,indoor
+11/22/2020,2020,Los Angeles Chargers,34,New York Jets,28,San Diego Chargers,9.5,46.5,SoFi Stadium,72.0,,indoor
+11/22/2020,2020,Minnesota Vikings,28,Dallas Cowboys,31,Minnesota Vikings,7.0,48.5,U.S. Bank Stadium,72.0,,indoor
+11/22/2020,2020,New Orleans Saints,24,Atlanta Falcons,9,New Orleans Saints,3.5,49.0,Mercedes-Benz Superdome,72.0,,indoor
+11/22/2020,2020,Washington Football Team,20,Cincinnati Bengals,9,Washington Redskins,1.5,47.0,FedEx Field,,,
+11/23/2020,2020,Tampa Bay Buccaneers,24,Los Angeles Rams,27,Tampa Bay Buccaneers,4.5,48.0,Raymond James Stadium,,,
+11/26/2020,2020,Dallas Cowboys,16,Washington Football Team,41,Dallas Cowboys,3.0,46.0,AT&T Stadium,72.0,,indoor
+11/26/2020,2020,Detroit Lions,25,Houston Texans,41,Houston Texans,3.0,51.0,Ford Field,72.0,,indoor
+11/29/2020,2020,Atlanta Falcons,43,Las Vegas Raiders,6,Oakland Raiders,3.0,53.5,Mercedes-Benz Stadium,72.0,,indoor
+11/29/2020,2020,Buffalo Bills,27,Los Angeles Chargers,17,Buffalo Bills,4.5,52.0,New Era Field,,,
+11/29/2020,2020,Cincinnati Bengals,17,New York Giants,19,New York Giants,6.0,44.5,Paul Brown Stadium,,,
+11/29/2020,2020,Denver Broncos,3,New Orleans Saints,31,New Orleans Saints,14.5,36.5,Sports Authority Field at Mile High,,,
+11/29/2020,2020,Green Bay Packers,41,Chicago Bears,25,Green Bay Packers,9.5,44.0,Lambeau Field,,,
+11/29/2020,2020,Indianapolis Colts,26,Tennessee Titans,45,Indianapolis Colts,3.0,51.5,Lucas Oil Stadium,72.0,,indoor
+11/29/2020,2020,Jacksonville Jaguars,25,Cleveland Browns,27,Cleveland Browns,7.0,48.5,TIAA Bank Field,,,
+11/29/2020,2020,Los Angeles Rams,20,San Francisco 49ers,23,St. Louis Rams,6.5,44.5,SoFi Stadium,72.0,,indoor
+11/29/2020,2020,Minnesota Vikings,28,Carolina Panthers,27,Minnesota Vikings,3.0,50.0,U.S. Bank Stadium,72.0,,indoor
+11/29/2020,2020,New England Patriots,20,Arizona Cardinals,17,Arizona Cardinals,2.0,49.0,Gillette Stadium,,,
+11/29/2020,2020,New York Jets,3,Miami Dolphins,20,Miami Dolphins,7.0,44.5,MetLife Stadium,,,
+11/29/2020,2020,Tampa Bay Buccaneers,24,Kansas City Chiefs,27,Kansas City Chiefs,3.5,56.0,Raymond James Stadium,,,
+11/30/2020,2020,Philadelphia Eagles,17,Seattle Seahawks,23,Seattle Seahawks,6.5,49.0,Lincoln Financial Field,,,
+12/02/2020,2020,Pittsburgh Steelers,19,Baltimore Ravens,14,Pittsburgh Steelers,5.0,44.5,Heinz Field,,,
+12/06/2020,2020,Arizona Cardinals,28,Los Angeles Rams,38,St. Louis Rams,2.5,48.5,University of Phoenix Stadium,72.0,,indoor
+12/06/2020,2020,Atlanta Falcons,16,New Orleans Saints,21,New Orleans Saints,2.5,46.0,Mercedes-Benz Stadium,72.0,,indoor
+12/06/2020,2020,Chicago Bears,30,Detroit Lions,34,Chicago Bears,3.0,44.0,Soldier Field,,,
+12/06/2020,2020,Green Bay Packers,30,Philadelphia Eagles,16,Green Bay Packers,8.5,49.5,Lambeau Field,,,
+12/06/2020,2020,Houston Texans,20,Indianapolis Colts,26,Indianapolis Colts,3.5,50.0,NRG Stadium,72.0,,indoor
+12/06/2020,2020,Kansas City Chiefs,22,Denver Broncos,16,Kansas City Chiefs,13.0,51.5,Arrowhead Stadium,,,
+12/06/2020,2020,Los Angeles Chargers,0,New England Patriots,45,San Diego Chargers,2.0,47.0,SoFi Stadium,72.0,,indoor
+12/06/2020,2020,Miami Dolphins,19,Cincinnati Bengals,7,Miami Dolphins,10.0,43.0,Hard Rock Stadium,,,
+12/06/2020,2020,Minnesota Vikings,27,Jacksonville Jaguars,24,Minnesota Vikings,10.0,51.5,U.S. Bank Stadium,72.0,,indoor
+12/06/2020,2020,New York Jets,28,Las Vegas Raiders,31,Oakland Raiders,7.5,48.5,MetLife Stadium,,,
+12/06/2020,2020,Seattle Seahawks,12,New York Giants,17,Seattle Seahawks,11.0,48.0,CenturyLink Field,,,
+12/06/2020,2020,Tennessee Titans,35,Cleveland Browns,41,Tennessee Titans,3.5,53.5,Nissan Stadium,,,
+12/07/2020,2020,Pittsburgh Steelers,17,Washington Football Team,23,Pittsburgh Steelers,6.0,43.5,Heinz Field,,,
+12/07/2020,2020,San Francisco 49ers,24,Buffalo Bills,34,San Francisco 49ers,1.5,48.0,State Farm Stadium,72.0,,indoor
+12/08/2020,2020,Baltimore Ravens,34,Dallas Cowboys,17,Baltimore Ravens,8.5,45.5,M&T Bank Stadium,,,
+12/10/2020,2020,Los Angeles Rams,24,New England Patriots,3,St. Louis Rams,5.0,43.5,SoFi Stadium,72.0,,indoor
+12/13/2020,2020,Buffalo Bills,26,Pittsburgh Steelers,15,Buffalo Bills,2.0,48.5,New Era Field,,,
+12/13/2020,2020,Carolina Panthers,27,Denver Broncos,32,Carolina Panthers,4.0,45.5,Bank of America Stadium,,,
+12/13/2020,2020,Chicago Bears,36,Houston Texans,7,Houston Texans,1.0,46.5,Soldier Field,,,
+12/13/2020,2020,Cincinnati Bengals,7,Dallas Cowboys,30,Dallas Cowboys,3.0,44.0,Paul Brown Stadium,,,
+12/13/2020,2020,Detroit Lions,24,Green Bay Packers,31,Green Bay Packers,9.0,55.5,Ford Field,72.0,,indoor
+12/13/2020,2020,Jacksonville Jaguars,10,Tennessee Titans,31,Tennessee Titans,7.5,53.0,TIAA Bank Field,,,
+12/13/2020,2020,Las Vegas Raiders,27,Indianapolis Colts,44,Indianapolis Colts,2.5,52.0,Allegiant Stadium,72.0,,indoor
+12/13/2020,2020,Los Angeles Chargers,20,Atlanta Falcons,17,San Diego Chargers,1.0,49.0,SoFi Stadium,72.0,,indoor
+12/13/2020,2020,Miami Dolphins,27,Kansas City Chiefs,33,Kansas City Chiefs,7.0,51.5,Hard Rock Stadium,,,
+12/13/2020,2020,New York Giants,7,Arizona Cardinals,26,Arizona Cardinals,3.0,47.5,MetLife Stadium,,,
+12/13/2020,2020,Philadelphia Eagles,24,New Orleans Saints,21,New Orleans Saints,7.5,42.5,Lincoln Financial Field,,,
+12/13/2020,2020,San Francisco 49ers,15,Washington Football Team,23,San Francisco 49ers,3.0,43.5,Levi's Stadium,,,
+12/13/2020,2020,Seattle Seahawks,40,New York Jets,3,Seattle Seahawks,16.5,49.0,CenturyLink Field,,,
+12/13/2020,2020,Tampa Bay Buccaneers,26,Minnesota Vikings,14,Tampa Bay Buccaneers,7.0,52.5,Raymond James Stadium,,,
+12/14/2020,2020,Cleveland Browns,42,Baltimore Ravens,47,Baltimore Ravens,3.0,45.5,FirstEnergy Stadium,,,
+12/17/2020,2020,Las Vegas Raiders,27,Los Angeles Chargers,30,Oakland Raiders,3.5,52.5,Allegiant Stadium,72.0,,indoor
+12/19/2020,2020,Denver Broncos,19,Buffalo Bills,48,Buffalo Bills,6.0,48.0,Sports Authority Field at Mile High,,,
+12/19/2020,2020,Green Bay Packers,24,Carolina Panthers,16,Green Bay Packers,9.0,53.0,Lambeau Field,,,
+12/20/2020,2020,Arizona Cardinals,33,Philadelphia Eagles,26,Arizona Cardinals,6.0,49.5,University of Phoenix Stadium,72.0,,indoor
+12/20/2020,2020,Atlanta Falcons,27,Tampa Bay Buccaneers,31,Tampa Bay Buccaneers,6.0,49.5,Mercedes-Benz Stadium,72.0,,indoor
+12/20/2020,2020,Baltimore Ravens,40,Jacksonville Jaguars,14,Baltimore Ravens,12.5,49.0,M&T Bank Stadium,,,
+12/20/2020,2020,Dallas Cowboys,41,San Francisco 49ers,33,San Francisco 49ers,4.0,45.5,AT&T Stadium,72.0,,indoor
+12/20/2020,2020,Indianapolis Colts,27,Houston Texans,20,Indianapolis Colts,7.5,52.5,Lucas Oil Stadium,72.0,,indoor
+12/20/2020,2020,Los Angeles Rams,20,New York Jets,23,St. Louis Rams,17.0,44.5,SoFi Stadium,72.0,,indoor
+12/20/2020,2020,Miami Dolphins,22,New England Patriots,12,New England Patriots,1.0,40.0,Hard Rock Stadium,,,
+12/20/2020,2020,Minnesota Vikings,27,Chicago Bears,33,Minnesota Vikings,3.0,47.0,U.S. Bank Stadium,72.0,,indoor
+12/20/2020,2020,New Orleans Saints,29,Kansas City Chiefs,32,Kansas City Chiefs,2.5,54.0,Mercedes-Benz Superdome,72.0,,indoor
+12/20/2020,2020,New York Giants,6,Cleveland Browns,20,Cleveland Browns,6.5,44.5,MetLife Stadium,,,
+12/20/2020,2020,Tennessee Titans,46,Detroit Lions,25,Tennessee Titans,8.5,54.0,Nissan Stadium,,,
+12/20/2020,2020,Washington Football Team,15,Seattle Seahawks,20,Seattle Seahawks,6.0,44.0,FedEx Field,,,
+12/21/2020,2020,Cincinnati Bengals,27,Pittsburgh Steelers,17,Pittsburgh Steelers,14.5,40.5,Paul Brown Stadium,,,
+12/25/2020,2020,New Orleans Saints,52,Minnesota Vikings,33,New Orleans Saints,6.5,49.5,Mercedes-Benz Superdome,72.0,,indoor
+12/26/2020,2020,Arizona Cardinals,12,San Francisco 49ers,20,Arizona Cardinals,6.0,49.0,University of Phoenix Stadium,72.0,,indoor
+12/26/2020,2020,Detroit Lions,7,Tampa Bay Buccaneers,47,Tampa Bay Buccaneers,12.0,55.0,Ford Field,72.0,,indoor
+12/26/2020,2020,Las Vegas Raiders,25,Miami Dolphins,26,Miami Dolphins,2.5,50.0,Allegiant Stadium,72.0,,indoor
+12/27/2020,2020,Baltimore Ravens,27,New York Giants,13,Baltimore Ravens,9.5,43.5,M&T Bank Stadium,,,
+12/27/2020,2020,Dallas Cowboys,37,Philadelphia Eagles,17,Philadelphia Eagles,3.0,50.5,AT&T Stadium,72.0,,indoor
+12/27/2020,2020,Green Bay Packers,40,Tennessee Titans,14,Green Bay Packers,3.0,52.5,Lambeau Field,,,
+12/27/2020,2020,Houston Texans,31,Cincinnati Bengals,37,Houston Texans,7.5,46.0,NRG Stadium,72.0,,indoor
+12/27/2020,2020,Jacksonville Jaguars,17,Chicago Bears,41,Chicago Bears,9.5,47.0,TIAA Bank Field,,,
+12/27/2020,2020,Kansas City Chiefs,17,Atlanta Falcons,14,Kansas City Chiefs,11.0,54.0,Arrowhead Stadium,,,
+12/27/2020,2020,Los Angeles Chargers,19,Denver Broncos,16,San Diego Chargers,2.0,47.5,SoFi Stadium,72.0,,indoor
+12/27/2020,2020,New York Jets,23,Cleveland Browns,16,Cleveland Browns,6.5,45.0,MetLife Stadium,,,
+12/27/2020,2020,Pittsburgh Steelers,28,Indianapolis Colts,24,Indianapolis Colts,1.0,42.5,Heinz Field,,,
+12/27/2020,2020,Seattle Seahawks,20,Los Angeles Rams,9,Seattle Seahawks,1.5,48.0,CenturyLink Field,,,
+12/27/2020,2020,Washington Football Team,13,Carolina Panthers,20,Carolina Panthers,1.0,42.0,FedEx Field,,,
+12/28/2020,2020,New England Patriots,9,Buffalo Bills,38,Buffalo Bills,7.0,47.0,Gillette Stadium,,,
+01/03/2021,2020,Buffalo Bills,56,Miami Dolphins,26,Miami Dolphins,3.0,42.5,New Era Field,,,
+01/03/2021,2020,Carolina Panthers,7,New Orleans Saints,33,New Orleans Saints,6.0,46.5,Bank of America Stadium,,,
+01/03/2021,2020,Chicago Bears,16,Green Bay Packers,35,Green Bay Packers,4.5,48.5,Soldier Field,,,
+01/03/2021,2020,Cincinnati Bengals,3,Baltimore Ravens,38,Baltimore Ravens,13.5,45.0,Paul Brown Stadium,,,
+01/03/2021,2020,Cleveland Browns,24,Pittsburgh Steelers,22,Cleveland Browns,10.5,44.5,FirstEnergy Stadium,,,
+01/03/2021,2020,Denver Broncos,31,Las Vegas Raiders,32,Oakland Raiders,2.5,50.5,Sports Authority Field at Mile High,,,
+01/03/2021,2020,Detroit Lions,35,Minnesota Vikings,37,Minnesota Vikings,3.0,53.5,Ford Field,72.0,,indoor
+01/03/2021,2020,Houston Texans,38,Tennessee Titans,41,Tennessee Titans,7.0,55.5,NRG Stadium,72.0,,indoor
+01/03/2021,2020,Indianapolis Colts,28,Jacksonville Jaguars,14,Indianapolis Colts,15.5,48.0,Lucas Oil Stadium,72.0,,indoor
+01/03/2021,2020,Kansas City Chiefs,21,Los Angeles Chargers,38,San Diego Chargers,6.5,43.0,Arrowhead Stadium,,,
+01/03/2021,2020,Los Angeles Rams,18,Arizona Cardinals,7,St. Louis Rams,1.0,42.0,SoFi Stadium,72.0,,indoor
+01/03/2021,2020,New England Patriots,28,New York Jets,14,New England Patriots,3.0,41.0,Gillette Stadium,,,
+01/03/2021,2020,New York Giants,23,Dallas Cowboys,19,Dallas Cowboys,1.5,43.5,MetLife Stadium,,,
+01/03/2021,2020,Philadelphia Eagles,14,Washington Football Team,20,Washington Redskins,6.5,43.5,Lincoln Financial Field,,,
+01/03/2021,2020,San Francisco 49ers,23,Seattle Seahawks,26,Seattle Seahawks,7.0,45.0,Levi's Stadium,,,
+01/03/2021,2020,Tampa Bay Buccaneers,44,Atlanta Falcons,27,Tampa Bay Buccaneers,7.0,51.0,Raymond James Stadium,,,
+09/09/2021,2021,Tampa Bay Buccaneers,31,Dallas Cowboys,29,Tampa Bay Buccaneers,7.5,51.5,Raymond James Stadium,,,
+09/12/2021,2021,Atlanta Falcons,6,Philadelphia Eagles,32,Atlanta Falcons,3.5,48.0,Mercedes-Benz Stadium,72.0,,indoor
+09/12/2021,2021,Buffalo Bills,16,Pittsburgh Steelers,23,Buffalo Bills,6.5,48.5,Highmark Stadium,,,
+09/12/2021,2021,Carolina Panthers,19,New York Jets,14,Carolina Panthers,5.0,44.5,Bank of America Stadium,,,
+09/12/2021,2021,Cincinnati Bengals,27,Minnesota Vikings,24,Minnesota Vikings,3.0,48.0,Paul Brown Stadium,,,
+09/12/2021,2021,Detroit Lions,33,San Francisco 49ers,41,San Francisco 49ers,7.5,46.0,Ford Field,72.0,,indoor
+09/12/2021,2021,Houston Texans,37,Jacksonville Jaguars,21,Jacksonville Jaguars,3.0,44.5,NRG Stadium,72.0,,indoor
+09/12/2021,2021,Indianapolis Colts,16,Seattle Seahawks,28,Seattle Seahawks,2.5,48.5,Lucas Oil Stadium,72.0,,indoor
+09/12/2021,2021,Kansas City Chiefs,33,Cleveland Browns,29,Kansas City Chiefs,6.0,53.0,Arrowhead Stadium,,,
+09/12/2021,2021,Los Angeles Rams,34,Chicago Bears,14,St. Louis Rams,7.5,44.5,SoFi Stadium,72.0,,indoor
+09/12/2021,2021,New England Patriots,16,Miami Dolphins,17,New England Patriots,2.5,44.5,Gillette Stadium,,,
+09/12/2021,2021,New Orleans Saints,38,Green Bay Packers,3,Green Bay Packers,4.0,49.5,TIAA Bank Field,,,
+09/12/2021,2021,New York Giants,13,Denver Broncos,27,Denver Broncos,2.5,42.5,MetLife Stadium,,,
+09/12/2021,2021,Tennessee Titans,13,Arizona Cardinals,38,Tennessee Titans,3.0,51.5,Nissan Stadium,,,
+09/12/2021,2021,Washington Football Team,16,Los Angeles Chargers,20,San Diego Chargers,1.0,44.5,FedEx Field,,,
+09/13/2021,2021,Las Vegas Raiders,33,Baltimore Ravens,27,Baltimore Ravens,4.5,51.0,Allegiant Stadium,72.0,,indoor
+09/16/2021,2021,Washington Football Team,30,New York Giants,29,Washington Redskins,3.0,41.0,FedEx Field,,,
+09/19/2021,2021,Arizona Cardinals,34,Minnesota Vikings,33,Arizona Cardinals,4.0,51.0,University of Phoenix Stadium,72.0,,indoor
+09/19/2021,2021,Baltimore Ravens,36,Kansas City Chiefs,35,Kansas City Chiefs,4.0,55.5,M&T Bank Stadium,,,
+09/19/2021,2021,Carolina Panthers,26,New Orleans Saints,7,New Orleans Saints,3.5,44.0,Bank of America Stadium,,,
+09/19/2021,2021,Chicago Bears,20,Cincinnati Bengals,17,Chicago Bears,3.0,45.0,Soldier Field,,,
+09/19/2021,2021,Cleveland Browns,31,Houston Texans,21,Cleveland Browns,12.5,48.0,FirstEnergy Stadium,,,
+09/19/2021,2021,Indianapolis Colts,24,Los Angeles Rams,27,St. Louis Rams,4.0,47.5,Lucas Oil Stadium,72.0,,indoor
+09/19/2021,2021,Jacksonville Jaguars,13,Denver Broncos,23,Denver Broncos,6.0,45.5,TIAA Bank Field,,,
+09/19/2021,2021,Los Angeles Chargers,17,Dallas Cowboys,20,San Diego Chargers,3.0,55.0,SoFi Stadium,72.0,,indoor
+09/19/2021,2021,Miami Dolphins,0,Buffalo Bills,35,Buffalo Bills,3.0,48.0,Hard Rock Stadium,,,
+09/19/2021,2021,New York Jets,6,New England Patriots,25,New England Patriots,5.5,42.5,MetLife Stadium,,,
+09/19/2021,2021,Philadelphia Eagles,11,San Francisco 49ers,17,San Francisco 49ers,3.5,50.0,Lincoln Financial Field,,,
+09/19/2021,2021,Pittsburgh Steelers,17,Las Vegas Raiders,26,Pittsburgh Steelers,6.0,47.5,Heinz Field,,,
+09/19/2021,2021,Seattle Seahawks,30,Tennessee Titans,33,Seattle Seahawks,5.5,54.0,Lumen Field,,,
+09/19/2021,2021,Tampa Bay Buccaneers,48,Atlanta Falcons,25,Tampa Bay Buccaneers,12.5,52.0,Raymond James Stadium,,,
+09/20/2021,2021,Green Bay Packers,35,Detroit Lions,17,Green Bay Packers,10.5,48.0,Lambeau Field,,,
+09/23/2021,2021,Houston Texans,9,Carolina Panthers,24,Carolina Panthers,8.0,43.0,NRG Stadium,72.0,,indoor
+09/26/2021,2021,Buffalo Bills,43,Washington Football Team,21,Buffalo Bills,7.0,45.5,Highmark Stadium,,,
+09/26/2021,2021,Cleveland Browns,26,Chicago Bears,6,Cleveland Browns,7.5,45.0,FirstEnergy Stadium,,,
+09/26/2021,2021,Denver Broncos,26,New York Jets,0,Denver Broncos,10.0,41.5,Empower Field at Mile High,,,
+09/26/2021,2021,Detroit Lions,17,Baltimore Ravens,19,Baltimore Ravens,7.5,51.0,Ford Field,72.0,,indoor
+09/26/2021,2021,Jacksonville Jaguars,19,Arizona Cardinals,31,Arizona Cardinals,8.0,51.5,TIAA Bank Field,,,
+09/26/2021,2021,Kansas City Chiefs,24,Los Angeles Chargers,30,Kansas City Chiefs,7.0,55.0,Arrowhead Stadium,,,
+09/26/2021,2021,Las Vegas Raiders,31,Miami Dolphins,28,Oakland Raiders,3.5,45.0,Allegiant Stadium,72.0,,indoor
+09/26/2021,2021,Los Angeles Rams,34,Tampa Bay Buccaneers,24,Tampa Bay Buccaneers,1.0,55.0,SoFi Stadium,72.0,,indoor
+09/26/2021,2021,Minnesota Vikings,30,Seattle Seahawks,17,Seattle Seahawks,2.0,54.0,U.S. Bank Stadium,72.0,,indoor
+09/26/2021,2021,New England Patriots,13,New Orleans Saints,28,New England Patriots,3.0,43.5,Gillette Stadium,,,
+09/26/2021,2021,New York Giants,14,Atlanta Falcons,17,New York Giants,2.5,48.0,MetLife Stadium,,,
+09/26/2021,2021,Pittsburgh Steelers,10,Cincinnati Bengals,24,Pittsburgh Steelers,2.5,42.5,Heinz Field,,,
+09/26/2021,2021,San Francisco 49ers,28,Green Bay Packers,30,San Francisco 49ers,3.0,50.5,Levi's Stadium,,,
+09/26/2021,2021,Tennessee Titans,25,Indianapolis Colts,16,Tennessee Titans,5.0,47.0,Nissan Stadium,,,
+09/27/2021,2021,Dallas Cowboys,41,Philadelphia Eagles,21,Dallas Cowboys,3.5,51.5,AT&T Stadium,72.0,,indoor
+09/30/2021,2021,Cincinnati Bengals,24,Jacksonville Jaguars,21,Cincinnati Bengals,7.5,46.0,Paul Brown Stadium,,,
+10/03/2021,2021,Atlanta Falcons,30,Washington Football Team,34,Washington Redskins,2.0,47.5,Mercedes-Benz Stadium,72.0,,indoor
+10/03/2021,2021,Buffalo Bills,40,Houston Texans,0,Buffalo Bills,19.0,47.5,Highmark Stadium,,,
+10/03/2021,2021,Chicago Bears,24,Detroit Lions,14,Chicago Bears,3.0,41.5,Soldier Field,,,
+10/03/2021,2021,Dallas Cowboys,36,Carolina Panthers,28,Dallas Cowboys,4.5,51.5,AT&T Stadium,72.0,,indoor
+10/03/2021,2021,Denver Broncos,7,Baltimore Ravens,23,Denver Broncos,1.0,44.0,Empower Field at Mile High,,,
+10/03/2021,2021,Green Bay Packers,27,Pittsburgh Steelers,17,Green Bay Packers,6.0,45.0,Lambeau Field,,,
+10/03/2021,2021,Los Angeles Rams,20,Arizona Cardinals,37,St. Louis Rams,4.0,54.0,SoFi Stadium,72.0,,indoor
+10/03/2021,2021,Miami Dolphins,17,Indianapolis Colts,27,Miami Dolphins,2.5,41.5,Hard Rock Stadium,,,
+10/03/2021,2021,Minnesota Vikings,7,Cleveland Browns,14,Cleveland Browns,1.0,52.0,U.S. Bank Stadium,72.0,,indoor
+10/03/2021,2021,New England Patriots,17,Tampa Bay Buccaneers,19,Tampa Bay Buccaneers,6.5,49.0,Gillette Stadium,,,
+10/03/2021,2021,New Orleans Saints,21,New York Giants,27,New Orleans Saints,7.0,42.5,Caesars Superdome,72.0,,indoor
+10/03/2021,2021,New York Jets,27,Tennessee Titans,24,Tennessee Titans,6.0,44.5,MetLife Stadium,,,
+10/03/2021,2021,Philadelphia Eagles,30,Kansas City Chiefs,42,Kansas City Chiefs,7.0,54.0,Lincoln Financial Field,,,
+10/03/2021,2021,San Francisco 49ers,21,Seattle Seahawks,28,San Francisco 49ers,2.5,52.0,Levi's Stadium,,,
+10/04/2021,2021,Los Angeles Chargers,28,Las Vegas Raiders,14,San Diego Chargers,3.0,51.5,SoFi Stadium,72.0,,indoor
+10/07/2021,2021,Seattle Seahawks,17,Los Angeles Rams,26,St. Louis Rams,2.5,53.5,Lumen Field,,,
+10/10/2021,2021,Arizona Cardinals,17,San Francisco 49ers,10,Arizona Cardinals,6.0,48.5,State Farm Stadium,72.0,,indoor
+10/10/2021,2021,Atlanta Falcons,27,New York Jets,20,Atlanta Falcons,3.0,45.5,Tottenham Hotspur Stadium,,,
+10/10/2021,2021,Carolina Panthers,18,Philadelphia Eagles,21,Carolina Panthers,2.5,46.0,Bank of America Stadium,,,
+10/10/2021,2021,Cincinnati Bengals,22,Green Bay Packers,25,Green Bay Packers,2.0,50.0,Paul Brown Stadium,,,
+10/10/2021,2021,Dallas Cowboys,44,New York Giants,20,Dallas Cowboys,7.0,52.5,AT&T Stadium,72.0,,indoor
+10/10/2021,2021,Houston Texans,22,New England Patriots,25,New England Patriots,8.0,39.0,NRG Stadium,72.0,,indoor
+10/10/2021,2021,Jacksonville Jaguars,19,Tennessee Titans,37,Tennessee Titans,4.5,49.0,TIAA Bank Field,,,
+10/10/2021,2021,Kansas City Chiefs,20,Buffalo Bills,38,Kansas City Chiefs,3.0,57.0,Arrowhead Stadium,,,
+10/10/2021,2021,Las Vegas Raiders,9,Chicago Bears,20,Oakland Raiders,5.5,46.0,Allegiant Stadium,72.0,,indoor
+10/10/2021,2021,Los Angeles Chargers,47,Cleveland Browns,42,San Diego Chargers,2.5,47.0,SoFi Stadium,72.0,,indoor
+10/10/2021,2021,Minnesota Vikings,19,Detroit Lions,17,Minnesota Vikings,10.0,49.5,U.S. Bank Stadium,72.0,,indoor
+10/10/2021,2021,Pittsburgh Steelers,27,Denver Broncos,19,Denver Broncos,1.5,40.0,Heinz Field,,,
+10/10/2021,2021,Tampa Bay Buccaneers,45,Miami Dolphins,17,Tampa Bay Buccaneers,11.0,48.0,Raymond James Stadium,,,
+10/10/2021,2021,Washington Football Team,22,New Orleans Saints,33,New Orleans Saints,2.5,43.5,FedEx Field,,,
+10/11/2021,2021,Baltimore Ravens,31,Indianapolis Colts,25,Baltimore Ravens,7.5,46.5,M&T Bank Stadium,,,
+10/14/2021,2021,Philadelphia Eagles,22,Tampa Bay Buccaneers,28,Tampa Bay Buccaneers,7.0,53.0,Lincoln Financial Field,,,
+10/17/2021,2021,Baltimore Ravens,34,Los Angeles Chargers,6,Baltimore Ravens,3.0,51.0,M&T Bank Stadium,,,
+10/17/2021,2021,Carolina Panthers,28,Minnesota Vikings,34,Minnesota Vikings,2.5,45.5,Bank of America Stadium,,,
+10/17/2021,2021,Chicago Bears,14,Green Bay Packers,24,Green Bay Packers,5.5,44.0,Soldier Field,,,
+10/17/2021,2021,Cleveland Browns,14,Arizona Cardinals,37,Cleveland Browns,3.0,48.0,FirstEnergy Stadium,,,
+10/17/2021,2021,Denver Broncos,24,Las Vegas Raiders,34,Denver Broncos,5.0,45.0,Empower Field at Mile High,,,
+10/17/2021,2021,Detroit Lions,11,Cincinnati Bengals,34,Cincinnati Bengals,3.5,46.5,Ford Field,72.0,,indoor
+10/17/2021,2021,Indianapolis Colts,31,Houston Texans,3,Indianapolis Colts,11.5,45.0,Lucas Oil Stadium,72.0,,indoor
+10/17/2021,2021,Jacksonville Jaguars,23,Miami Dolphins,20,Miami Dolphins,1.5,47.5,Tottenham Hotspur Stadium,,,
+10/17/2021,2021,New England Patriots,29,Dallas Cowboys,35,Dallas Cowboys,3.5,50.5,Gillette Stadium,,,
+10/17/2021,2021,New York Giants,11,Los Angeles Rams,38,St. Louis Rams,7.5,49.0,MetLife Stadium,,,
+10/17/2021,2021,Pittsburgh Steelers,23,Seattle Seahawks,20,Pittsburgh Steelers,5.5,43.0,Heinz Field,,,
+10/17/2021,2021,Washington Football Team,13,Kansas City Chiefs,31,Kansas City Chiefs,6.5,54.0,FedEx Field,,,
+10/18/2021,2021,Tennessee Titans,34,Buffalo Bills,31,Buffalo Bills,6.0,53.5,Nissan Stadium,,,
+10/21/2021,2021,Cleveland Browns,17,Denver Broncos,14,Cleveland Browns,2.0,40.0,FirstEnergy Stadium,,,
+10/24/2021,2021,Arizona Cardinals,31,Houston Texans,5,Arizona Cardinals,20.0,47.5,State Farm Stadium,72.0,,indoor
+10/24/2021,2021,Baltimore Ravens,17,Cincinnati Bengals,41,Baltimore Ravens,6.5,46.0,M&T Bank Stadium,,,
+10/24/2021,2021,Green Bay Packers,24,Washington Football Team,10,Green Bay Packers,8.5,48.0,Lambeau Field,,,
+10/24/2021,2021,Las Vegas Raiders,33,Philadelphia Eagles,22,Oakland Raiders,1.0,48.0,Allegiant Stadium,72.0,,indoor
+10/24/2021,2021,Los Angeles Rams,28,Detroit Lions,19,St. Louis Rams,16.0,51.0,SoFi Stadium,72.0,,indoor
+10/24/2021,2021,Miami Dolphins,28,Atlanta Falcons,30,Atlanta Falcons,1.5,47.5,Hard Rock Stadium,,,
+10/24/2021,2021,New England Patriots,54,New York Jets,13,New England Patriots,7.0,42.5,Gillette Stadium,,,
+10/24/2021,2021,New York Giants,25,Carolina Panthers,3,Carolina Panthers,3.0,43.0,MetLife Stadium,,,
+10/24/2021,2021,San Francisco 49ers,18,Indianapolis Colts,30,San Francisco 49ers,3.5,41.5,Levi's Stadium,,,
+10/24/2021,2021,Tampa Bay Buccaneers,38,Chicago Bears,3,Tampa Bay Buccaneers,12.0,47.0,Raymond James Stadium,,,
+10/24/2021,2021,Tennessee Titans,27,Kansas City Chiefs,3,Kansas City Chiefs,4.0,58.5,Nissan Stadium,,,
+10/25/2021,2021,Seattle Seahawks,10,New Orleans Saints,13,New Orleans Saints,6.0,42.0,Lumen Field,,,
+10/28/2021,2021,Arizona Cardinals,21,Green Bay Packers,24,Arizona Cardinals,6.5,51.0,State Farm Stadium,72.0,,indoor
+10/31/2021,2021,Atlanta Falcons,13,Carolina Panthers,19,Atlanta Falcons,2.5,47.0,Mercedes-Benz Stadium,72.0,,indoor
+10/31/2021,2021,Buffalo Bills,26,Miami Dolphins,11,Buffalo Bills,15.0,48.5,Highmark Stadium,,,
+10/31/2021,2021,Chicago Bears,22,San Francisco 49ers,33,San Francisco 49ers,4.5,40.0,Soldier Field,,,
+10/31/2021,2021,Cleveland Browns,10,Pittsburgh Steelers,15,Cleveland Browns,5.5,43.0,FirstEnergy Stadium,,,
+10/31/2021,2021,Denver Broncos,17,Washington Football Team,10,Denver Broncos,4.0,45.0,Empower Field at Mile High,,,
+10/31/2021,2021,Detroit Lions,6,Philadelphia Eagles,44,Philadelphia Eagles,3.0,48.0,Ford Field,72.0,,indoor
+10/31/2021,2021,Houston Texans,22,Los Angeles Rams,38,St. Louis Rams,16.5,47.0,NRG Stadium,72.0,,indoor
+10/31/2021,2021,Indianapolis Colts,31,Tennessee Titans,34,Indianapolis Colts,3.0,51.0,Lucas Oil Stadium,72.0,,indoor
+10/31/2021,2021,Los Angeles Chargers,24,New England Patriots,27,San Diego Chargers,3.5,50.5,SoFi Stadium,72.0,,indoor
+10/31/2021,2021,Minnesota Vikings,16,Dallas Cowboys,20,Minnesota Vikings,4.0,49.0,U.S. Bank Stadium,72.0,,indoor
+10/31/2021,2021,New Orleans Saints,36,Tampa Bay Buccaneers,27,Tampa Bay Buccaneers,4.0,48.0,Caesars Superdome,72.0,,indoor
+10/31/2021,2021,New York Jets,34,Cincinnati Bengals,31,Cincinnati Bengals,11.5,43.0,MetLife Stadium,,,
+10/31/2021,2021,Seattle Seahawks,31,Jacksonville Jaguars,7,Seattle Seahawks,4.0,44.5,Lumen Field,,,
+11/01/2021,2021,Kansas City Chiefs,20,New York Giants,17,Kansas City Chiefs,10.5,53.0,Arrowhead Stadium,,,
+11/04/2021,2021,Indianapolis Colts,45,New York Jets,30,Indianapolis Colts,10.0,45.5,Lucas Oil Stadium,72.0,,indoor
+11/07/2021,2021,Baltimore Ravens,34,Minnesota Vikings,31,Baltimore Ravens,7.0,51.0,M&T Bank Stadium,,,
+11/07/2021,2021,Carolina Panthers,6,New England Patriots,24,New England Patriots,3.5,41.5,Bank of America Stadium,,,
+11/07/2021,2021,Cincinnati Bengals,16,Cleveland Browns,41,Cincinnati Bengals,2.0,47.5,Paul Brown Stadium,,,
+11/07/2021,2021,Dallas Cowboys,16,Denver Broncos,30,Dallas Cowboys,10.0,50.0,AT&T Stadium,72.0,,indoor
+11/07/2021,2021,Jacksonville Jaguars,9,Buffalo Bills,6,Buffalo Bills,14.5,48.5,TIAA Bank Field,,,
+11/07/2021,2021,Kansas City Chiefs,13,Green Bay Packers,7,Kansas City Chiefs,7.0,48.0,Arrowhead Stadium,,,
+11/07/2021,2021,Los Angeles Rams,16,Tennessee Titans,28,St. Louis Rams,7.0,53.0,SoFi Stadium,72.0,,indoor
+11/07/2021,2021,Miami Dolphins,17,Houston Texans,9,Miami Dolphins,4.0,45.0,Hard Rock Stadium,,,
+11/07/2021,2021,New Orleans Saints,25,Atlanta Falcons,27,New Orleans Saints,6.5,43.0,Caesars Superdome,72.0,,indoor
+11/07/2021,2021,New York Giants,23,Las Vegas Raiders,16,Oakland Raiders,3.0,47.0,MetLife Stadium,,,
+11/07/2021,2021,Philadelphia Eagles,24,Los Angeles Chargers,27,San Diego Chargers,1.0,49.5,Lincoln Financial Field,,,
+11/07/2021,2021,San Francisco 49ers,17,Arizona Cardinals,31,San Francisco 49ers,5.5,44.5,Levi's Stadium,,,
+11/08/2021,2021,Pittsburgh Steelers,29,Chicago Bears,27,Pittsburgh Steelers,7.0,40.0,Heinz Field,,,
+11/11/2021,2021,Miami Dolphins,22,Baltimore Ravens,10,Baltimore Ravens,8.5,47.0,Hard Rock Stadium,,,
+11/14/2021,2021,Arizona Cardinals,10,Carolina Panthers,34,Arizona Cardinals,7.0,41.5,State Farm Stadium,72.0,,indoor
+11/14/2021,2021,Dallas Cowboys,43,Atlanta Falcons,3,Dallas Cowboys,7.5,55.0,AT&T Stadium,72.0,,indoor
+11/14/2021,2021,Denver Broncos,13,Philadelphia Eagles,30,Denver Broncos,1.0,44.5,Empower Field at Mile High,,,
+11/14/2021,2021,Green Bay Packers,17,Seattle Seahawks,0,Green Bay Packers,3.0,49.0,Lambeau Field,,,
+11/14/2021,2021,Indianapolis Colts,23,Jacksonville Jaguars,17,Indianapolis Colts,10.5,48.0,Lucas Oil Stadium,72.0,,indoor
+11/14/2021,2021,Las Vegas Raiders,14,Kansas City Chiefs,41,Kansas City Chiefs,2.5,54.0,Allegiant Stadium,72.0,,indoor
+11/14/2021,2021,Los Angeles Chargers,20,Minnesota Vikings,27,San Diego Chargers,3.0,53.5,SoFi Stadium,72.0,,indoor
+11/14/2021,2021,New England Patriots,45,Cleveland Browns,7,New England Patriots,2.5,45.0,Gillette Stadium,,,
+11/14/2021,2021,New York Jets,17,Buffalo Bills,45,Buffalo Bills,13.5,48.5,MetLife Stadium,,,
+11/14/2021,2021,Pittsburgh Steelers,16,Detroit Lions,16,Pittsburgh Steelers,6.0,40.5,Heinz Field,,,
+11/14/2021,2021,Tennessee Titans,23,New Orleans Saints,21,Tennessee Titans,3.0,42.5,Nissan Stadium,,,
+11/14/2021,2021,Washington Football Team,29,Tampa Bay Buccaneers,19,Tampa Bay Buccaneers,10.0,50.5,FedEx Field,,,
+11/15/2021,2021,San Francisco 49ers,31,Los Angeles Rams,10,St. Louis Rams,3.5,50.0,Levi's Stadium,,,
+11/18/2021,2021,Atlanta Falcons,0,New England Patriots,25,New England Patriots,7.0,47.0,Mercedes-Benz Stadium,72.0,,indoor
+11/21/2021,2021,Buffalo Bills,15,Indianapolis Colts,41,Buffalo Bills,7.0,49.5,Highmark Stadium,,,
+11/21/2021,2021,Carolina Panthers,21,Washington Football Team,27,Carolina Panthers,3.0,43.0,Bank of America Stadium,,,
+11/21/2021,2021,Chicago Bears,13,Baltimore Ravens,16,Baltimore Ravens,1.0,40.5,Soldier Field,,,
+11/21/2021,2021,Cleveland Browns,13,Detroit Lions,10,Cleveland Browns,13.5,42.5,FirstEnergy Stadium,,,
+11/21/2021,2021,Jacksonville Jaguars,10,San Francisco 49ers,30,San Francisco 49ers,6.5,45.5,TIAA Bank Field,,,
+11/21/2021,2021,Kansas City Chiefs,19,Dallas Cowboys,9,Kansas City Chiefs,2.5,56.0,Arrowhead Stadium,,,
+11/21/2021,2021,Las Vegas Raiders,13,Cincinnati Bengals,32,Cincinnati Bengals,2.0,50.5,Allegiant Stadium,72.0,,indoor
+11/21/2021,2021,Los Angeles Chargers,41,Pittsburgh Steelers,37,San Diego Chargers,6.0,47.5,SoFi Stadium,72.0,,indoor
+11/21/2021,2021,Minnesota Vikings,34,Green Bay Packers,31,Green Bay Packers,1.0,47.0,U.S. Bank Stadium,72.0,,indoor
+11/21/2021,2021,New York Jets,17,Miami Dolphins,24,Miami Dolphins,3.5,44.5,MetLife Stadium,,,
+11/21/2021,2021,Philadelphia Eagles,40,New Orleans Saints,29,Philadelphia Eagles,3.0,42.0,Lincoln Financial Field,,,
+11/21/2021,2021,Seattle Seahawks,13,Arizona Cardinals,23,Seattle Seahawks,4.5,45.0,Lumen Field,,,
+11/21/2021,2021,Tennessee Titans,13,Houston Texans,22,Tennessee Titans,10.0,44.5,Nissan Stadium,,,
+11/22/2021,2021,Tampa Bay Buccaneers,30,New York Giants,10,Tampa Bay Buccaneers,11.5,50.0,Raymond James Stadium,,,
+11/25/2021,2021,Dallas Cowboys,33,Las Vegas Raiders,36,Dallas Cowboys,7.0,51.0,AT&T Stadium,72.0,,indoor
+11/25/2021,2021,Detroit Lions,14,Chicago Bears,16,Chicago Bears,2.0,41.5,Ford Field,72.0,,indoor
+11/25/2021,2021,New Orleans Saints,6,Buffalo Bills,31,Buffalo Bills,7.0,45.0,Caesars Superdome,72.0,,indoor
+11/28/2021,2021,Baltimore Ravens,16,Cleveland Browns,10,Baltimore Ravens,3.0,47.5,M&T Bank Stadium,,,
+11/28/2021,2021,Cincinnati Bengals,41,Pittsburgh Steelers,10,Cincinnati Bengals,3.5,43.5,Paul Brown Stadium,,,
+11/28/2021,2021,Denver Broncos,28,Los Angeles Chargers,13,San Diego Chargers,3.0,47.0,Empower Field at Mile High,,,
+11/28/2021,2021,Green Bay Packers,36,Los Angeles Rams,28,St. Louis Rams,2.0,46.5,Lambeau Field,,,
+11/28/2021,2021,Houston Texans,14,New York Jets,21,Houston Texans,3.0,44.5,NRG Stadium,72.0,,indoor
+11/28/2021,2021,Indianapolis Colts,31,Tampa Bay Buccaneers,38,Tampa Bay Buccaneers,3.0,53.0,Lucas Oil Stadium,72.0,,indoor
+11/28/2021,2021,Jacksonville Jaguars,14,Atlanta Falcons,21,Atlanta Falcons,1.5,46.0,TIAA Bank Field,,,
+11/28/2021,2021,Miami Dolphins,33,Carolina Panthers,10,Carolina Panthers,1.0,41.0,Hard Rock Stadium,,,
+11/28/2021,2021,New England Patriots,36,Tennessee Titans,13,New England Patriots,7.0,43.0,Gillette Stadium,,,
+11/28/2021,2021,New York Giants,13,Philadelphia Eagles,7,Philadelphia Eagles,4.0,45.0,MetLife Stadium,,,
+11/28/2021,2021,San Francisco 49ers,34,Minnesota Vikings,26,San Francisco 49ers,4.0,49.0,Levi's Stadium,,,
+11/29/2021,2021,Washington Football Team,17,Seattle Seahawks,15,Seattle Seahawks,1.5,46.5,FedEx Field,,,
+12/02/2021,2021,New Orleans Saints,17,Dallas Cowboys,27,Dallas Cowboys,6.5,45.5,Caesars Superdome,72.0,,indoor
+12/05/2021,2021,Atlanta Falcons,17,Tampa Bay Buccaneers,30,Tampa Bay Buccaneers,10.5,51.0,Mercedes-Benz Stadium,72.0,,indoor
+12/05/2021,2021,Chicago Bears,22,Arizona Cardinals,33,Arizona Cardinals,7.5,43.0,Soldier Field,,,
+12/05/2021,2021,Cincinnati Bengals,22,Los Angeles Chargers,41,Cincinnati Bengals,2.5,49.5,Paul Brown Stadium,,,
+12/05/2021,2021,Detroit Lions,29,Minnesota Vikings,27,Minnesota Vikings,7.0,47.0,Ford Field,72.0,,indoor
+12/05/2021,2021,Houston Texans,0,Indianapolis Colts,31,Indianapolis Colts,10.0,45.5,NRG Stadium,72.0,,indoor
+12/05/2021,2021,Kansas City Chiefs,22,Denver Broncos,9,Kansas City Chiefs,8.5,46.5,Arrowhead Stadium,,,
+12/05/2021,2021,Las Vegas Raiders,15,Washington Football Team,17,Oakland Raiders,1.5,47.5,Allegiant Stadium,72.0,,indoor
+12/05/2021,2021,Los Angeles Rams,37,Jacksonville Jaguars,7,St. Louis Rams,14.0,48.0,SoFi Stadium,72.0,,indoor
+12/05/2021,2021,Miami Dolphins,20,New York Giants,9,Miami Dolphins,7.0,40.0,Hard Rock Stadium,,,
+12/05/2021,2021,New York Jets,18,Philadelphia Eagles,33,Philadelphia Eagles,5.0,44.0,MetLife Stadium,,,
+12/05/2021,2021,Pittsburgh Steelers,20,Baltimore Ravens,19,Baltimore Ravens,4.0,44.0,Heinz Field,,,
+12/05/2021,2021,Seattle Seahawks,30,San Francisco 49ers,23,San Francisco 49ers,3.0,45.0,Lumen Field,,,
+12/06/2021,2021,Buffalo Bills,10,New England Patriots,14,Buffalo Bills,3.0,39.5,Highmark Stadium,36.0,59.0,
+12/09/2021,2021,Minnesota Vikings,36,Pittsburgh Steelers,28,Minnesota Vikings,3.5,45.0,U.S. Bank Stadium,72.0,,indoor
+12/12/2021,2021,Carolina Panthers,21,Atlanta Falcons,29,Carolina Panthers,2.5,41.5,Bank of America Stadium,,,
+12/12/2021,2021,Cincinnati Bengals,23,San Francisco 49ers,26,San Francisco 49ers,1.5,49.0,Paul Brown Stadium,,,
+12/12/2021,2021,Cleveland Browns,24,Baltimore Ravens,22,Cleveland Browns,3.0,44.0,FirstEnergy Stadium,,,
+12/12/2021,2021,Denver Broncos,38,Detroit Lions,10,Denver Broncos,12.5,42.0,Empower Field at Mile High,,,
+12/12/2021,2021,Green Bay Packers,45,Chicago Bears,30,Green Bay Packers,12.0,43.0,Lambeau Field,,,
+12/12/2021,2021,Houston Texans,13,Seattle Seahawks,33,Seattle Seahawks,9.5,41.0,NRG Stadium,72.0,,indoor
+12/12/2021,2021,Kansas City Chiefs,48,Las Vegas Raiders,9,Kansas City Chiefs,9.5,48.0,Arrowhead Stadium,,,
+12/12/2021,2021,Los Angeles Chargers,37,New York Giants,21,San Diego Chargers,9.0,43.5,SoFi Stadium,72.0,,indoor
+12/12/2021,2021,New York Jets,9,New Orleans Saints,30,New Orleans Saints,4.5,42.0,MetLife Stadium,,,
+12/12/2021,2021,Tampa Bay Buccaneers,33,Buffalo Bills,27,Tampa Bay Buccaneers,3.5,52.5,Raymond James Stadium,,,
+12/12/2021,2021,Tennessee Titans,20,Jacksonville Jaguars,0,Tennessee Titans,8.5,44.5,Nissan Stadium,,,
+12/12/2021,2021,Washington Football Team,20,Dallas Cowboys,27,Dallas Cowboys,6.5,48.0,FedEx Field,,,
+12/13/2021,2021,Arizona Cardinals,23,Los Angeles Rams,30,Arizona Cardinals,3.0,51.0,State Farm Stadium,72.0,,indoor
+12/16/2021,2021,Los Angeles Chargers,28,Kansas City Chiefs,34,Kansas City Chiefs,3.0,54.0,SoFi Stadium,72.0,,indoor
+12/18/2021,2021,Indianapolis Colts,27,New England Patriots,17,Indianapolis Colts,1.5,46.0,Lucas Oil Stadium,72.0,,indoor
+12/19/2021,2021,Baltimore Ravens,30,Green Bay Packers,31,Green Bay Packers,9.0,45.5,M&T Bank Stadium,43.0,52.0,
+12/19/2021,2021,Buffalo Bills,31,Carolina Panthers,14,Buffalo Bills,14.5,43.0,Highmark Stadium,30.0,69.0,
+12/19/2021,2021,Denver Broncos,10,Cincinnati Bengals,15,Denver Broncos,3.0,44.0,Empower Field at Mile High,61.0,9.0,
+12/19/2021,2021,Detroit Lions,30,Arizona Cardinals,12,Arizona Cardinals,13.0,48.5,Ford Field,72.0,,indoor
+12/19/2021,2021,Jacksonville Jaguars,16,Houston Texans,30,Jacksonville Jaguars,6.0,40.0,TIAA Bank Field,80.0,71.0,
+12/19/2021,2021,Miami Dolphins,31,New York Jets,24,Miami Dolphins,10.0,42.0,Hard Rock Stadium,82.0,70.0,
+12/19/2021,2021,New York Giants,6,Dallas Cowboys,21,Dallas Cowboys,12.0,43.5,MetLife Stadium,37.0,54.0,
+12/19/2021,2021,Pittsburgh Steelers,19,Tennessee Titans,13,Pittsburgh Steelers,1.0,44.0,Heinz Field,32.0,74.0,
+12/19/2021,2021,San Francisco 49ers,31,Atlanta Falcons,13,San Francisco 49ers,9.0,47.5,Levi's Stadium,46.0,81.0,
+12/19/2021,2021,Tampa Bay Buccaneers,0,New Orleans Saints,9,Tampa Bay Buccaneers,11.5,45.5,Raymond James Stadium,75.0,99.0,
+12/20/2021,2021,Chicago Bears,9,Minnesota Vikings,17,Minnesota Vikings,7.0,47.0,Soldier Field,37.0,75.0,
+12/20/2021,2021,Cleveland Browns,14,Las Vegas Raiders,16,Oakland Raiders,1.0,40.5,FirstEnergy Stadium,40.0,47.0,
+12/21/2021,2021,Los Angeles Rams,20,Seattle Seahawks,10,St. Louis Rams,7.0,47.0,SoFi Stadium,72.0,,indoor
+12/21/2021,2021,Philadelphia Eagles,27,Washington Football Team,17,Philadelphia Eagles,10.0,39.5,Lincoln Financial Field,42.0,57.0,
+12/23/2021,2021,Tennessee Titans,20,San Francisco 49ers,17,San Francisco 49ers,3.5,45.5,Nissan Stadium,48.0,46.0,
+12/25/2021,2021,Arizona Cardinals,16,Indianapolis Colts,22,Arizona Cardinals,3.0,48.0,State Farm Stadium,72.0,,indoor
+12/25/2021,2021,Green Bay Packers,24,Cleveland Browns,22,Green Bay Packers,7.5,46.5,Lambeau Field,35.0,49.0,
+12/26/2021,2021,Atlanta Falcons,20,Detroit Lions,16,Atlanta Falcons,7.5,42.5,Mercedes-Benz Stadium,72.0,,indoor
+12/26/2021,2021,Carolina Panthers,6,Tampa Bay Buccaneers,32,Tampa Bay Buccaneers,11.0,44.5,Bank of America Stadium,73.0,41.0,
+12/26/2021,2021,Cincinnati Bengals,41,Baltimore Ravens,21,Cincinnati Bengals,7.5,43.5,Paul Brown Stadium,52.0,63.0,
+12/26/2021,2021,Dallas Cowboys,56,Washington Football Team,14,Dallas Cowboys,10.0,46.0,AT&T Stadium,72.0,,indoor
+12/26/2021,2021,Houston Texans,41,Los Angeles Chargers,29,San Diego Chargers,13.0,45.5,NRG Stadium,72.0,,indoor
+12/26/2021,2021,Kansas City Chiefs,36,Pittsburgh Steelers,10,Kansas City Chiefs,10.0,44.5,Arrowhead Stadium,60.0,64.0,
+12/26/2021,2021,Las Vegas Raiders,17,Denver Broncos,13,Denver Broncos,1.0,41.5,Allegiant Stadium,72.0,,indoor
+12/26/2021,2021,Minnesota Vikings,23,Los Angeles Rams,30,St. Louis Rams,3.0,48.5,U.S. Bank Stadium,72.0,,indoor
+12/26/2021,2021,New England Patriots,21,Buffalo Bills,33,New England Patriots,1.0,43.5,Gillette Stadium,38.0,79.0,
+12/26/2021,2021,New York Jets,26,Jacksonville Jaguars,21,New York Jets,2.5,43.0,MetLife Stadium,47.0,49.0,
+12/26/2021,2021,Philadelphia Eagles,34,New York Giants,10,Philadelphia Eagles,11.0,41.0,Lincoln Financial Field,53.0,46.0,
+12/26/2021,2021,Seattle Seahawks,24,Chicago Bears,25,Seattle Seahawks,7.0,41.0,Lumen Field,25.0,85.0,
+12/27/2021,2021,New Orleans Saints,3,Miami Dolphins,20,Miami Dolphins,3.0,37.5,Caesars Superdome,72.0,,indoor
+01/02/2022,2021,Baltimore Ravens,19,Los Angeles Rams,20,St. Louis Rams,7.0,46.5,M&T Bank Stadium,59.0,92.0,
+01/02/2022,2021,Buffalo Bills,29,Atlanta Falcons,15,Buffalo Bills,14.0,46.0,Highmark Stadium,26.0,81.0,
+01/02/2022,2021,Chicago Bears,29,New York Giants,3,Chicago Bears,6.5,36.5,Soldier Field,25.0,74.0,
+01/02/2022,2021,Cincinnati Bengals,34,Kansas City Chiefs,31,Kansas City Chiefs,3.5,51.0,Paul Brown Stadium,33.0,81.0,
+01/02/2022,2021,Dallas Cowboys,22,Arizona Cardinals,25,Dallas Cowboys,6.5,52.5,AT&T Stadium,72.0,,indoor
+01/02/2022,2021,Green Bay Packers,37,Minnesota Vikings,10,Green Bay Packers,13.0,42.5,Lambeau Field,11.0,60.0,
+01/02/2022,2021,Indianapolis Colts,20,Las Vegas Raiders,23,Indianapolis Colts,8.5,46.5,Lucas Oil Stadium,72.0,,indoor
+01/02/2022,2021,Los Angeles Chargers,34,Denver Broncos,13,San Diego Chargers,7.5,46.0,SoFi Stadium,72.0,,indoor
+01/02/2022,2021,New England Patriots,50,Jacksonville Jaguars,10,New England Patriots,17.5,41.5,Gillette Stadium,46.0,100.0,
+01/02/2022,2021,New Orleans Saints,18,Carolina Panthers,10,New Orleans Saints,7.0,37.0,Caesars Superdome,72.0,,indoor
+01/02/2022,2021,New York Jets,24,Tampa Bay Buccaneers,28,Tampa Bay Buccaneers,14.0,47.5,MetLife Stadium,57.0,82.0,
+01/02/2022,2021,San Francisco 49ers,23,Houston Texans,7,San Francisco 49ers,13.5,44.5,Levi's Stadium,50.0,58.0,
+01/02/2022,2021,Seattle Seahawks,51,Detroit Lions,29,Seattle Seahawks,8.5,41.5,Lumen Field,37.0,97.0,
+01/02/2022,2021,Tennessee Titans,34,Miami Dolphins,3,Tennessee Titans,3.0,41.0,Nissan Stadium,43.0,93.0,
+01/02/2022,2021,Washington Football Team,16,Philadelphia Eagles,20,Philadelphia Eagles,4.5,44.5,FedEx Field,62.0,91.0,
+01/03/2022,2021,Pittsburgh Steelers,26,Cleveland Browns,14,Pittsburgh Steelers,2.0,42.0,Heinz Field,25.0,60.0,
+01/08/2022,2021,Denver Broncos,24,Kansas City Chiefs,28,Kansas City Chiefs,11.5,44.5,Empower Field at Mile High,41.0,57.0,
+01/08/2022,2021,Philadelphia Eagles,26,Dallas Cowboys,51,Dallas Cowboys,6.0,46.5,Lincoln Financial Field,31.0,43.0,
+01/09/2022,2021,Arizona Cardinals,30,Seattle Seahawks,38,Arizona Cardinals,5.0,48.5,State Farm Stadium,72.0,,indoor
+01/09/2022,2021,Atlanta Falcons,20,New Orleans Saints,30,New Orleans Saints,4.5,40.0,Mercedes-Benz Stadium,72.0,,indoor
+01/09/2022,2021,Baltimore Ravens,13,Pittsburgh Steelers,16,Baltimore Ravens,3.0,41.0,M&T Bank Stadium,36.0,100.0,
+01/09/2022,2021,Buffalo Bills,27,New York Jets,10,Buffalo Bills,16.0,42.0,Highmark Stadium,36.0,67.0,
+01/09/2022,2021,Cleveland Browns,21,Cincinnati Bengals,16,Cleveland Browns,6.5,38.0,FirstEnergy Stadium,36.0,89.0,
+01/09/2022,2021,Detroit Lions,37,Green Bay Packers,30,Green Bay Packers,4.0,45.0,Ford Field,72.0,,indoor
+01/09/2022,2021,Houston Texans,25,Tennessee Titans,28,Tennessee Titans,10.5,43.0,NRG Stadium,72.0,,indoor
+01/09/2022,2021,Jacksonville Jaguars,26,Indianapolis Colts,11,Indianapolis Colts,14.0,43.0,TIAA Bank Field,76.0,60.0,
+01/09/2022,2021,Las Vegas Raiders,35,Los Angeles Chargers,32,San Diego Chargers,3.0,49.5,Allegiant Stadium,72.0,,indoor
+01/09/2022,2021,Los Angeles Rams,24,San Francisco 49ers,27,San Francisco 49ers,3.5,46.5,SoFi Stadium,72.0,,indoor
+01/09/2022,2021,Miami Dolphins,33,New England Patriots,24,New England Patriots,6.0,41.0,Hard Rock Stadium,75.0,79.0,
+01/09/2022,2021,Minnesota Vikings,31,Chicago Bears,17,Minnesota Vikings,3.5,44.5,U.S. Bank Stadium,72.0,,indoor
+01/09/2022,2021,New York Giants,7,Washington Football Team,22,Washington Redskins,6.0,36.0,MetLife Stadium,38.0,64.0,
+01/09/2022,2021,Tampa Bay Buccaneers,41,Carolina Panthers,17,Tampa Bay Buccaneers,10.5,43.5,Raymond James Stadium,80.0,99.0,
+09/08/2022,2022,Los Angeles Rams,10,Buffalo Bills,31,Buffalo Bills,2.0,52.0,SoFi Stadium,72.0,,indoor
+09/11/2022,2022,Arizona Cardinals,21,Kansas City Chiefs,44,Kansas City Chiefs,6.0,54.0,State Farm Stadium,72.0,,indoor
+09/11/2022,2022,Atlanta Falcons,26,New Orleans Saints,27,New Orleans Saints,5.5,44.0,Mercedes-Benz Stadium,72.0,,indoor
+09/11/2022,2022,Carolina Panthers,24,Cleveland Browns,26,Carolina Panthers,1.0,42.0,Bank of America Stadium,,,
+09/11/2022,2022,Chicago Bears,19,San Francisco 49ers,10,San Francisco 49ers,6.5,38.0,Soldier Field,,,
+09/11/2022,2022,Cincinnati Bengals,20,Pittsburgh Steelers,23,Cincinnati Bengals,7.0,44.5,Paycor Stadium,,,
+09/11/2022,2022,Dallas Cowboys,3,Tampa Bay Buccaneers,19,Tampa Bay Buccaneers,2.5,49.5,AT&T Stadium,72.0,,indoor
+09/11/2022,2022,Detroit Lions,35,Philadelphia Eagles,38,Philadelphia Eagles,5.5,48.5,Ford Field,72.0,,indoor
+09/11/2022,2022,Houston Texans,20,Indianapolis Colts,20,Indianapolis Colts,7.0,45.5,NRG Stadium,72.0,,indoor
+09/11/2022,2022,Los Angeles Chargers,24,Las Vegas Raiders,19,San Diego Chargers,3.5,52.5,SoFi Stadium,72.0,,indoor
+09/11/2022,2022,Miami Dolphins,20,New England Patriots,7,Miami Dolphins,3.0,46.5,Hard Rock Stadium,,,
+09/11/2022,2022,Minnesota Vikings,23,Green Bay Packers,7,Minnesota Vikings,2.0,46.5,U.S. Bank Stadium,72.0,,indoor
+09/11/2022,2022,New York Jets,9,Baltimore Ravens,24,Baltimore Ravens,6.5,44.0,MetLife Stadium,,,
+09/11/2022,2022,Tennessee Titans,20,New York Giants,21,Tennessee Titans,5.5,44.0,Nissan Stadium,,,
+09/11/2022,2022,Washington Commanders,28,Jacksonville Jaguars,22,Washington Redskins,3.0,43.0,FedEx Field,,,
+09/12/2022,2022,Seattle Seahawks,17,Denver Broncos,16,Denver Broncos,6.0,44.0,Lumen Field,,,
+09/15/2022,2022,Kansas City Chiefs,27,Los Angeles Chargers,24,Kansas City Chiefs,4.0,52.5,GEHA Field at Arrowhead Stadium,,,
+09/18/2022,2022,Baltimore Ravens,38,Miami Dolphins,42,Baltimore Ravens,3.5,44.0,M&T Bank Stadium,,,
+09/18/2022,2022,Cleveland Browns,30,New York Jets,31,Cleveland Browns,6.5,38.5,FirstEnergy Stadium,,,
+09/18/2022,2022,Dallas Cowboys,20,Cincinnati Bengals,17,Cincinnati Bengals,7.0,42.0,AT&T Stadium,72.0,,indoor
+09/18/2022,2022,Denver Broncos,16,Houston Texans,9,Denver Broncos,10.0,45.5,Empower Field at Mile High,,,
+09/18/2022,2022,Detroit Lions,36,Washington Commanders,27,Detroit Lions,1.0,48.0,Ford Field,72.0,,indoor
+09/18/2022,2022,Green Bay Packers,27,Chicago Bears,10,Green Bay Packers,10.0,42.0,Lambeau Field,,,
+09/18/2022,2022,Jacksonville Jaguars,24,Indianapolis Colts,0,Indianapolis Colts,3.0,43.5,TIAA Bank Field,,,
+09/18/2022,2022,Las Vegas Raiders,23,Arizona Cardinals,29,Oakland Raiders,5.5,52.0,Allegiant Stadium,72.0,,indoor
+09/18/2022,2022,Los Angeles Rams,31,Atlanta Falcons,27,St. Louis Rams,10.0,46.0,SoFi Stadium,72.0,,indoor
+09/18/2022,2022,New Orleans Saints,10,Tampa Bay Buccaneers,20,Tampa Bay Buccaneers,2.5,43.5,Caesars Superdome,72.0,,indoor
+09/18/2022,2022,New York Giants,19,Carolina Panthers,16,Carolina Panthers,1.0,43.5,MetLife Stadium,,,
+09/18/2022,2022,Pittsburgh Steelers,14,New England Patriots,17,New England Patriots,3.0,40.0,Acrisure Stadium,,,
+09/18/2022,2022,San Francisco 49ers,27,Seattle Seahawks,7,San Francisco 49ers,8.5,39.5,Levi's Stadium,,,
+09/19/2022,2022,Buffalo Bills,41,Tennessee Titans,7,Buffalo Bills,10.0,47.5,Highmark Stadium,,,
+09/19/2022,2022,Philadelphia Eagles,24,Minnesota Vikings,7,Philadelphia Eagles,2.5,49.5,Lincoln Financial Field,,,
+09/22/2022,2022,Cleveland Browns,29,Pittsburgh Steelers,17,Cleveland Browns,4.5,38.0,FirstEnergy Stadium,,,
+09/25/2022,2022,Arizona Cardinals,12,Los Angeles Rams,20,St. Louis Rams,3.5,48.5,State Farm Stadium,72.0,,indoor
+09/25/2022,2022,Carolina Panthers,22,New Orleans Saints,14,New Orleans Saints,2.0,41.0,Bank of America Stadium,,,
+09/25/2022,2022,Chicago Bears,23,Houston Texans,20,Chicago Bears,3.0,39.0,Soldier Field,,,
+09/25/2022,2022,Denver Broncos,11,San Francisco 49ers,10,San Francisco 49ers,1.5,45.0,Empower Field at Mile High,,,
+09/25/2022,2022,Indianapolis Colts,20,Kansas City Chiefs,17,Kansas City Chiefs,5.0,51.0,Lucas Oil Stadium,72.0,,indoor
+09/25/2022,2022,Los Angeles Chargers,10,Jacksonville Jaguars,38,San Diego Chargers,6.5,46.5,SoFi Stadium,72.0,,indoor
+09/25/2022,2022,Miami Dolphins,21,Buffalo Bills,19,Buffalo Bills,4.0,54.5,Hard Rock Stadium,,,
+09/25/2022,2022,Minnesota Vikings,28,Detroit Lions,24,Minnesota Vikings,6.5,51.5,U.S. Bank Stadium,72.0,,indoor
+09/25/2022,2022,New England Patriots,26,Baltimore Ravens,37,Baltimore Ravens,2.5,44.5,Gillette Stadium,,,
+09/25/2022,2022,New York Jets,12,Cincinnati Bengals,27,Cincinnati Bengals,6.5,46.0,MetLife Stadium,,,
+09/25/2022,2022,Seattle Seahawks,23,Atlanta Falcons,27,Seattle Seahawks,1.0,43.5,Lumen Field,,,
+09/25/2022,2022,Tampa Bay Buccaneers,12,Green Bay Packers,14,Tampa Bay Buccaneers,1.5,42.0,Raymond James Stadium,,,
+09/25/2022,2022,Tennessee Titans,24,Las Vegas Raiders,22,Oakland Raiders,2.0,45.5,Nissan Stadium,,,
+09/25/2022,2022,Washington Commanders,8,Philadelphia Eagles,24,Philadelphia Eagles,6.0,47.5,FedEx Field,,,
+09/26/2022,2022,New York Giants,16,Dallas Cowboys,23,New York Giants,1.0,38.5,MetLife Stadium,,,
+09/29/2022,2022,Cincinnati Bengals,27,Miami Dolphins,15,Cincinnati Bengals,4.0,49.0,Paycor Stadium,,,
+10/02/2022,2022,Atlanta Falcons,23,Cleveland Browns,20,Cleveland Browns,1.0,48.5,Mercedes-Benz Stadium,72.0,,indoor
+10/02/2022,2022,Baltimore Ravens,20,Buffalo Bills,23,Buffalo Bills,3.0,50.0,M&T Bank Stadium,,,
+10/02/2022,2022,Carolina Panthers,16,Arizona Cardinals,26,Carolina Panthers,1.0,43.5,Bank of America Stadium,,,
+10/02/2022,2022,Dallas Cowboys,25,Washington Commanders,10,Dallas Cowboys,3.0,41.0,AT&T Stadium,72.0,,indoor
+10/02/2022,2022,Detroit Lions,45,Seattle Seahawks,48,Detroit Lions,3.5,48.5,Ford Field,72.0,,indoor
+10/02/2022,2022,Green Bay Packers,27,New England Patriots,24,Green Bay Packers,9.5,40.0,Lambeau Field,,,
+10/02/2022,2022,Houston Texans,24,Los Angeles Chargers,34,San Diego Chargers,5.5,45.0,NRG Stadium,72.0,,indoor
+10/02/2022,2022,Indianapolis Colts,17,Tennessee Titans,24,Indianapolis Colts,3.5,43.0,Lucas Oil Stadium,72.0,,indoor
+10/02/2022,2022,Las Vegas Raiders,32,Denver Broncos,23,Oakland Raiders,2.5,45.5,Allegiant Stadium,72.0,,indoor
+10/02/2022,2022,New Orleans Saints,25,Minnesota Vikings,28,Minnesota Vikings,4.0,42.0,Tottenham Hotspur Stadium,,,indoor
+10/02/2022,2022,New York Giants,20,Chicago Bears,12,New York Giants,3.0,39.5,MetLife Stadium,,,
+10/02/2022,2022,Philadelphia Eagles,29,Jacksonville Jaguars,21,Philadelphia Eagles,6.5,44.0,Lincoln Financial Field,,,
+10/02/2022,2022,Pittsburgh Steelers,20,New York Jets,24,Pittsburgh Steelers,3.0,41.0,Acrisure Stadium,,,
+10/02/2022,2022,Tampa Bay Buccaneers,31,Kansas City Chiefs,41,Tampa Bay Buccaneers,1.5,47.5,Raymond James Stadium,,,
+10/03/2022,2022,San Francisco 49ers,24,Los Angeles Rams,9,San Francisco 49ers,1.5,42.5,Levi's Stadium,,,
+10/06/2022,2022,Denver Broncos,9,Indianapolis Colts,12,Denver Broncos,3.0,42.0,Empower Field at Mile High,,,
+10/09/2022,2022,Arizona Cardinals,17,Philadelphia Eagles,20,Philadelphia Eagles,5.5,49.0,State Farm Stadium,72.0,,indoor
+10/09/2022,2022,Baltimore Ravens,19,Cincinnati Bengals,17,Baltimore Ravens,3.0,48.0,M&T Bank Stadium,,,
+10/09/2022,2022,Buffalo Bills,38,Pittsburgh Steelers,3,Buffalo Bills,14.0,44.5,Highmark Stadium,,,
+10/09/2022,2022,Carolina Panthers,15,San Francisco 49ers,37,San Francisco 49ers,6.0,40.0,Bank of America Stadium,,,
+10/09/2022,2022,Cleveland Browns,28,Los Angeles Chargers,30,San Diego Chargers,1.5,46.5,FirstEnergy Stadium,,,
+10/09/2022,2022,Green Bay Packers,22,New York Giants,27,Green Bay Packers,9.0,42.0,Tottenham Hotspur Stadium,,,
+10/09/2022,2022,Jacksonville Jaguars,6,Houston Texans,13,Jacksonville Jaguars,7.0,43.5,TIAA Bank Field,,,
+10/09/2022,2022,Los Angeles Rams,10,Dallas Cowboys,22,St. Louis Rams,5.0,41.5,SoFi Stadium,72.0,,indoor
+10/09/2022,2022,Minnesota Vikings,29,Chicago Bears,22,Minnesota Vikings,8.5,44.0,U.S. Bank Stadium,72.0,,indoor
+10/09/2022,2022,New England Patriots,29,Detroit Lions,0,New England Patriots,3.0,47.0,Gillette Stadium,,,
+10/09/2022,2022,New Orleans Saints,39,Seattle Seahawks,32,New Orleans Saints,5.5,45.0,Caesars Superdome,72.0,,indoor
+10/09/2022,2022,New York Jets,40,Miami Dolphins,17,Miami Dolphins,3.0,46.0,MetLife Stadium,,,
+10/09/2022,2022,Tampa Bay Buccaneers,21,Atlanta Falcons,15,Tampa Bay Buccaneers,10.5,46.0,Raymond James Stadium,,,
+10/09/2022,2022,Washington Commanders,17,Tennessee Titans,21,Tennessee Titans,1.0,43.0,FedEx Field,,,
+10/10/2022,2022,Kansas City Chiefs,30,Las Vegas Raiders,29,Kansas City Chiefs,7.0,51.5,GEHA Field at Arrowhead Stadium,,,
+10/13/2022,2022,Chicago Bears,7,Washington Commanders,12,Washington Redskins,1.0,38.0,Soldier Field,,,
+10/16/2022,2022,Atlanta Falcons,28,San Francisco 49ers,14,San Francisco 49ers,4.0,45.5,Mercedes-Benz Stadium,72.0,,indoor
+10/16/2022,2022,Cleveland Browns,15,New England Patriots,38,Cleveland Browns,2.5,43.0,FirstEnergy Stadium,,,
+10/16/2022,2022,Green Bay Packers,10,New York Jets,27,Green Bay Packers,7.5,45.0,Lambeau Field,,,
+10/16/2022,2022,Indianapolis Colts,34,Jacksonville Jaguars,27,Indianapolis Colts,1.0,41.0,Lucas Oil Stadium,72.0,,indoor
+10/16/2022,2022,Kansas City Chiefs,20,Buffalo Bills,24,Buffalo Bills,2.5,54.0,GEHA Field at Arrowhead Stadium,,,
+10/16/2022,2022,Los Angeles Rams,24,Carolina Panthers,10,St. Louis Rams,10.0,41.0,SoFi Stadium,72.0,,indoor
+10/16/2022,2022,Miami Dolphins,16,Minnesota Vikings,24,Minnesota Vikings,3.0,45.0,Hard Rock Stadium,,,
+10/16/2022,2022,New Orleans Saints,26,Cincinnati Bengals,30,Cincinnati Bengals,3.0,42.5,Caesars Superdome,72.0,,indoor
+10/16/2022,2022,New York Giants,24,Baltimore Ravens,20,Baltimore Ravens,5.5,45.5,MetLife Stadium,,,
+10/16/2022,2022,Philadelphia Eagles,26,Dallas Cowboys,17,Philadelphia Eagles,6.5,42.5,Lincoln Financial Field,,,
+10/16/2022,2022,Pittsburgh Steelers,20,Tampa Bay Buccaneers,18,Tampa Bay Buccaneers,10.0,46.5,Acrisure Stadium,,,
+10/16/2022,2022,Seattle Seahawks,19,Arizona Cardinals,9,Arizona Cardinals,2.5,50.5,Lumen Field,,,
+10/17/2022,2022,Los Angeles Chargers,19,Denver Broncos,16,San Diego Chargers,4.0,45.5,SoFi Stadium,72.0,,indoor
+10/20/2022,2022,Arizona Cardinals,42,New Orleans Saints,34,Arizona Cardinals,2.5,43.5,State Farm Stadium,72.0,,indoor
+10/23/2022,2022,Baltimore Ravens,23,Cleveland Browns,20,Baltimore Ravens,6.5,46.5,M&T Bank Stadium,,,
+10/23/2022,2022,Carolina Panthers,21,Tampa Bay Buccaneers,3,Tampa Bay Buccaneers,13.0,39.5,Bank of America Stadium,,,
+10/23/2022,2022,Cincinnati Bengals,35,Atlanta Falcons,17,Cincinnati Bengals,6.5,47.5,Paycor Stadium,,,
+10/23/2022,2022,Dallas Cowboys,24,Detroit Lions,6,Dallas Cowboys,7.0,49.5,AT&T Stadium,72.0,,indoor
+10/23/2022,2022,Denver Broncos,9,New York Jets,16,New York Jets,2.0,37.0,Empower Field at Mile High,,,
+10/23/2022,2022,Jacksonville Jaguars,17,New York Giants,23,Jacksonville Jaguars,3.0,43.5,TIAA Bank Field,,,
+10/23/2022,2022,Las Vegas Raiders,38,Houston Texans,20,Oakland Raiders,7.0,46.0,Allegiant Stadium,72.0,,indoor
+10/23/2022,2022,Los Angeles Chargers,23,Seattle Seahawks,37,San Diego Chargers,4.5,51.0,SoFi Stadium,72.0,,indoor
+10/23/2022,2022,Miami Dolphins,16,Pittsburgh Steelers,10,Miami Dolphins,7.0,44.0,Hard Rock Stadium,,,
+10/23/2022,2022,San Francisco 49ers,23,Kansas City Chiefs,44,Kansas City Chiefs,1.0,49.0,Levi's Stadium,,,
+10/23/2022,2022,Tennessee Titans,19,Indianapolis Colts,10,Tennessee Titans,2.5,42.5,Nissan Stadium,,,
+10/23/2022,2022,Washington Commanders,23,Green Bay Packers,21,Green Bay Packers,4.0,41.5,FedEx Field,,,
+10/24/2022,2022,New England Patriots,14,Chicago Bears,33,New England Patriots,8.5,40.0,Gillette Stadium,,,
+10/27/2022,2022,Tampa Bay Buccaneers,22,Baltimore Ravens,27,Tampa Bay Buccaneers,2.0,46.0,Raymond James Stadium,,,
+10/30/2022,2022,Atlanta Falcons,37,Carolina Panthers,34,Atlanta Falcons,4.0,41.0,Mercedes-Benz Stadium,72.0,,indoor
+10/30/2022,2022,Buffalo Bills,27,Green Bay Packers,17,Buffalo Bills,10.5,47.0,Highmark Stadium,,,
+10/30/2022,2022,Dallas Cowboys,49,Chicago Bears,29,Dallas Cowboys,10.0,42.5,AT&T Stadium,72.0,,indoor
+10/30/2022,2022,Detroit Lions,27,Miami Dolphins,31,Miami Dolphins,3.5,52.0,Ford Field,72.0,,indoor
+10/30/2022,2022,Houston Texans,10,Tennessee Titans,17,Tennessee Titans,1.0,39.5,NRG Stadium,72.0,,indoor
+10/30/2022,2022,Indianapolis Colts,16,Washington Commanders,17,Indianapolis Colts,3.0,40.0,Lucas Oil Stadium,72.0,,indoor
+10/30/2022,2022,Jacksonville Jaguars,17,Denver Broncos,21,Jacksonville Jaguars,1.0,40.5,Wembley Stadium,,,
+10/30/2022,2022,Los Angeles Rams,14,San Francisco 49ers,31,St. Louis Rams,1.0,42.0,SoFi Stadium,72.0,,indoor
+10/30/2022,2022,Minnesota Vikings,34,Arizona Cardinals,26,Minnesota Vikings,4.0,48.5,U.S. Bank Stadium,72.0,,indoor
+10/30/2022,2022,New Orleans Saints,24,Las Vegas Raiders,0,Oakland Raiders,1.0,48.5,Caesars Superdome,72.0,,indoor
+10/30/2022,2022,New York Jets,17,New England Patriots,22,New England Patriots,3.0,40.0,MetLife Stadium,,,
+10/30/2022,2022,Philadelphia Eagles,35,Pittsburgh Steelers,13,Philadelphia Eagles,11.5,43.0,Lincoln Financial Field,,,
+10/30/2022,2022,Seattle Seahawks,27,New York Giants,13,Seattle Seahawks,3.0,44.5,Lumen Field,,,
+10/31/2022,2022,Cleveland Browns,32,Cincinnati Bengals,13,Cincinnati Bengals,3.0,45.0,FirstEnergy Stadium,,,
+11/03/2022,2022,Houston Texans,17,Philadelphia Eagles,29,Philadelphia Eagles,14.0,45.5,NRG Stadium,72.0,,indoor
+11/06/2022,2022,Arizona Cardinals,21,Seattle Seahawks,31,Arizona Cardinals,2.0,49.0,State Farm Stadium,72.0,,indoor
+11/06/2022,2022,Atlanta Falcons,17,Los Angeles Chargers,20,San Diego Chargers,2.5,49.5,Mercedes-Benz Stadium,72.0,,indoor
+11/06/2022,2022,Chicago Bears,32,Miami Dolphins,35,Miami Dolphins,4.0,46.0,Soldier Field,,,
+11/06/2022,2022,Cincinnati Bengals,42,Carolina Panthers,21,Cincinnati Bengals,7.0,42.5,Paycor Stadium,,,
+11/06/2022,2022,Detroit Lions,15,Green Bay Packers,9,Green Bay Packers,4.0,49.5,Ford Field,72.0,,indoor
+11/06/2022,2022,Jacksonville Jaguars,27,Las Vegas Raiders,20,Oakland Raiders,2.5,48.0,TIAA Bank Field,,,
+11/06/2022,2022,Kansas City Chiefs,20,Tennessee Titans,17,Kansas City Chiefs,14.0,45.0,GEHA Field at Arrowhead Stadium,,,
+11/06/2022,2022,New England Patriots,26,Indianapolis Colts,3,New England Patriots,5.0,40.0,Gillette Stadium,,,
+11/06/2022,2022,New York Jets,20,Buffalo Bills,17,Buffalo Bills,10.5,46.0,MetLife Stadium,,,
+11/06/2022,2022,Tampa Bay Buccaneers,16,Los Angeles Rams,13,Tampa Bay Buccaneers,3.0,42.5,Raymond James Stadium,,,
+11/06/2022,2022,Washington Commanders,17,Minnesota Vikings,20,Minnesota Vikings,3.0,43.5,FedEx Field,,,
+11/07/2022,2022,New Orleans Saints,13,Baltimore Ravens,27,Baltimore Ravens,1.5,46.0,Caesars Superdome,72.0,,indoor
+11/10/2022,2022,Carolina Panthers,25,Atlanta Falcons,15,Atlanta Falcons,2.5,41.5,Bank of America Stadium,,,
+11/13/2022,2022,Buffalo Bills,30,Minnesota Vikings,33,Buffalo Bills,6.0,46.0,Highmark Stadium,,,
+11/13/2022,2022,Chicago Bears,30,Detroit Lions,31,Chicago Bears,3.0,48.5,Soldier Field,,,
+11/13/2022,2022,Green Bay Packers,31,Dallas Cowboys,28,Dallas Cowboys,3.5,44.5,Lambeau Field,,,
+11/13/2022,2022,Kansas City Chiefs,27,Jacksonville Jaguars,17,Kansas City Chiefs,9.5,51.5,GEHA Field at Arrowhead Stadium,,,
+11/13/2022,2022,Las Vegas Raiders,20,Indianapolis Colts,25,Oakland Raiders,4.0,41.0,Allegiant Stadium,72.0,,indoor
+11/13/2022,2022,Los Angeles Rams,17,Arizona Cardinals,27,St. Louis Rams,3.5,38.0,SoFi Stadium,72.0,,indoor
+11/13/2022,2022,Miami Dolphins,39,Cleveland Browns,17,Miami Dolphins,3.0,49.5,Hard Rock Stadium,,,
+11/13/2022,2022,New York Giants,24,Houston Texans,16,New York Giants,4.5,41.0,MetLife Stadium,,,
+11/13/2022,2022,Pittsburgh Steelers,20,New Orleans Saints,10,Pittsburgh Steelers,1.0,39.5,Acrisure Stadium,,,
+11/13/2022,2022,San Francisco 49ers,22,Los Angeles Chargers,16,San Francisco 49ers,8.0,45.5,Levi's Stadium,,,
+11/13/2022,2022,Tampa Bay Buccaneers,21,Seattle Seahawks,16,Tampa Bay Buccaneers,2.5,45.0,Allianz Arena,,,
+11/13/2022,2022,Tennessee Titans,17,Denver Broncos,10,Tennessee Titans,2.5,39.5,Nissan Stadium,,,
+11/14/2022,2022,Philadelphia Eagles,21,Washington Commanders,32,Philadelphia Eagles,11.0,43.0,Lincoln Financial Field,,,
+11/17/2022,2022,Green Bay Packers,17,Tennessee Titans,27,Green Bay Packers,3.0,40.5,Lambeau Field,,,
+11/20/2022,2022,Atlanta Falcons,27,Chicago Bears,24,Atlanta Falcons,2.5,48.5,Mercedes-Benz Stadium,72.0,,indoor
+11/20/2022,2022,Baltimore Ravens,13,Carolina Panthers,3,Baltimore Ravens,12.5,41.5,M&T Bank Stadium,,,
+11/20/2022,2022,Buffalo Bills,31,Cleveland Browns,23,Buffalo Bills,7.5,50.5,Ford Field,72.0,,indoor
+11/20/2022,2022,Denver Broncos,16,Las Vegas Raiders,22,Denver Broncos,2.5,41.5,Empower Field at Mile High,,,
+11/20/2022,2022,Houston Texans,10,Washington Commanders,23,Washington Redskins,3.0,41.0,NRG Stadium,72.0,,indoor
+11/20/2022,2022,Indianapolis Colts,16,Philadelphia Eagles,17,Philadelphia Eagles,6.0,45.0,Lucas Oil Stadium,72.0,,indoor
+11/20/2022,2022,Los Angeles Chargers,27,Kansas City Chiefs,30,Kansas City Chiefs,5.5,53.0,SoFi Stadium,72.0,,indoor
+11/20/2022,2022,Minnesota Vikings,3,Dallas Cowboys,40,Dallas Cowboys,2.0,48.5,U.S. Bank Stadium,72.0,,indoor
+11/20/2022,2022,New England Patriots,10,New York Jets,3,New England Patriots,3.5,38.0,Gillette Stadium,,,
+11/20/2022,2022,New Orleans Saints,27,Los Angeles Rams,20,New Orleans Saints,2.5,39.5,Caesars Superdome,72.0,,indoor
+11/20/2022,2022,New York Giants,18,Detroit Lions,31,New York Giants,3.0,44.5,MetLife Stadium,,,
+11/20/2022,2022,Pittsburgh Steelers,30,Cincinnati Bengals,37,Cincinnati Bengals,3.5,39.5,Acrisure Stadium,,,
+11/21/2022,2022,Arizona Cardinals,10,San Francisco 49ers,38,San Francisco 49ers,10.0,43.0,Estadio Azteca,,,
+11/24/2022,2022,Dallas Cowboys,28,New York Giants,20,Dallas Cowboys,10.0,45.5,AT&T Stadium,72.0,,indoor
+11/24/2022,2022,Detroit Lions,25,Buffalo Bills,28,Buffalo Bills,9.5,55.0,Ford Field,72.0,,indoor
+11/24/2022,2022,Minnesota Vikings,33,New England Patriots,26,Minnesota Vikings,2.5,41.5,U.S. Bank Stadium,72.0,,indoor
+11/27/2022,2022,Arizona Cardinals,24,Los Angeles Chargers,25,San Diego Chargers,2.5,48.5,State Farm Stadium,72.0,,indoor
+11/27/2022,2022,Carolina Panthers,23,Denver Broncos,10,Denver Broncos,1.0,36.0,Bank of America Stadium,,,
+11/27/2022,2022,Cleveland Browns,23,Tampa Bay Buccaneers,17,Tampa Bay Buccaneers,3.0,42.0,FirstEnergy Stadium,,,
+11/27/2022,2022,Jacksonville Jaguars,28,Baltimore Ravens,27,Baltimore Ravens,3.5,43.0,TIAA Bank Field,,,
+11/27/2022,2022,Kansas City Chiefs,26,Los Angeles Rams,10,Kansas City Chiefs,15.5,42.0,GEHA Field at Arrowhead Stadium,,,
+11/27/2022,2022,Miami Dolphins,30,Houston Texans,15,Miami Dolphins,14.0,47.5,Hard Rock Stadium,,,
+11/27/2022,2022,New York Jets,31,Chicago Bears,10,New York Jets,7.5,37.5,MetLife Stadium,,,
+11/27/2022,2022,Philadelphia Eagles,40,Green Bay Packers,33,Philadelphia Eagles,6.5,46.5,Lincoln Financial Field,,,
+11/27/2022,2022,San Francisco 49ers,13,New Orleans Saints,0,San Francisco 49ers,8.5,43.5,Levi's Stadium,,,
+11/27/2022,2022,Seattle Seahawks,34,Las Vegas Raiders,40,Seattle Seahawks,4.0,47.5,Lumen Field,,,
+11/27/2022,2022,Tennessee Titans,16,Cincinnati Bengals,20,Cincinnati Bengals,1.0,42.0,Nissan Stadium,,,
+11/27/2022,2022,Washington Commanders,19,Atlanta Falcons,13,Washington Redskins,3.5,40.0,FedEx Field,,,
+11/28/2022,2022,Indianapolis Colts,17,Pittsburgh Steelers,24,Indianapolis Colts,2.5,39.5,Lucas Oil Stadium,72.0,,indoor
+12/01/2022,2022,New England Patriots,10,Buffalo Bills,24,Buffalo Bills,4.0,44.0,Gillette Stadium,,,
+12/04/2022,2022,Atlanta Falcons,16,Pittsburgh Steelers,19,Pittsburgh Steelers,1.5,43.0,Mercedes-Benz Stadium,72.0,,indoor
+12/04/2022,2022,Baltimore Ravens,10,Denver Broncos,9,Baltimore Ravens,9.0,40.0,M&T Bank Stadium,,,
+12/04/2022,2022,Chicago Bears,19,Green Bay Packers,28,Green Bay Packers,3.5,45.0,Soldier Field,,,
+12/04/2022,2022,Cincinnati Bengals,27,Kansas City Chiefs,24,Kansas City Chiefs,2.5,53.5,Paycor Stadium,,,
+12/04/2022,2022,Dallas Cowboys,54,Indianapolis Colts,19,Dallas Cowboys,11.0,44.5,AT&T Stadium,72.0,,indoor
+12/04/2022,2022,Detroit Lions,40,Jacksonville Jaguars,14,Detroit Lions,1.0,51.0,Ford Field,72.0,,indoor
+12/04/2022,2022,Houston Texans,14,Cleveland Browns,27,Cleveland Browns,7.5,46.5,NRG Stadium,72.0,,indoor
+12/04/2022,2022,Las Vegas Raiders,27,Los Angeles Chargers,20,Oakland Raiders,2.5,49.5,Allegiant Stadium,72.0,,indoor
+12/04/2022,2022,Los Angeles Rams,23,Seattle Seahawks,27,Seattle Seahawks,6.5,41.0,SoFi Stadium,72.0,,indoor
+12/04/2022,2022,Minnesota Vikings,27,New York Jets,22,Minnesota Vikings,3.0,44.0,U.S. Bank Stadium,72.0,,indoor
+12/04/2022,2022,New York Giants,20,Washington Commanders,20,Washington Redskins,2.5,40.5,MetLife Stadium,,,
+12/04/2022,2022,Philadelphia Eagles,35,Tennessee Titans,10,Philadelphia Eagles,4.5,44.5,Lincoln Financial Field,,,
+12/04/2022,2022,San Francisco 49ers,33,Miami Dolphins,17,San Francisco 49ers,5.0,45.5,Levi's Stadium,,,
+12/05/2022,2022,Tampa Bay Buccaneers,17,New Orleans Saints,16,Tampa Bay Buccaneers,3.0,40.5,Raymond James Stadium,,,
+12/08/2022,2022,Los Angeles Rams,17,Las Vegas Raiders,16,Oakland Raiders,6.5,41.5,SoFi Stadium,72.0,,indoor
+12/11/2022,2022,Buffalo Bills,20,New York Jets,12,Buffalo Bills,10.0,43.5,Highmark Stadium,,,
+12/11/2022,2022,Cincinnati Bengals,23,Cleveland Browns,10,Cincinnati Bengals,4.0,47.0,Paycor Stadium,,,
+12/11/2022,2022,Dallas Cowboys,27,Houston Texans,23,Dallas Cowboys,17.0,44.5,AT&T Stadium,72.0,,indoor
+12/11/2022,2022,Denver Broncos,28,Kansas City Chiefs,34,Kansas City Chiefs,9.0,44.0,Empower Field at Mile High,,,
+12/11/2022,2022,Detroit Lions,34,Minnesota Vikings,23,Detroit Lions,2.0,51.5,Ford Field,72.0,,indoor
+12/11/2022,2022,Los Angeles Chargers,23,Miami Dolphins,17,Miami Dolphins,3.0,55.0,SoFi Stadium,72.0,,indoor
+12/11/2022,2022,New York Giants,22,Philadelphia Eagles,48,Philadelphia Eagles,7.0,44.5,MetLife Stadium,,,
+12/11/2022,2022,Pittsburgh Steelers,14,Baltimore Ravens,16,Pittsburgh Steelers,2.0,37.0,Acrisure Stadium,,,
+12/11/2022,2022,San Francisco 49ers,35,Tampa Bay Buccaneers,7,San Francisco 49ers,3.5,38.5,Levi's Stadium,,,
+12/11/2022,2022,Seattle Seahawks,24,Carolina Panthers,30,Seattle Seahawks,4.0,44.0,Lumen Field,,,
+12/11/2022,2022,Tennessee Titans,22,Jacksonville Jaguars,36,Tennessee Titans,3.0,41.5,Nissan Stadium,,,
+12/12/2022,2022,Arizona Cardinals,13,New England Patriots,27,New England Patriots,2.5,44.0,State Farm Stadium,72.0,,indoor
+12/15/2022,2022,Seattle Seahawks,13,San Francisco 49ers,21,San Francisco 49ers,3.0,42.5,Lumen Field,,,
+12/17/2022,2022,Buffalo Bills,32,Miami Dolphins,29,Buffalo Bills,7.0,43.5,Highmark Stadium,,,
+12/17/2022,2022,Cleveland Browns,13,Baltimore Ravens,3,Cleveland Browns,3.0,39.0,FirstEnergy Stadium,,,
+12/17/2022,2022,Minnesota Vikings,39,Indianapolis Colts,36,Minnesota Vikings,3.5,47.0,U.S. Bank Stadium,72.0,,indoor
+12/18/2022,2022,Carolina Panthers,16,Pittsburgh Steelers,24,Carolina Panthers,2.5,37.0,Bank of America Stadium,,,
+12/18/2022,2022,Chicago Bears,20,Philadelphia Eagles,25,Philadelphia Eagles,8.5,48.0,Soldier Field,,,
+12/18/2022,2022,Denver Broncos,24,Arizona Cardinals,15,Denver Broncos,1.5,37.0,Empower Field at Mile High,,,
+12/18/2022,2022,Houston Texans,24,Kansas City Chiefs,30,Kansas City Chiefs,14.5,48.5,NRG Stadium,72.0,,indoor
+12/18/2022,2022,Jacksonville Jaguars,40,Dallas Cowboys,34,Dallas Cowboys,4.0,48.0,TIAA Bank Field,,,
+12/18/2022,2022,Las Vegas Raiders,30,New England Patriots,24,Oakland Raiders,2.5,45.5,Allegiant Stadium,72.0,,indoor
+12/18/2022,2022,Los Angeles Chargers,17,Tennessee Titans,14,San Diego Chargers,3.0,46.5,SoFi Stadium,72.0,,indoor
+12/18/2022,2022,New Orleans Saints,21,Atlanta Falcons,18,New Orleans Saints,5.0,43.5,Caesars Superdome,72.0,,indoor
+12/18/2022,2022,New York Jets,17,Detroit Lions,20,New York Jets,2.0,44.0,MetLife Stadium,,,
+12/18/2022,2022,Tampa Bay Buccaneers,23,Cincinnati Bengals,34,Cincinnati Bengals,3.5,47.5,Raymond James Stadium,,,
+12/18/2022,2022,Washington Commanders,12,New York Giants,20,Washington Redskins,4.0,40.5,FedEx Field,,,
+12/19/2022,2022,Green Bay Packers,24,Los Angeles Rams,12,Green Bay Packers,7.5,39.5,Lambeau Field,,,
+12/22/2022,2022,New York Jets,3,Jacksonville Jaguars,19,New York Jets,2.5,36.5,MetLife Stadium,,,
+12/24/2022,2022,Baltimore Ravens,17,Atlanta Falcons,9,Baltimore Ravens,6.5,35.0,M&T Bank Stadium,,,
+12/24/2022,2022,Carolina Panthers,37,Detroit Lions,23,Detroit Lions,2.5,43.5,Bank of America Stadium,,,
+12/24/2022,2022,Chicago Bears,13,Buffalo Bills,35,Buffalo Bills,8.0,40.5,Soldier Field,,,
+12/24/2022,2022,Cleveland Browns,10,New Orleans Saints,17,Cleveland Browns,3.0,32.0,FirstEnergy Stadium,,,
+12/24/2022,2022,Dallas Cowboys,40,Philadelphia Eagles,34,Dallas Cowboys,4.0,48.0,AT&T Stadium,72.0,,indoor
+12/24/2022,2022,Kansas City Chiefs,24,Seattle Seahawks,10,Kansas City Chiefs,10.0,50.5,GEHA Field at Arrowhead Stadium,,,
+12/24/2022,2022,Minnesota Vikings,27,New York Giants,24,Minnesota Vikings,4.5,48.0,U.S. Bank Stadium,72.0,,indoor
+12/24/2022,2022,New England Patriots,18,Cincinnati Bengals,22,Cincinnati Bengals,3.0,41.5,Gillette Stadium,,,
+12/24/2022,2022,Pittsburgh Steelers,13,Las Vegas Raiders,10,Pittsburgh Steelers,2.0,38.0,Acrisure Stadium,,,
+12/24/2022,2022,San Francisco 49ers,37,Washington Commanders,20,San Francisco 49ers,6.5,37.0,Levi's Stadium,,,
+12/24/2022,2022,Tennessee Titans,14,Houston Texans,19,Tennessee Titans,3.0,34.0,Nissan Stadium,,,
+12/25/2022,2022,Arizona Cardinals,16,Tampa Bay Buccaneers,19,Tampa Bay Buccaneers,7.5,41.5,State Farm Stadium,72.0,,indoor
+12/25/2022,2022,Los Angeles Rams,51,Denver Broncos,14,Denver Broncos,3.0,36.0,SoFi Stadium,72.0,,indoor
+12/25/2022,2022,Miami Dolphins,20,Green Bay Packers,26,Miami Dolphins,3.5,49.5,Hard Rock Stadium,,,
+12/26/2022,2022,Indianapolis Colts,3,Los Angeles Chargers,20,San Diego Chargers,3.5,44.5,Lucas Oil Stadium,72.0,,indoor
+12/29/2022,2022,Tennessee Titans,13,Dallas Cowboys,27,Dallas Cowboys,14.0,40.5,Nissan Stadium,,,
+01/01/2023,2022,Atlanta Falcons,20,Arizona Cardinals,19,Atlanta Falcons,6.5,40.5,Mercedes-Benz Stadium,72.0,,indoor
+01/01/2023,2022,Baltimore Ravens,13,Pittsburgh Steelers,16,Baltimore Ravens,1.0,35.5,M&T Bank Stadium,,,
+01/01/2023,2022,Detroit Lions,41,Chicago Bears,10,Detroit Lions,4.5,52.5,Ford Field,72.0,,indoor
+01/01/2023,2022,Green Bay Packers,41,Minnesota Vikings,17,Green Bay Packers,3.5,47.5,Lambeau Field,,,
+01/01/2023,2022,Houston Texans,3,Jacksonville Jaguars,31,Jacksonville Jaguars,3.5,43.0,NRG Stadium,72.0,,indoor
+01/01/2023,2022,Kansas City Chiefs,27,Denver Broncos,24,Kansas City Chiefs,12.5,45.5,GEHA Field at Arrowhead Stadium,,,
+01/01/2023,2022,Las Vegas Raiders,34,San Francisco 49ers,37,San Francisco 49ers,10.0,41.0,Allegiant Stadium,72.0,,indoor
+01/01/2023,2022,Los Angeles Chargers,31,Los Angeles Rams,10,San Diego Chargers,6.5,41.0,SoFi Stadium,72.0,,indoor
+01/01/2023,2022,New England Patriots,23,Miami Dolphins,21,New England Patriots,3.0,41.5,Gillette Stadium,,,
+01/01/2023,2022,New York Giants,38,Indianapolis Colts,10,New York Giants,5.5,38.5,MetLife Stadium,,,
+01/01/2023,2022,Philadelphia Eagles,10,New Orleans Saints,20,Philadelphia Eagles,5.0,42.0,Lincoln Financial Field,,,
+01/01/2023,2022,Seattle Seahawks,23,New York Jets,6,New York Jets,1.5,43.0,Lumen Field,,,
+01/01/2023,2022,Tampa Bay Buccaneers,30,Carolina Panthers,24,Tampa Bay Buccaneers,3.5,40.5,Raymond James Stadium,,,
+01/01/2023,2022,Washington Commanders,10,Cleveland Browns,24,Washington Redskins,2.0,41.5,FedEx Field,,,
+01/07/2023,2022,Jacksonville Jaguars,20,Tennessee Titans,16,Jacksonville Jaguars,6.5,39.5,TIAA Bank Field,,,
+01/07/2023,2022,Las Vegas Raiders,13,Kansas City Chiefs,31,Kansas City Chiefs,8.5,52.0,Allegiant Stadium,72.0,,indoor
+01/08/2023,2022,Atlanta Falcons,30,Tampa Bay Buccaneers,17,Atlanta Falcons,6.0,40.5,Mercedes-Benz Stadium,72.0,,indoor
+01/08/2023,2022,Buffalo Bills,35,New England Patriots,23,Buffalo Bills,8.0,44.0,Highmark Stadium,,,
+01/08/2023,2022,Chicago Bears,13,Minnesota Vikings,29,Minnesota Vikings,6.5,42.5,Soldier Field,,,
+01/08/2023,2022,Cincinnati Bengals,27,Baltimore Ravens,16,Cincinnati Bengals,11.0,39.0,Paycor Stadium,,,
+01/08/2023,2022,Denver Broncos,31,Los Angeles Chargers,28,Denver Broncos,6.5,39.0,Empower Field at Mile High,,,
+01/08/2023,2022,Green Bay Packers,16,Detroit Lions,20,Green Bay Packers,4.0,48.0,Lambeau Field,,,
+01/08/2023,2022,Indianapolis Colts,31,Houston Texans,32,Indianapolis Colts,3.0,37.5,Lucas Oil Stadium,72.0,,indoor
+01/08/2023,2022,Miami Dolphins,11,New York Jets,6,Miami Dolphins,3.5,37.5,Hard Rock Stadium,,,
+01/08/2023,2022,New Orleans Saints,7,Carolina Panthers,10,New Orleans Saints,3.5,41.5,Caesars Superdome,72.0,,indoor
+01/08/2023,2022,Philadelphia Eagles,22,New York Giants,16,Philadelphia Eagles,17.0,43.0,Lincoln Financial Field,,,
+01/08/2023,2022,Pittsburgh Steelers,28,Cleveland Browns,14,Pittsburgh Steelers,2.5,40.0,Acrisure Stadium,,,
+01/08/2023,2022,San Francisco 49ers,38,Arizona Cardinals,13,San Francisco 49ers,14.5,40.0,Levi's Stadium,,,
+01/08/2023,2022,Seattle Seahawks,19,Los Angeles Rams,16,Seattle Seahawks,4.5,43.0,Lumen Field,,,
+01/08/2023,2022,Washington Commanders,26,Dallas Cowboys,6,Dallas Cowboys,7.5,41.0,FedEx Field,,,
+09/07/2023,2023,Kansas City Chiefs,20,Detroit Lions,21,Kansas City Chiefs,4.5,53.0,GEHA Field at Arrowhead Stadium,,,
+09/10/2023,2023,Atlanta Falcons,24,Carolina Panthers,10,Atlanta Falcons,3.5,39.5,Mercedes-Benz Stadium,72.0,,indoor
+09/10/2023,2023,Baltimore Ravens,25,Houston Texans,9,Baltimore Ravens,9.5,43.5,M&T Bank Stadium,,,
+09/10/2023,2023,Chicago Bears,20,Green Bay Packers,38,Chicago Bears,1.0,41.5,Soldier Field,,,
+09/10/2023,2023,Cleveland Browns,24,Cincinnati Bengals,3,Cincinnati Bengals,2.0,47.5,FirstEnergy Stadium,,,
+09/10/2023,2023,Denver Broncos,16,Las Vegas Raiders,17,Denver Broncos,3.5,43.0,Empower Field at Mile High,,,
+09/10/2023,2023,Indianapolis Colts,21,Jacksonville Jaguars,31,Jacksonville Jaguars,4.5,46.0,Lucas Oil Stadium,72.0,,indoor
+09/10/2023,2023,Los Angeles Chargers,34,Miami Dolphins,36,San Diego Chargers,3.0,51.0,SoFi Stadium,72.0,,indoor
+09/10/2023,2023,Minnesota Vikings,17,Tampa Bay Buccaneers,20,Minnesota Vikings,5.0,46.0,U.S. Bank Stadium,72.0,,indoor
+09/10/2023,2023,New England Patriots,20,Philadelphia Eagles,25,Philadelphia Eagles,3.5,44.5,Gillette Stadium,,,
+09/10/2023,2023,New Orleans Saints,16,Tennessee Titans,15,New Orleans Saints,3.0,41.5,Caesars Superdome,72.0,,indoor
+09/10/2023,2023,New York Giants,0,Dallas Cowboys,40,Dallas Cowboys,3.5,45.0,MetLife Stadium,,,
+09/10/2023,2023,Pittsburgh Steelers,7,San Francisco 49ers,30,San Francisco 49ers,2.0,41.5,Acrisure Stadium,,,
+09/10/2023,2023,Seattle Seahawks,13,Los Angeles Rams,30,Seattle Seahawks,5.0,46.0,Lumen Field,,,
+09/10/2023,2023,Washington Commanders,20,Arizona Cardinals,16,Washington Redskins,7.0,38.0,FedEx Field,,,
+09/11/2023,2023,New York Jets,22,Buffalo Bills,16,Buffalo Bills,2.0,45.5,MetLife Stadium,,,
+09/14/2023,2023,Philadelphia Eagles,34,Minnesota Vikings,28,Philadelphia Eagles,6.0,49.0,Lincoln Financial Field,,,
+09/17/2023,2023,Arizona Cardinals,28,New York Giants,31,New York Giants,4.0,39.5,State Farm Stadium,72.0,,indoor
+09/17/2023,2023,Atlanta Falcons,25,Green Bay Packers,24,Atlanta Falcons,1.5,40.0,Mercedes-Benz Stadium,72.0,,indoor
+09/17/2023,2023,Buffalo Bills,38,Las Vegas Raiders,10,Buffalo Bills,8.0,47.0,Highmark Stadium,,,
+09/17/2023,2023,Cincinnati Bengals,24,Baltimore Ravens,27,Cincinnati Bengals,3.0,45.5,Paycor Stadium,,,
+09/17/2023,2023,Dallas Cowboys,30,New York Jets,10,Dallas Cowboys,8.5,38.5,AT&T Stadium,72.0,,indoor
+09/17/2023,2023,Denver Broncos,33,Washington Commanders,35,Denver Broncos,3.5,38.5,Empower Field at Mile High,,,
+09/17/2023,2023,Detroit Lions,31,Seattle Seahawks,37,Detroit Lions,4.5,47.0,Ford Field,72.0,,indoor
+09/17/2023,2023,Houston Texans,20,Indianapolis Colts,31,Houston Texans,1.0,39.5,NRG Stadium,72.0,,indoor
+09/17/2023,2023,Jacksonville Jaguars,9,Kansas City Chiefs,17,Kansas City Chiefs,3.0,51.0,TIAA Bank Field,,,
+09/17/2023,2023,Los Angeles Rams,23,San Francisco 49ers,30,San Francisco 49ers,7.5,45.0,SoFi Stadium,72.0,,indoor
+09/17/2023,2023,New England Patriots,17,Miami Dolphins,24,Miami Dolphins,2.5,46.5,Gillette Stadium,,,
+09/17/2023,2023,Tampa Bay Buccaneers,27,Chicago Bears,17,Tampa Bay Buccaneers,2.5,41.0,Raymond James Stadium,,,
+09/17/2023,2023,Tennessee Titans,27,Los Angeles Chargers,24,San Diego Chargers,2.5,45.5,Nissan Stadium,,,
+09/18/2023,2023,Carolina Panthers,17,New Orleans Saints,20,New Orleans Saints,3.0,39.5,Bank of America Stadium,,,
+09/18/2023,2023,Pittsburgh Steelers,26,Cleveland Browns,22,Cleveland Browns,2.0,38.0,Acrisure Stadium,,,
+09/21/2023,2023,San Francisco 49ers,30,New York Giants,12,San Francisco 49ers,10.0,44.0,Levi's Stadium,,,
+09/24/2023,2023,Arizona Cardinals,28,Dallas Cowboys,16,Dallas Cowboys,13.0,43.0,State Farm Stadium,72.0,,indoor
+09/24/2023,2023,Baltimore Ravens,19,Indianapolis Colts,22,Baltimore Ravens,8.0,43.0,M&T Bank Stadium,,,
+09/24/2023,2023,Cleveland Browns,27,Tennessee Titans,3,Cleveland Browns,3.5,38.5,FirstEnergy Stadium,,,
+09/24/2023,2023,Detroit Lions,20,Atlanta Falcons,6,Detroit Lions,3.0,46.0,Ford Field,72.0,,indoor
+09/24/2023,2023,Green Bay Packers,18,New Orleans Saints,17,Green Bay Packers,1.0,42.0,Lambeau Field,,,
+09/24/2023,2023,Jacksonville Jaguars,17,Houston Texans,37,Jacksonville Jaguars,7.5,43.5,TIAA Bank Field,,,
+09/24/2023,2023,Kansas City Chiefs,41,Chicago Bears,10,Kansas City Chiefs,12.5,48.0,GEHA Field at Arrowhead Stadium,,,
+09/24/2023,2023,Las Vegas Raiders,18,Pittsburgh Steelers,23,,2.5,43.0,Allegiant Stadium,72.0,,indoor
+09/24/2023,2023,Miami Dolphins,70,Denver Broncos,20,Miami Dolphins,6.0,47.0,Hard Rock Stadium,,,
+09/24/2023,2023,Minnesota Vikings,24,Los Angeles Chargers,28,Minnesota Vikings,1.0,54.0,U.S. Bank Stadium,72.0,,indoor
+09/24/2023,2023,New York Jets,10,New England Patriots,15,New England Patriots,2.5,36.0,MetLife Stadium,,,
+09/24/2023,2023,Seattle Seahawks,37,Carolina Panthers,27,Seattle Seahawks,5.0,42.0,Lumen Field,,,
+09/24/2023,2023,Washington Commanders,3,Buffalo Bills,37,Buffalo Bills,6.0,43.0,FedEx Field,,,
+09/25/2023,2023,Cincinnati Bengals,19,Los Angeles Rams,16,Cincinnati Bengals,2.0,43.5,Paycor Stadium,,,
+09/25/2023,2023,Tampa Bay Buccaneers,11,Philadelphia Eagles,25,Philadelphia Eagles,5.0,45.0,Raymond James Stadium,,,
+09/28/2023,2023,Green Bay Packers,20,Detroit Lions,34,Detroit Lions,1.5,46.0,Lambeau Field,,,
+10/01/2023,2023,Buffalo Bills,48,Miami Dolphins,20,Buffalo Bills,2.5,53.5,Highmark Stadium,,,
+10/01/2023,2023,Carolina Panthers,13,Minnesota Vikings,21,Minnesota Vikings,4.5,46.5,Bank of America Stadium,,,
+10/01/2023,2023,Chicago Bears,28,Denver Broncos,31,Denver Broncos,3.0,46.5,Soldier Field,,,
+10/01/2023,2023,Cleveland Browns,3,Baltimore Ravens,28,Cleveland Browns,2.5,38.5,FirstEnergy Stadium,,,
+10/01/2023,2023,Dallas Cowboys,38,New England Patriots,3,Dallas Cowboys,6.0,43.5,AT&T Stadium,72.0,,indoor
+10/01/2023,2023,Houston Texans,30,Pittsburgh Steelers,6,Pittsburgh Steelers,3.0,42.0,NRG Stadium,72.0,,indoor
+10/01/2023,2023,Indianapolis Colts,23,Los Angeles Rams,29,Indianapolis Colts,1.0,45.5,Lucas Oil Stadium,72.0,,indoor
+10/01/2023,2023,Jacksonville Jaguars,23,Atlanta Falcons,7,Jacksonville Jaguars,3.0,42.5,Wembley Stadium,,,
+10/01/2023,2023,Los Angeles Chargers,24,Las Vegas Raiders,17,San Diego Chargers,6.0,48.0,SoFi Stadium,72.0,,indoor
+10/01/2023,2023,New Orleans Saints,9,Tampa Bay Buccaneers,26,New Orleans Saints,3.5,40.0,Caesars Superdome,72.0,,indoor
+10/01/2023,2023,New York Jets,20,Kansas City Chiefs,23,Kansas City Chiefs,8.5,41.5,MetLife Stadium,,,
+10/01/2023,2023,Philadelphia Eagles,34,Washington Commanders,31,Philadelphia Eagles,9.0,43.0,Lincoln Financial Field,,,
+10/01/2023,2023,San Francisco 49ers,35,Arizona Cardinals,16,San Francisco 49ers,14.0,43.5,Levi's Stadium,,,
+10/01/2023,2023,Tennessee Titans,27,Cincinnati Bengals,3,Cincinnati Bengals,2.5,41.0,Nissan Stadium,,,
+10/02/2023,2023,New York Giants,3,Seattle Seahawks,24,Seattle Seahawks,1.5,47.0,MetLife Stadium,,,
+10/05/2023,2023,Washington Commanders,20,Chicago Bears,40,Washington Redskins,6.0,44.5,FedEx Field,,,
+10/08/2023,2023,Arizona Cardinals,20,Cincinnati Bengals,34,Cincinnati Bengals,3.0,45.0,State Farm Stadium,72.0,,indoor
+10/08/2023,2023,Atlanta Falcons,21,Houston Texans,19,Atlanta Falcons,2.5,42.0,Mercedes-Benz Stadium,72.0,,indoor
+10/08/2023,2023,Buffalo Bills,20,Jacksonville Jaguars,25,Buffalo Bills,5.0,48.5,Tottenham Hotspur Stadium,,,
+10/08/2023,2023,Denver Broncos,21,New York Jets,31,Denver Broncos,2.0,42.5,Empower Field at Mile High,,,
+10/08/2023,2023,Detroit Lions,42,Carolina Panthers,24,Detroit Lions,9.0,43.5,Ford Field,72.0,,indoor
+10/08/2023,2023,Indianapolis Colts,23,Tennessee Titans,16,Tennessee Titans,2.5,43.5,Lucas Oil Stadium,72.0,,indoor
+10/08/2023,2023,Los Angeles Rams,14,Philadelphia Eagles,23,Philadelphia Eagles,3.5,50.5,SoFi Stadium,72.0,,indoor
+10/08/2023,2023,Miami Dolphins,31,New York Giants,16,Miami Dolphins,13.0,47.5,Hard Rock Stadium,,,
+10/08/2023,2023,Minnesota Vikings,20,Kansas City Chiefs,27,Kansas City Chiefs,3.5,52.5,U.S. Bank Stadium,72.0,,indoor
+10/08/2023,2023,New England Patriots,0,New Orleans Saints,34,New England Patriots,1.5,38.5,Gillette Stadium,,,
+10/08/2023,2023,Pittsburgh Steelers,17,Baltimore Ravens,10,Baltimore Ravens,4.5,38.5,Acrisure Stadium,,,
+10/08/2023,2023,San Francisco 49ers,42,Dallas Cowboys,10,San Francisco 49ers,3.5,45.5,Levi's Stadium,,,
+10/09/2023,2023,Las Vegas Raiders,17,Green Bay Packers,13,Oakland Raiders,2.0,45.0,Allegiant Stadium,72.0,,indoor
+10/12/2023,2023,Kansas City Chiefs,19,Denver Broncos,8,Kansas City Chiefs,10.5,47.5,GEHA Field at Arrowhead Stadium,,,
+10/15/2023,2023,Atlanta Falcons,16,Washington Commanders,24,Atlanta Falcons,1.5,42.0,Mercedes-Benz Stadium,72.0,,indoor
+10/15/2023,2023,Buffalo Bills,14,New York Giants,9,Buffalo Bills,15.0,43.5,Highmark Stadium,,,
+10/15/2023,2023,Chicago Bears,13,Minnesota Vikings,19,Minnesota Vikings,3.0,44.5,Soldier Field,,,
+10/15/2023,2023,Cincinnati Bengals,17,Seattle Seahawks,13,Cincinnati Bengals,3.0,45.5,Paycor Stadium,,,
+10/15/2023,2023,Cleveland Browns,19,San Francisco 49ers,17,San Francisco 49ers,9.5,36.0,FirstEnergy Stadium,,,
+10/15/2023,2023,Houston Texans,20,New Orleans Saints,13,New Orleans Saints,2.5,41.5,NRG Stadium,72.0,,indoor
+10/15/2023,2023,Jacksonville Jaguars,37,Indianapolis Colts,20,Jacksonville Jaguars,4.0,44.0,TIAA Bank Field,,,
+10/15/2023,2023,Las Vegas Raiders,21,New England Patriots,17,Oakland Raiders,3.0,41.5,Allegiant Stadium,72.0,,indoor
+10/15/2023,2023,Los Angeles Rams,26,Arizona Cardinals,9,St. Louis Rams,7.0,48.0,SoFi Stadium,72.0,,indoor
+10/15/2023,2023,Miami Dolphins,42,Carolina Panthers,21,Miami Dolphins,14.0,47.5,Hard Rock Stadium,,,
+10/15/2023,2023,New York Jets,20,Philadelphia Eagles,14,Philadelphia Eagles,6.5,43.5,MetLife Stadium,,,
+10/15/2023,2023,Tampa Bay Buccaneers,6,Detroit Lions,20,Detroit Lions,3.0,43.0,Raymond James Stadium,,,
+10/15/2023,2023,Tennessee Titans,16,Baltimore Ravens,24,Baltimore Ravens,5.5,42.5,Tottenham Hotspur Stadium,,,
+10/16/2023,2023,Los Angeles Chargers,17,Dallas Cowboys,20,Dallas Cowboys,1.0,50.0,SoFi Stadium,72.0,,indoor
+10/19/2023,2023,New Orleans Saints,24,Jacksonville Jaguars,31,New Orleans Saints,2.5,41.0,Caesars Superdome,72.0,,indoor
+10/22/2023,2023,Baltimore Ravens,38,Detroit Lions,6,Baltimore Ravens,3.0,43.5,M&T Bank Stadium,,,
+10/22/2023,2023,Chicago Bears,30,Las Vegas Raiders,12,Oakland Raiders,2.5,38.5,Soldier Field,,,
+10/22/2023,2023,Denver Broncos,19,Green Bay Packers,17,Denver Broncos,1.5,44.0,Empower Field at Mile High,,,
+10/22/2023,2023,Indianapolis Colts,38,Cleveland Browns,39,Cleveland Browns,3.5,39.5,Lucas Oil Stadium,72.0,,indoor
+10/22/2023,2023,Kansas City Chiefs,31,Los Angeles Chargers,17,Kansas City Chiefs,5.5,48.5,GEHA Field at Arrowhead Stadium,,,
+10/22/2023,2023,Los Angeles Rams,17,Pittsburgh Steelers,24,St. Louis Rams,3.5,44.0,SoFi Stadium,72.0,,indoor
+10/22/2023,2023,New England Patriots,29,Buffalo Bills,25,Buffalo Bills,7.5,41.0,Gillette Stadium,,,
+10/22/2023,2023,New York Giants,14,Washington Commanders,7,Washington Redskins,3.0,37.0,MetLife Stadium,,,
+10/22/2023,2023,Philadelphia Eagles,31,Miami Dolphins,17,Philadelphia Eagles,3.0,52.0,Lincoln Financial Field,,,
+10/22/2023,2023,Seattle Seahawks,20,Arizona Cardinals,10,Seattle Seahawks,9.0,43.5,Lumen Field,,,
+10/22/2023,2023,Tampa Bay Buccaneers,13,Atlanta Falcons,16,Tampa Bay Buccaneers,3.0,37.5,Raymond James Stadium,,,
+10/23/2023,2023,Minnesota Vikings,22,San Francisco 49ers,17,San Francisco 49ers,7.0,44.0,U.S. Bank Stadium,72.0,,indoor
+10/26/2023,2023,Buffalo Bills,24,Tampa Bay Buccaneers,18,Buffalo Bills,10.0,43.0,Highmark Stadium,,,
+10/29/2023,2023,Arizona Cardinals,24,Baltimore Ravens,31,Baltimore Ravens,9.5,45.0,State Farm Stadium,72.0,,indoor
+10/29/2023,2023,Carolina Panthers,15,Houston Texans,13,Houston Texans,3.5,43.0,Bank of America Stadium,,,
+10/29/2023,2023,Dallas Cowboys,43,Los Angeles Rams,20,Dallas Cowboys,7.0,45.5,AT&T Stadium,72.0,,indoor
+10/29/2023,2023,Denver Broncos,24,Kansas City Chiefs,9,Kansas City Chiefs,7.0,45.5,Empower Field at Mile High,,,
+10/29/2023,2023,Green Bay Packers,10,Minnesota Vikings,24,Minnesota Vikings,1.5,41.5,Lambeau Field,,,
+10/29/2023,2023,Indianapolis Colts,27,New Orleans Saints,38,New Orleans Saints,2.0,43.5,Lucas Oil Stadium,72.0,,indoor
+10/29/2023,2023,Los Angeles Chargers,30,Chicago Bears,13,San Diego Chargers,9.5,46.0,SoFi Stadium,72.0,,indoor
+10/29/2023,2023,Miami Dolphins,31,New England Patriots,17,Miami Dolphins,8.0,47.0,Hard Rock Stadium,,,
+10/29/2023,2023,New York Giants,10,New York Jets,13,New York Jets,3.0,34.5,MetLife Stadium,,,
+10/29/2023,2023,Pittsburgh Steelers,10,Jacksonville Jaguars,20,Jacksonville Jaguars,2.5,40.5,Acrisure Stadium,,,
+10/29/2023,2023,San Francisco 49ers,17,Cincinnati Bengals,31,San Francisco 49ers,4.0,44.0,Levi's Stadium,,,
+10/29/2023,2023,Seattle Seahawks,24,Cleveland Browns,20,Seattle Seahawks,4.0,38.5,Lumen Field,,,
+10/29/2023,2023,Tennessee Titans,28,Atlanta Falcons,23,Atlanta Falcons,2.5,35.5,Nissan Stadium,,,
+10/29/2023,2023,Washington Commanders,31,Philadelphia Eagles,38,Philadelphia Eagles,7.0,43.0,FedEx Field,,,
+10/30/2023,2023,Detroit Lions,26,Las Vegas Raiders,14,Detroit Lions,7.0,46.0,Ford Field,72.0,,indoor
+11/02/2023,2023,Pittsburgh Steelers,20,Tennessee Titans,16,Pittsburgh Steelers,3.0,37.0,Acrisure Stadium,,,
+11/05/2023,2023,Atlanta Falcons,28,Minnesota Vikings,31,Atlanta Falcons,3.5,39.0,Mercedes-Benz Stadium,72.0,,indoor
+11/05/2023,2023,Baltimore Ravens,37,Seattle Seahawks,3,Baltimore Ravens,6.0,44.5,M&T Bank Stadium,,,
+11/05/2023,2023,Carolina Panthers,13,Indianapolis Colts,27,Indianapolis Colts,1.5,45.0,Bank of America Stadium,,,
+11/05/2023,2023,Cincinnati Bengals,24,Buffalo Bills,18,Cincinnati Bengals,1.5,51.0,Paycor Stadium,,,
+11/05/2023,2023,Cleveland Browns,27,Arizona Cardinals,0,Cleveland Browns,13.0,38.0,FirstEnergy Stadium,,,
+11/05/2023,2023,Green Bay Packers,20,Los Angeles Rams,3,Green Bay Packers,3.5,37.5,Lambeau Field,,,
+11/05/2023,2023,Houston Texans,39,Tampa Bay Buccaneers,37,Houston Texans,2.5,40.0,NRG Stadium,72.0,,indoor
+11/05/2023,2023,Kansas City Chiefs,21,Miami Dolphins,14,Kansas City Chiefs,1.0,51.0,Frankfurt Stadium,,,
+11/05/2023,2023,Las Vegas Raiders,30,New York Giants,6,Oakland Raiders,1.5,38.5,Allegiant Stadium,72.0,,indoor
+11/05/2023,2023,New England Patriots,17,Washington Commanders,20,New England Patriots,3.0,40.5,Gillette Stadium,,,
+11/05/2023,2023,New Orleans Saints,24,Chicago Bears,17,New Orleans Saints,9.0,42.0,Caesars Superdome,72.0,,indoor
+11/05/2023,2023,Philadelphia Eagles,28,Dallas Cowboys,23,Philadelphia Eagles,3.0,46.5,Lincoln Financial Field,,,
+11/06/2023,2023,New York Jets,6,Los Angeles Chargers,27,San Diego Chargers,3.0,41.0,MetLife Stadium,,,
+11/09/2023,2023,Chicago Bears,16,Carolina Panthers,13,Chicago Bears,3.5,38.0,Soldier Field,,,
+11/12/2023,2023,Arizona Cardinals,25,Atlanta Falcons,23,Atlanta Falcons,2.0,43.5,State Farm Stadium,72.0,,indoor
+11/12/2023,2023,Baltimore Ravens,31,Cleveland Browns,33,Baltimore Ravens,6.0,38.0,M&T Bank Stadium,,,
+11/12/2023,2023,Cincinnati Bengals,27,Houston Texans,30,Cincinnati Bengals,5.5,45.5,Paycor Stadium,,,
+11/12/2023,2023,Dallas Cowboys,49,New York Giants,17,Dallas Cowboys,17.5,39.0,AT&T Stadium,72.0,,indoor
+11/12/2023,2023,Jacksonville Jaguars,3,San Francisco 49ers,34,San Francisco 49ers,3.0,44.5,TIAA Bank Field,,,
+11/12/2023,2023,Las Vegas Raiders,16,New York Jets,12,New York Jets,1.0,35.5,Allegiant Stadium,72.0,,indoor
+11/12/2023,2023,Los Angeles Chargers,38,Detroit Lions,41,Detroit Lions,2.5,48.5,SoFi Stadium,72.0,,indoor
+11/12/2023,2023,Minnesota Vikings,27,New Orleans Saints,19,New Orleans Saints,3.0,40.5,U.S. Bank Stadium,72.0,,indoor
+11/12/2023,2023,New England Patriots,6,Indianapolis Colts,10,Indianapolis Colts,1.5,42.5,Frankfurt Stadium,,,
+11/12/2023,2023,Pittsburgh Steelers,23,Green Bay Packers,19,Pittsburgh Steelers,3.0,38.5,Acrisure Stadium,,,
+11/12/2023,2023,Seattle Seahawks,29,Washington Commanders,26,Seattle Seahawks,6.0,44.0,Lumen Field,,,
+11/12/2023,2023,Tampa Bay Buccaneers,20,Tennessee Titans,6,Tampa Bay Buccaneers,2.5,39.0,Raymond James Stadium,,,
+11/13/2023,2023,Buffalo Bills,22,Denver Broncos,24,Buffalo Bills,7.5,47.5,Highmark Stadium,,,
+11/16/2023,2023,Baltimore Ravens,34,Cincinnati Bengals,20,Baltimore Ravens,4.0,46.5,M&T Bank Stadium,,,
+11/19/2023,2023,Buffalo Bills,32,New York Jets,6,Buffalo Bills,8.5,39.0,Highmark Stadium,,,
+11/19/2023,2023,Carolina Panthers,10,Dallas Cowboys,33,Dallas Cowboys,11.0,43.0,Bank of America Stadium,,,
+11/19/2023,2023,Cleveland Browns,13,Pittsburgh Steelers,10,Cleveland Browns,2.0,34.5,FirstEnergy Stadium,,,
+11/19/2023,2023,Denver Broncos,21,Minnesota Vikings,20,Denver Broncos,2.5,43.0,Empower Field at Mile High,,,
+11/19/2023,2023,Detroit Lions,31,Chicago Bears,26,Detroit Lions,8.0,48.0,Ford Field,72.0,,indoor
+11/19/2023,2023,Green Bay Packers,23,Los Angeles Chargers,20,San Diego Chargers,3.0,44.0,Lambeau Field,,,
+11/19/2023,2023,Houston Texans,21,Arizona Cardinals,16,Houston Texans,5.0,48.0,NRG Stadium,72.0,,indoor
+11/19/2023,2023,Jacksonville Jaguars,34,Tennessee Titans,14,Jacksonville Jaguars,6.5,40.0,TIAA Bank Field,,,
+11/19/2023,2023,Los Angeles Rams,17,Seattle Seahawks,16,St. Louis Rams,2.0,46.0,SoFi Stadium,72.0,,indoor
+11/19/2023,2023,Miami Dolphins,20,Las Vegas Raiders,13,Miami Dolphins,14.0,44.5,Hard Rock Stadium,,,
+11/19/2023,2023,San Francisco 49ers,27,Tampa Bay Buccaneers,14,San Francisco 49ers,13.5,41.5,Levi's Stadium,,,
+11/19/2023,2023,Washington Commanders,19,New York Giants,31,Washington Redskins,8.5,39.0,FedEx Field,,,
+11/20/2023,2023,Kansas City Chiefs,17,Philadelphia Eagles,21,Kansas City Chiefs,2.5,46.0,GEHA Field at Arrowhead Stadium,,,
+11/23/2023,2023,Dallas Cowboys,45,Washington Commanders,10,Dallas Cowboys,13.0,48.0,AT&T Stadium,72.0,,indoor
+11/23/2023,2023,Detroit Lions,22,Green Bay Packers,29,Detroit Lions,8.5,47.0,Ford Field,72.0,,indoor
+11/23/2023,2023,Seattle Seahawks,13,San Francisco 49ers,31,San Francisco 49ers,7.0,43.0,Lumen Field,,,
+11/24/2023,2023,New York Jets,13,Miami Dolphins,34,Miami Dolphins,9.5,40.0,MetLife Stadium,,,
+11/26/2023,2023,Arizona Cardinals,14,Los Angeles Rams,37,St. Louis Rams,3.0,45.0,State Farm Stadium,72.0,,indoor
+11/26/2023,2023,Atlanta Falcons,24,New Orleans Saints,15,New Orleans Saints,2.0,42.0,Mercedes-Benz Stadium,72.0,,indoor
+11/26/2023,2023,Cincinnati Bengals,10,Pittsburgh Steelers,16,Pittsburgh Steelers,2.0,37.0,Paycor Stadium,,,
+11/26/2023,2023,Denver Broncos,29,Cleveland Browns,12,Denver Broncos,1.5,37.5,Empower Field at Mile High,,,
+11/26/2023,2023,Houston Texans,21,Jacksonville Jaguars,24,Jacksonville Jaguars,1.5,47.5,NRG Stadium,72.0,,indoor
+11/26/2023,2023,Indianapolis Colts,27,Tampa Bay Buccaneers,20,Indianapolis Colts,2.5,45.0,Lucas Oil Stadium,72.0,,indoor
+11/26/2023,2023,Las Vegas Raiders,17,Kansas City Chiefs,31,Kansas City Chiefs,9.0,42.5,Allegiant Stadium,72.0,,indoor
+11/26/2023,2023,Los Angeles Chargers,10,Baltimore Ravens,20,Baltimore Ravens,3.0,49.0,SoFi Stadium,72.0,,indoor
+11/26/2023,2023,New York Giants,10,New England Patriots,7,New England Patriots,4.5,36.0,MetLife Stadium,,,
+11/26/2023,2023,Philadelphia Eagles,37,Buffalo Bills,34,Philadelphia Eagles,2.5,48.5,Lincoln Financial Field,,,
+11/26/2023,2023,Tennessee Titans,17,Carolina Panthers,10,Tennessee Titans,3.5,35.5,Nissan Stadium,,,
+11/27/2023,2023,Minnesota Vikings,10,Chicago Bears,12,Minnesota Vikings,3.0,43.5,U.S. Bank Stadium,72.0,,indoor
+11/30/2023,2023,Dallas Cowboys,41,Seattle Seahawks,35,Dallas Cowboys,9.5,47.5,AT&T Stadium,72.0,,indoor
+12/03/2023,2023,Green Bay Packers,27,Kansas City Chiefs,19,Kansas City Chiefs,6.0,44.0,Lambeau Field,,,
+12/03/2023,2023,Houston Texans,22,Denver Broncos,17,Houston Texans,3.0,47.0,NRG Stadium,72.0,,indoor
+12/03/2023,2023,Los Angeles Rams,36,Cleveland Browns,19,St. Louis Rams,3.5,39.5,SoFi Stadium,72.0,,indoor
+12/03/2023,2023,New England Patriots,0,Los Angeles Chargers,6,San Diego Chargers,4.5,39.0,Gillette Stadium,,,
+12/03/2023,2023,New Orleans Saints,28,Detroit Lions,33,Detroit Lions,4.0,47.5,Caesars Superdome,72.0,,indoor
+12/03/2023,2023,New York Jets,8,Atlanta Falcons,13,Atlanta Falcons,2.0,33.0,MetLife Stadium,,,
+12/03/2023,2023,Philadelphia Eagles,19,San Francisco 49ers,42,San Francisco 49ers,3.0,46.5,Lincoln Financial Field,,,
+12/03/2023,2023,Pittsburgh Steelers,10,Arizona Cardinals,24,Pittsburgh Steelers,6.0,41.0,Acrisure Stadium,,,
+12/03/2023,2023,Tampa Bay Buccaneers,14,Carolina Panthers,10,Tampa Bay Buccaneers,3.5,36.5,Raymond James Stadium,,,
+12/03/2023,2023,Tennessee Titans,28,Indianapolis Colts,31,Indianapolis Colts,1.0,42.0,Nissan Stadium,,,
+12/03/2023,2023,Washington Commanders,15,Miami Dolphins,45,Miami Dolphins,9.0,49.5,FedEx Field,,,
+12/04/2023,2023,Jacksonville Jaguars,31,Cincinnati Bengals,34,Jacksonville Jaguars,10.0,41.0,TIAA Bank Field,,,
+12/07/2023,2023,Pittsburgh Steelers,18,New England Patriots,21,Pittsburgh Steelers,5.0,30.5,Acrisure Stadium,,,
+12/10/2023,2023,Atlanta Falcons,25,Tampa Bay Buccaneers,29,Atlanta Falcons,1.5,41.5,Mercedes-Benz Stadium,72.0,,indoor
+12/10/2023,2023,Baltimore Ravens,37,Los Angeles Rams,31,Baltimore Ravens,7.5,42.0,M&T Bank Stadium,,,
+12/10/2023,2023,Chicago Bears,28,Detroit Lions,13,Detroit Lions,3.0,44.5,Soldier Field,,,
+12/10/2023,2023,Cincinnati Bengals,34,Indianapolis Colts,14,Cincinnati Bengals,3.0,44.5,Paycor Stadium,,,
+12/10/2023,2023,Cleveland Browns,31,Jacksonville Jaguars,27,Cleveland Browns,2.0,37.5,FirstEnergy Stadium,,,
+12/10/2023,2023,Dallas Cowboys,33,Philadelphia Eagles,13,Dallas Cowboys,3.5,52.5,AT&T Stadium,72.0,,indoor
+12/10/2023,2023,Kansas City Chiefs,17,Buffalo Bills,20,Kansas City Chiefs,2.0,49.5,GEHA Field at Arrowhead Stadium,,,
+12/10/2023,2023,Las Vegas Raiders,0,Minnesota Vikings,3,Minnesota Vikings,3.0,40.5,Allegiant Stadium,72.0,,indoor
+12/10/2023,2023,Los Angeles Chargers,7,Denver Broncos,24,San Diego Chargers,3.0,46.0,SoFi Stadium,72.0,,indoor
+12/10/2023,2023,New Orleans Saints,28,Carolina Panthers,6,New Orleans Saints,5.0,39.0,Caesars Superdome,72.0,,indoor
+12/10/2023,2023,New York Jets,30,Houston Texans,6,Houston Texans,3.0,33.5,MetLife Stadium,,,
+12/10/2023,2023,San Francisco 49ers,28,Seattle Seahawks,16,San Francisco 49ers,14.5,44.5,Levi's Stadium,,,
+12/11/2023,2023,Miami Dolphins,27,Tennessee Titans,28,Miami Dolphins,13.5,45.0,Hard Rock Stadium,,,
+12/11/2023,2023,New York Giants,24,Green Bay Packers,22,Green Bay Packers,5.5,37.0,MetLife Stadium,,,
+12/14/2023,2023,Las Vegas Raiders,63,Los Angeles Chargers,21,Oakland Raiders,3.0,35.5,Allegiant Stadium,72.0,,indoor
+12/16/2023,2023,Cincinnati Bengals,27,Minnesota Vikings,24,Cincinnati Bengals,3.0,41.0,Paycor Stadium,,,
+12/16/2023,2023,Detroit Lions,42,Denver Broncos,17,Detroit Lions,5.0,49.0,Ford Field,72.0,,indoor
+12/16/2023,2023,Indianapolis Colts,30,Pittsburgh Steelers,13,Indianapolis Colts,1.0,41.5,Lucas Oil Stadium,72.0,,indoor
+12/17/2023,2023,Arizona Cardinals,29,San Francisco 49ers,45,San Francisco 49ers,11.5,48.5,State Farm Stadium,72.0,,indoor
+12/17/2023,2023,Buffalo Bills,31,Dallas Cowboys,10,Buffalo Bills,2.5,49.0,Highmark Stadium,,,
+12/17/2023,2023,Carolina Panthers,9,Atlanta Falcons,7,Atlanta Falcons,2.5,32.0,Bank of America Stadium,,,
+12/17/2023,2023,Cleveland Browns,20,Chicago Bears,17,Cleveland Browns,3.0,37.5,FirstEnergy Stadium,,,
+12/17/2023,2023,Green Bay Packers,20,Tampa Bay Buccaneers,34,Green Bay Packers,4.0,41.5,Lambeau Field,,,
+12/17/2023,2023,Jacksonville Jaguars,7,Baltimore Ravens,23,Jacksonville Jaguars,4.0,42.5,TIAA Bank Field,,,
+12/17/2023,2023,Los Angeles Rams,28,Washington Commanders,20,St. Louis Rams,6.5,48.5,SoFi Stadium,72.0,,indoor
+12/17/2023,2023,Miami Dolphins,30,New York Jets,0,Miami Dolphins,7.0,35.5,Hard Rock Stadium,,,
+12/17/2023,2023,New England Patriots,17,Kansas City Chiefs,27,Kansas City Chiefs,9.5,39.5,Gillette Stadium,,,
+12/17/2023,2023,New Orleans Saints,24,New York Giants,6,New Orleans Saints,6.0,39.5,Caesars Superdome,72.0,,indoor
+12/17/2023,2023,Tennessee Titans,16,Houston Texans,19,Tennessee Titans,3.0,38.0,Nissan Stadium,,,
+12/18/2023,2023,Seattle Seahawks,20,Philadelphia Eagles,17,Philadelphia Eagles,4.0,46.5,Lumen Field,,,
+12/21/2023,2023,Los Angeles Rams,30,New Orleans Saints,22,St. Louis Rams,4.0,45.0,SoFi Stadium,72.0,,indoor
+12/23/2023,2023,Los Angeles Chargers,22,Buffalo Bills,24,Buffalo Bills,12.5,44.5,SoFi Stadium,72.0,,indoor
+12/23/2023,2023,Pittsburgh Steelers,34,Cincinnati Bengals,11,Cincinnati Bengals,3.0,39.0,Acrisure Stadium,,,
+12/24/2023,2023,Atlanta Falcons,29,Indianapolis Colts,10,Atlanta Falcons,2.5,44.5,Mercedes-Benz Stadium,72.0,,indoor
+12/24/2023,2023,Carolina Panthers,30,Green Bay Packers,33,Green Bay Packers,3.5,38.5,Bank of America Stadium,,,
+12/24/2023,2023,Chicago Bears,27,Arizona Cardinals,16,Chicago Bears,4.5,42.0,Soldier Field,,,
+12/24/2023,2023,Denver Broncos,23,New England Patriots,26,Denver Broncos,7.0,37.5,Empower Field at Mile High,,,
+12/24/2023,2023,Houston Texans,22,Cleveland Browns,36,Cleveland Browns,3.0,40.0,NRG Stadium,72.0,,indoor
+12/24/2023,2023,Miami Dolphins,22,Dallas Cowboys,20,Miami Dolphins,1.5,48.5,Hard Rock Stadium,,,
+12/24/2023,2023,Minnesota Vikings,24,Detroit Lions,30,Detroit Lions,2.5,47.5,U.S. Bank Stadium,72.0,,indoor
+12/24/2023,2023,New York Jets,30,Washington Commanders,28,New York Jets,3.0,37.0,MetLife Stadium,,,
+12/24/2023,2023,Tampa Bay Buccaneers,30,Jacksonville Jaguars,12,Jacksonville Jaguars,2.0,43.0,Raymond James Stadium,,,
+12/24/2023,2023,Tennessee Titans,17,Seattle Seahawks,20,Seattle Seahawks,3.0,42.0,Nissan Stadium,,,
+12/25/2023,2023,Kansas City Chiefs,14,Las Vegas Raiders,20,Kansas City Chiefs,11.0,40.5,GEHA Field at Arrowhead Stadium,,,
+12/25/2023,2023,Philadelphia Eagles,33,New York Giants,25,Philadelphia Eagles,14.0,41.5,Lincoln Financial Field,,,
+12/25/2023,2023,San Francisco 49ers,19,Baltimore Ravens,33,San Francisco 49ers,6.5,47.5,Levi's Stadium,,,
+12/28/2023,2023,Cleveland Browns,37,New York Jets,20,Cleveland Browns,7.0,33.5,FirstEnergy Stadium,,,
+12/30/2023,2023,Dallas Cowboys,20,Detroit Lions,19,Dallas Cowboys,4.0,53.0,AT&T Stadium,72.0,,indoor
+12/31/2023,2023,Baltimore Ravens,56,Miami Dolphins,19,Baltimore Ravens,3.0,46.5,M&T Bank Stadium,,,
+12/31/2023,2023,Buffalo Bills,27,New England Patriots,21,Buffalo Bills,14.5,40.0,Highmark Stadium,,,
+12/31/2023,2023,Chicago Bears,37,Atlanta Falcons,17,Chicago Bears,2.5,39.0,Soldier Field,,,
+12/31/2023,2023,Denver Broncos,16,Los Angeles Chargers,9,Denver Broncos,3.5,39.0,Empower Field at Mile High,,,
+12/31/2023,2023,Houston Texans,26,Tennessee Titans,3,Houston Texans,5.0,44.0,NRG Stadium,72.0,,indoor
+12/31/2023,2023,Indianapolis Colts,23,Las Vegas Raiders,20,Indianapolis Colts,3.5,42.0,Lucas Oil Stadium,72.0,,indoor
+12/31/2023,2023,Jacksonville Jaguars,26,Carolina Panthers,0,Jacksonville Jaguars,3.5,37.5,TIAA Bank Field,,,
+12/31/2023,2023,Kansas City Chiefs,25,Cincinnati Bengals,17,Kansas City Chiefs,7.0,46.5,GEHA Field at Arrowhead Stadium,,,
+12/31/2023,2023,Minnesota Vikings,10,Green Bay Packers,33,Minnesota Vikings,1.0,42.5,U.S. Bank Stadium,72.0,,indoor
+12/31/2023,2023,New York Giants,25,Los Angeles Rams,26,St. Louis Rams,6.0,43.5,MetLife Stadium,,,
+12/31/2023,2023,Philadelphia Eagles,31,Arizona Cardinals,35,Philadelphia Eagles,12.5,48.0,Lincoln Financial Field,,,
+12/31/2023,2023,Seattle Seahawks,23,Pittsburgh Steelers,30,Seattle Seahawks,4.0,40.5,Lumen Field,,,
+12/31/2023,2023,Tampa Bay Buccaneers,13,New Orleans Saints,23,Tampa Bay Buccaneers,2.5,42.5,Raymond James Stadium,,,
+12/31/2023,2023,Washington Commanders,10,San Francisco 49ers,27,San Francisco 49ers,14.0,48.5,FedEx Field,,,
+01/06/2024,2023,Baltimore Ravens,10,Pittsburgh Steelers,17,Pittsburgh Steelers,3.0,34.0,M&T Bank Stadium,,,
+01/07/2024,2023,Arizona Cardinals,20,Seattle Seahawks,21,Seattle Seahawks,3.0,48.0,State Farm Stadium,72.0,,indoor
+01/07/2024,2023,Carolina Panthers,0,Tampa Bay Buccaneers,9,Tampa Bay Buccaneers,4.5,36.5,Bank of America Stadium,,,
+01/07/2024,2023,Cincinnati Bengals,31,Cleveland Browns,14,Cincinnati Bengals,7.0,37.0,Paycor Stadium,,,
+01/07/2024,2023,Detroit Lions,30,Minnesota Vikings,20,Detroit Lions,4.0,47.5,Ford Field,72.0,,indoor
+01/07/2024,2023,Green Bay Packers,17,Chicago Bears,9,Green Bay Packers,2.5,46.0,Lambeau Field,,,
+01/07/2024,2023,Indianapolis Colts,19,Houston Texans,23,Houston Texans,1.0,47.5,Lucas Oil Stadium,72.0,,indoor
+01/07/2024,2023,Las Vegas Raiders,27,Denver Broncos,14,Oakland Raiders,3.5,37.5,Allegiant Stadium,72.0,,indoor
+01/07/2024,2023,Los Angeles Chargers,12,Kansas City Chiefs,13,San Diego Chargers,3.5,35.0,SoFi Stadium,72.0,,indoor
+01/07/2024,2023,Miami Dolphins,14,Buffalo Bills,21,Buffalo Bills,2.5,48.0,Hard Rock Stadium,,,
+01/07/2024,2023,New England Patriots,3,New York Jets,17,New England Patriots,2.0,28.5,Gillette Stadium,,,
+01/07/2024,2023,New Orleans Saints,48,Atlanta Falcons,17,New Orleans Saints,3.0,41.5,Caesars Superdome,72.0,,indoor
+01/07/2024,2023,New York Giants,27,Philadelphia Eagles,10,Philadelphia Eagles,5.0,43.5,MetLife Stadium,,,
+01/07/2024,2023,San Francisco 49ers,20,Los Angeles Rams,21,San Francisco 49ers,5.5,40.0,Levi's Stadium,,,
+01/07/2024,2023,Tennessee Titans,28,Jacksonville Jaguars,20,Jacksonville Jaguars,3.5,41.5,Nissan Stadium,,,
+01/07/2024,2023,Washington Commanders,10,Dallas Cowboys,38,Dallas Cowboys,13.0,47.5,FedEx Field,,,
+09/05/2024,2024,Kansas City Chiefs,27,Baltimore Ravens,20,Kansas City Chiefs,3.0,47.0,GEHA Field at Arrowhead Stadium,,,
+09/06/2024,2024,Philadelphia Eagles,34,Green Bay Packers,29,Philadelphia Eagles,2.0,49.5,Corinthians Arena,,,
+09/08/2024,2024,Atlanta Falcons,10,Pittsburgh Steelers,18,Atlanta Falcons,3.5,42.0,Mercedes-Benz Stadium,72.0,,indoor
+09/08/2024,2024,Buffalo Bills,34,Arizona Cardinals,28,Buffalo Bills,6.5,46.5,Highmark Stadium,,,
+09/08/2024,2024,Chicago Bears,24,Tennessee Titans,17,Chicago Bears,4.0,44.5,Soldier Field,,,
+09/08/2024,2024,Cincinnati Bengals,10,New England Patriots,16,Cincinnati Bengals,8.0,41.0,Paycor Stadium,,,
+09/08/2024,2024,Cleveland Browns,17,Dallas Cowboys,33,Cleveland Browns,2.5,41.0,FirstEnergy Stadium,,,
+09/08/2024,2024,Detroit Lions,26,Los Angeles Rams,20,Detroit Lions,4.5,52.5,Ford Field,72.0,,indoor
+09/08/2024,2024,Indianapolis Colts,27,Houston Texans,29,Houston Texans,3.0,48.5,Lucas Oil Stadium,72.0,,indoor
+09/08/2024,2024,Los Angeles Chargers,22,Las Vegas Raiders,10,San Diego Chargers,3.0,40.0,SoFi Stadium,72.0,,indoor
+09/08/2024,2024,Miami Dolphins,20,Jacksonville Jaguars,17,Miami Dolphins,3.5,49.0,Hard Rock Stadium,,,
+09/08/2024,2024,New Orleans Saints,47,Carolina Panthers,10,New Orleans Saints,4.0,41.5,Caesars Superdome,72.0,,indoor
+09/08/2024,2024,New York Giants,6,Minnesota Vikings,28,Minnesota Vikings,1.5,41.0,MetLife Stadium,,,
+09/08/2024,2024,Seattle Seahawks,26,Denver Broncos,20,Seattle Seahawks,6.0,42.0,Lumen Field,,,
+09/08/2024,2024,Tampa Bay Buccaneers,37,Washington Commanders,20,Tampa Bay Buccaneers,3.5,42.5,Raymond James Stadium,,,
+09/09/2024,2024,San Francisco 49ers,32,New York Jets,19,San Francisco 49ers,3.5,43.5,Levi's Stadium,,,
+09/12/2024,2024,Miami Dolphins,10,Buffalo Bills,31,Miami Dolphins,2.5,48.5,Hard Rock Stadium,,,
+09/15/2024,2024,Arizona Cardinals,41,Los Angeles Rams,10,Arizona Cardinals,1.0,47.5,State Farm Stadium,72.0,,indoor
+09/15/2024,2024,Baltimore Ravens,23,Las Vegas Raiders,26,Baltimore Ravens,8.5,41.5,M&T Bank Stadium,,,
+09/15/2024,2024,Carolina Panthers,3,Los Angeles Chargers,26,San Diego Chargers,4.5,38.5,Bank of America Stadium,,,
+09/15/2024,2024,Dallas Cowboys,19,New Orleans Saints,44,Dallas Cowboys,6.5,47.0,AT&T Stadium,72.0,,indoor
+09/15/2024,2024,Denver Broncos,6,Pittsburgh Steelers,13,Pittsburgh Steelers,2.5,36.5,Empower Field at Mile High,,,
+09/15/2024,2024,Detroit Lions,16,Tampa Bay Buccaneers,20,Detroit Lions,7.5,51.5,Ford Field,72.0,,indoor
+09/15/2024,2024,Green Bay Packers,16,Indianapolis Colts,10,Indianapolis Colts,2.5,41.5,Lambeau Field,,,
+09/15/2024,2024,Houston Texans,19,Chicago Bears,13,Houston Texans,6.0,45.5,NRG Stadium,72.0,,indoor
+09/15/2024,2024,Jacksonville Jaguars,13,Cleveland Browns,18,Jacksonville Jaguars,3.0,41.5,TIAA Bank Field,,,
+09/15/2024,2024,Kansas City Chiefs,26,Cincinnati Bengals,25,Kansas City Chiefs,6.5,47.5,GEHA Field at Arrowhead Stadium,,,
+09/15/2024,2024,Minnesota Vikings,23,San Francisco 49ers,17,San Francisco 49ers,4.5,46.5,U.S. Bank Stadium,72.0,,indoor
+09/15/2024,2024,New England Patriots,20,Seattle Seahawks,23,Seattle Seahawks,3.0,38.5,Gillette Stadium,,,
+09/15/2024,2024,Tennessee Titans,17,New York Jets,24,New York Jets,4.0,41.5,Nissan Stadium,,,
+09/15/2024,2024,Washington Commanders,21,New York Giants,18,Washington Redskins,1.5,42.5,FedEx Field,,,
+09/16/2024,2024,Philadelphia Eagles,21,Atlanta Falcons,22,Philadelphia Eagles,5.5,46.5,Lincoln Financial Field,,,
+09/19/2024,2024,New York Jets,24,New England Patriots,3,,6.0,39.0,MetLife Stadium,,,
+09/22/2024,2024,Arizona Cardinals,13,Detroit Lions,20,Detroit Lions,3.0,51.5,State Farm Stadium,72.0,,indoor
+09/22/2024,2024,Atlanta Falcons,17,Kansas City Chiefs,22,Kansas City Chiefs,3.5,46.5,Mercedes-Benz Stadium,72.0,,indoor
+09/22/2024,2024,Cleveland Browns,15,New York Giants,21,Cleveland Browns,6.5,38.0,FirstEnergy Stadium,,,
+09/22/2024,2024,Dallas Cowboys,25,Baltimore Ravens,28,Baltimore Ravens,1.5,47.5,AT&T Stadium,72.0,,indoor
+09/22/2024,2024,Indianapolis Colts,21,Chicago Bears,16,Indianapolis Colts,1.5,43.5,Lucas Oil Stadium,72.0,,indoor
+09/22/2024,2024,Las Vegas Raiders,22,Carolina Panthers,36,Oakland Raiders,5.5,40.0,Allegiant Stadium,72.0,,indoor
+09/22/2024,2024,Los Angeles Rams,27,San Francisco 49ers,24,San Francisco 49ers,6.0,44.5,SoFi Stadium,72.0,,indoor
+09/22/2024,2024,Minnesota Vikings,34,Houston Texans,7,Houston Texans,2.0,46.5,U.S. Bank Stadium,72.0,,indoor
+09/22/2024,2024,New Orleans Saints,12,Philadelphia Eagles,15,New Orleans Saints,2.5,49.5,Caesars Superdome,72.0,,indoor
+09/22/2024,2024,Pittsburgh Steelers,20,Los Angeles Chargers,10,Pittsburgh Steelers,2.5,35.5,Acrisure Stadium,,,
+09/22/2024,2024,Seattle Seahawks,24,Miami Dolphins,3,Seattle Seahawks,4.0,41.5,Lumen Field,,,
+09/22/2024,2024,Tampa Bay Buccaneers,7,Denver Broncos,26,Tampa Bay Buccaneers,6.0,40.5,Raymond James Stadium,,,
+09/22/2024,2024,Tennessee Titans,14,Green Bay Packers,30,Tennessee Titans,3.0,37.0,Nissan Stadium,,,
+09/23/2024,2024,Buffalo Bills,47,Jacksonville Jaguars,10,Buffalo Bills,4.0,46.5,Highmark Stadium,,,
+09/23/2024,2024,Cincinnati Bengals,33,Washington Commanders,38,Cincinnati Bengals,7.5,46.0,Paycor Stadium,,,
+09/26/2024,2024,New York Giants,15,Dallas Cowboys,20,Dallas Cowboys,5.0,44.5,MetLife Stadium,,,
+09/29/2024,2024,Arizona Cardinals,14,Washington Commanders,42,Arizona Cardinals,3.5,48.5,State Farm Stadium,72.0,,indoor
+09/29/2024,2024,Atlanta Falcons,26,New Orleans Saints,24,Atlanta Falcons,2.5,42.5,Mercedes-Benz Stadium,72.0,,indoor
+09/29/2024,2024,Baltimore Ravens,35,Buffalo Bills,10,Baltimore Ravens,2.5,47.5,M&T Bank Stadium,,,
+09/29/2024,2024,Carolina Panthers,24,Cincinnati Bengals,34,Cincinnati Bengals,4.5,47.0,Bank of America Stadium,,,
+09/29/2024,2024,Chicago Bears,24,Los Angeles Rams,18,Chicago Bears,3.0,40.5,Soldier Field,,,
+09/29/2024,2024,Green Bay Packers,29,Minnesota Vikings,31,Green Bay Packers,2.5,44.5,Lambeau Field,,,
+09/29/2024,2024,Houston Texans,24,Jacksonville Jaguars,20,Houston Texans,5.5,44.5,NRG Stadium,72.0,,indoor
+09/29/2024,2024,Indianapolis Colts,27,Pittsburgh Steelers,24,Pittsburgh Steelers,2.5,40.5,Lucas Oil Stadium,72.0,,indoor
+09/29/2024,2024,Las Vegas Raiders,20,Cleveland Browns,16,Cleveland Browns,2.5,37.0,Allegiant Stadium,72.0,,indoor
+09/29/2024,2024,Los Angeles Chargers,10,Kansas City Chiefs,17,Kansas City Chiefs,7.0,41.5,SoFi Stadium,72.0,,indoor
+09/29/2024,2024,New York Jets,9,Denver Broncos,10,New York Jets,8.0,39.5,MetLife Stadium,,,
+09/29/2024,2024,San Francisco 49ers,30,New England Patriots,13,San Francisco 49ers,10.5,41.5,Levi's Stadium,,,
+09/29/2024,2024,Tampa Bay Buccaneers,33,Philadelphia Eagles,16,Philadelphia Eagles,1.0,42.5,Raymond James Stadium,,,
+09/30/2024,2024,Detroit Lions,42,Seattle Seahawks,29,Detroit Lions,4.0,47.0,Ford Field,72.0,,indoor
+09/30/2024,2024,Miami Dolphins,12,Tennessee Titans,31,Miami Dolphins,2.5,38.0,Hard Rock Stadium,,,
+10/03/2024,2024,Atlanta Falcons,36,Tampa Bay Buccaneers,30,Atlanta Falcons,2.5,44.0,Mercedes-Benz Stadium,72.0,,indoor
+10/06/2024,2024,Chicago Bears,36,Carolina Panthers,10,Chicago Bears,4.0,40.5,Soldier Field,,,
+10/06/2024,2024,Cincinnati Bengals,38,Baltimore Ravens,41,Baltimore Ravens,2.5,48.0,Paycor Stadium,,,
+10/06/2024,2024,Denver Broncos,34,Las Vegas Raiders,18,Denver Broncos,3.0,36.0,Empower Field at Mile High,,,
+10/06/2024,2024,Houston Texans,23,Buffalo Bills,20,Houston Texans,1.0,47.5,NRG Stadium,72.0,,indoor
+10/06/2024,2024,Jacksonville Jaguars,37,Indianapolis Colts,34,Jacksonville Jaguars,3.5,45.0,TIAA Bank Field,,,
+10/06/2024,2024,Los Angeles Rams,19,Green Bay Packers,24,Green Bay Packers,3.0,49.5,SoFi Stadium,72.0,,indoor
+10/06/2024,2024,Minnesota Vikings,23,New York Jets,17,Minnesota Vikings,2.5,42.0,Tottenham Hotspur Stadium,,,
+10/06/2024,2024,New England Patriots,10,Miami Dolphins,15,Miami Dolphins,2.0,37.0,Gillette Stadium,,,
+10/06/2024,2024,Pittsburgh Steelers,17,Dallas Cowboys,20,Pittsburgh Steelers,2.5,44.0,Acrisure Stadium,,,
+10/06/2024,2024,San Francisco 49ers,23,Arizona Cardinals,24,San Francisco 49ers,7.0,49.0,Levi's Stadium,,,
+10/06/2024,2024,Seattle Seahawks,20,New York Giants,29,Seattle Seahawks,7.0,42.5,Lumen Field,,,
+10/06/2024,2024,Washington Commanders,34,Cleveland Browns,13,Washington Redskins,3.0,44.0,FedEx Field,,,
+10/07/2024,2024,Kansas City Chiefs,26,New Orleans Saints,13,Kansas City Chiefs,5.5,43.0,GEHA Field at Arrowhead Stadium,,,
+10/10/2024,2024,Seattle Seahawks,24,San Francisco 49ers,36,San Francisco 49ers,3.5,48.5,Lumen Field,,,
+10/13/2024,2024,Baltimore Ravens,30,Washington Commanders,23,Baltimore Ravens,7.0,51.0,M&T Bank Stadium,,,
+10/13/2024,2024,Carolina Panthers,20,Atlanta Falcons,38,Atlanta Falcons,6.0,46.0,Bank of America Stadium,,,
+10/13/2024,2024,Chicago Bears,35,Jacksonville Jaguars,16,Jacksonville Jaguars,1.5,44.5,Tottenham Hotspur Stadium,,,
+10/13/2024,2024,Dallas Cowboys,9,Detroit Lions,47,Detroit Lions,3.5,53.5,AT&T Stadium,72.0,,indoor
+10/13/2024,2024,Denver Broncos,16,Los Angeles Chargers,23,San Diego Chargers,3.0,36.5,Empower Field at Mile High,,,
+10/13/2024,2024,Green Bay Packers,34,Arizona Cardinals,13,Green Bay Packers,5.5,47.0,Lambeau Field,,,
+10/13/2024,2024,Las Vegas Raiders,13,Pittsburgh Steelers,32,Pittsburgh Steelers,3.0,36.5,Allegiant Stadium,72.0,,indoor
+10/13/2024,2024,New England Patriots,21,Houston Texans,41,Houston Texans,6.5,38.0,Gillette Stadium,,,
+10/13/2024,2024,New Orleans Saints,27,Tampa Bay Buccaneers,51,Tampa Bay Buccaneers,3.5,42.5,Caesars Superdome,72.0,,indoor
+10/13/2024,2024,New York Giants,7,Cincinnati Bengals,17,Cincinnati Bengals,4.0,46.5,MetLife Stadium,,,
+10/13/2024,2024,Philadelphia Eagles,20,Cleveland Browns,16,Philadelphia Eagles,8.5,42.0,Lincoln Financial Field,,,
+10/13/2024,2024,Tennessee Titans,17,Indianapolis Colts,20,Tennessee Titans,2.5,42.5,Nissan Stadium,,,
+10/14/2024,2024,New York Jets,20,Buffalo Bills,23,Buffalo Bills,1.0,41.0,MetLife Stadium,,,
+10/17/2024,2024,New Orleans Saints,10,Denver Broncos,33,Denver Broncos,3.0,37.0,Caesars Superdome,72.0,,indoor
+10/20/2024,2024,Atlanta Falcons,14,Seattle Seahawks,34,Atlanta Falcons,3.0,51.5,Mercedes-Benz Stadium,72.0,,indoor
+10/20/2024,2024,Buffalo Bills,34,Tennessee Titans,10,Buffalo Bills,9.5,41.0,Highmark Stadium,,,
+10/20/2024,2024,Cleveland Browns,14,Cincinnati Bengals,21,Cincinnati Bengals,5.5,41.5,FirstEnergy Stadium,,,
+10/20/2024,2024,Green Bay Packers,24,Houston Texans,22,Green Bay Packers,3.0,48.0,Lambeau Field,,,
+10/20/2024,2024,Indianapolis Colts,16,Miami Dolphins,10,Indianapolis Colts,3.0,44.0,Lucas Oil Stadium,72.0,,indoor
+10/20/2024,2024,Jacksonville Jaguars,32,New England Patriots,16,Jacksonville Jaguars,7.0,42.5,Wembley Stadium,,,
+10/20/2024,2024,Los Angeles Rams,20,Las Vegas Raiders,15,St. Louis Rams,7.0,43.5,SoFi Stadium,72.0,,indoor
+10/20/2024,2024,Minnesota Vikings,29,Detroit Lions,31,Minnesota Vikings,1.0,50.5,U.S. Bank Stadium,72.0,,indoor
+10/20/2024,2024,New York Giants,3,Philadelphia Eagles,28,Philadelphia Eagles,3.0,42.0,MetLife Stadium,,,
+10/20/2024,2024,Pittsburgh Steelers,37,New York Jets,15,New York Jets,2.5,40.5,Acrisure Stadium,,,
+10/20/2024,2024,San Francisco 49ers,18,Kansas City Chiefs,28,San Francisco 49ers,2.5,48.0,Levi's Stadium,,,
+10/20/2024,2024,Washington Commanders,40,Carolina Panthers,7,Washington Redskins,10.0,51.0,FedEx Field,,,
+10/21/2024,2024,Arizona Cardinals,17,Los Angeles Chargers,15,San Diego Chargers,1.0,44.5,State Farm Stadium,72.0,,indoor
+10/21/2024,2024,Tampa Bay Buccaneers,31,Baltimore Ravens,41,Baltimore Ravens,4.0,51.0,Raymond James Stadium,,,
+10/24/2024,2024,Los Angeles Rams,30,Minnesota Vikings,20,Minnesota Vikings,3.0,47.0,SoFi Stadium,72.0,,indoor
+10/27/2024,2024,Cincinnati Bengals,17,Philadelphia Eagles,37,Cincinnati Bengals,2.5,47.5,Paycor Stadium,,,
+10/27/2024,2024,Cleveland Browns,29,Baltimore Ravens,24,Baltimore Ravens,7.5,44.5,FirstEnergy Stadium,,,
+10/27/2024,2024,Denver Broncos,28,Carolina Panthers,14,Denver Broncos,13.0,40.5,Empower Field at Mile High,,,
+10/27/2024,2024,Detroit Lions,52,Tennessee Titans,14,Detroit Lions,12.0,45.0,Ford Field,72.0,,indoor
+10/27/2024,2024,Houston Texans,23,Indianapolis Colts,20,Houston Texans,4.5,45.0,NRG Stadium,72.0,,indoor
+10/27/2024,2024,Jacksonville Jaguars,27,Green Bay Packers,30,Green Bay Packers,3.5,49.0,TIAA Bank Field,,,
+10/27/2024,2024,Las Vegas Raiders,20,Kansas City Chiefs,27,Kansas City Chiefs,8.5,43.0,Allegiant Stadium,72.0,,indoor
+10/27/2024,2024,Los Angeles Chargers,26,New Orleans Saints,8,San Diego Chargers,7.0,41.5,SoFi Stadium,72.0,,indoor
+10/27/2024,2024,Miami Dolphins,27,Arizona Cardinals,28,Miami Dolphins,4.0,46.5,Hard Rock Stadium,,,
+10/27/2024,2024,New England Patriots,25,New York Jets,22,New York Jets,7.0,41.0,Gillette Stadium,,,
+10/27/2024,2024,San Francisco 49ers,30,Dallas Cowboys,24,San Francisco 49ers,5.5,47.5,Levi's Stadium,,,
+10/27/2024,2024,Seattle Seahawks,10,Buffalo Bills,31,Buffalo Bills,3.0,45.0,Lumen Field,,,
+10/27/2024,2024,Tampa Bay Buccaneers,26,Atlanta Falcons,31,Atlanta Falcons,1.5,46.5,Raymond James Stadium,,,
+10/27/2024,2024,Washington Commanders,18,Chicago Bears,15,Washington Redskins,1.5,46.5,FedEx Field,,,
+10/28/2024,2024,Pittsburgh Steelers,26,New York Giants,18,Pittsburgh Steelers,6.0,37.5,Acrisure Stadium,,,
+10/31/2024,2024,New York Jets,21,Houston Texans,13,New York Jets,2.5,43.0,MetLife Stadium,,,
+11/03/2024,2024,Arizona Cardinals,29,Chicago Bears,9,Arizona Cardinals,1.5,44.5,State Farm Stadium,72.0,,indoor
+11/03/2024,2024,Atlanta Falcons,27,Dallas Cowboys,21,Atlanta Falcons,3.0,52.0,Mercedes-Benz Stadium,72.0,,indoor
+11/03/2024,2024,Baltimore Ravens,41,Denver Broncos,10,Baltimore Ravens,9.0,46.5,M&T Bank Stadium,,,
+11/03/2024,2024,Buffalo Bills,30,Miami Dolphins,27,Buffalo Bills,6.0,49.0,Highmark Stadium,,,
+11/03/2024,2024,Carolina Panthers,23,New Orleans Saints,22,New Orleans Saints,7.0,43.5,Bank of America Stadium,,,
+11/03/2024,2024,Cincinnati Bengals,41,Las Vegas Raiders,24,Cincinnati Bengals,7.5,45.0,Paycor Stadium,,,
+11/03/2024,2024,Cleveland Browns,10,Los Angeles Chargers,27,San Diego Chargers,2.0,42.5,FirstEnergy Stadium,,,
+11/03/2024,2024,Green Bay Packers,14,Detroit Lions,24,Detroit Lions,2.5,48.5,Lambeau Field,,,
+11/03/2024,2024,Minnesota Vikings,21,Indianapolis Colts,13,Minnesota Vikings,6.0,47.0,U.S. Bank Stadium,72.0,,indoor
+11/03/2024,2024,New York Giants,22,Washington Commanders,27,Washington Redskins,4.0,44.0,MetLife Stadium,,,
+11/03/2024,2024,Philadelphia Eagles,28,Jacksonville Jaguars,23,Philadelphia Eagles,7.5,46.0,Lincoln Financial Field,,,
+11/03/2024,2024,Seattle Seahawks,20,Los Angeles Rams,26,St. Louis Rams,1.5,48.5,Lumen Field,,,
+11/03/2024,2024,Tennessee Titans,20,New England Patriots,17,Tennessee Titans,3.5,38.0,Nissan Stadium,,,
+11/04/2024,2024,Kansas City Chiefs,30,Tampa Bay Buccaneers,24,Kansas City Chiefs,9.0,45.5,GEHA Field at Arrowhead Stadium,,,
+11/07/2024,2024,Baltimore Ravens,35,Cincinnati Bengals,34,Baltimore Ravens,6.0,52.5,M&T Bank Stadium,,,
+11/10/2024,2024,Arizona Cardinals,31,New York Jets,6,New York Jets,2.0,46.0,State Farm Stadium,72.0,,indoor
+11/10/2024,2024,Carolina Panthers,20,New York Giants,17,New York Giants,6.5,40.5,Allianz Arena,,,
+11/10/2024,2024,Chicago Bears,3,New England Patriots,19,Chicago Bears,6.0,37.5,Soldier Field,,,
+11/10/2024,2024,Dallas Cowboys,6,Philadelphia Eagles,34,Philadelphia Eagles,7.0,44.5,AT&T Stadium,72.0,,indoor
+11/10/2024,2024,Houston Texans,23,Detroit Lions,26,Detroit Lions,4.0,49.0,NRG Stadium,72.0,,indoor
+11/10/2024,2024,Indianapolis Colts,20,Buffalo Bills,30,Buffalo Bills,4.5,47.0,Lucas Oil Stadium,72.0,,indoor
+11/10/2024,2024,Jacksonville Jaguars,7,Minnesota Vikings,12,Minnesota Vikings,7.0,42.5,TIAA Bank Field,,,
+11/10/2024,2024,Kansas City Chiefs,16,Denver Broncos,14,Kansas City Chiefs,7.0,42.5,GEHA Field at Arrowhead Stadium,,,
+11/10/2024,2024,Los Angeles Chargers,27,Tennessee Titans,17,San Diego Chargers,8.0,40.0,SoFi Stadium,72.0,,indoor
+11/10/2024,2024,New Orleans Saints,20,Atlanta Falcons,17,Atlanta Falcons,3.5,47.5,Caesars Superdome,72.0,,indoor
+11/10/2024,2024,Tampa Bay Buccaneers,20,San Francisco 49ers,23,San Francisco 49ers,6.5,50.0,Raymond James Stadium,,,
+11/10/2024,2024,Washington Commanders,27,Pittsburgh Steelers,28,Washington Redskins,2.0,45.0,FedEx Field,,,
+11/11/2024,2024,Los Angeles Rams,15,Miami Dolphins,23,St. Louis Rams,2.0,49.5,SoFi Stadium,72.0,,indoor
+11/14/2024,2024,Philadelphia Eagles,26,Washington Commanders,18,Philadelphia Eagles,4.0,49.5,Lincoln Financial Field,,,
+11/17/2024,2024,Buffalo Bills,30,Kansas City Chiefs,21,Buffalo Bills,2.5,47.0,Highmark Stadium,,,
+11/17/2024,2024,Chicago Bears,19,Green Bay Packers,20,Green Bay Packers,6.0,41.0,Soldier Field,,,
+11/17/2024,2024,Denver Broncos,38,Atlanta Falcons,6,Denver Broncos,2.0,44.5,Empower Field at Mile High,,,
+11/17/2024,2024,Detroit Lions,52,Jacksonville Jaguars,6,Detroit Lions,13.5,47.5,Ford Field,72.0,,indoor
+11/17/2024,2024,Los Angeles Chargers,34,Cincinnati Bengals,27,San Diego Chargers,1.0,48.0,SoFi Stadium,72.0,,indoor
+11/17/2024,2024,Miami Dolphins,34,Las Vegas Raiders,19,Miami Dolphins,7.5,43.5,Hard Rock Stadium,,,
+11/17/2024,2024,New England Patriots,22,Los Angeles Rams,28,St. Louis Rams,4.0,43.0,Gillette Stadium,,,
+11/17/2024,2024,New Orleans Saints,35,Cleveland Browns,14,Cleveland Browns,1.0,44.0,Caesars Superdome,72.0,,indoor
+11/17/2024,2024,New York Jets,27,Indianapolis Colts,28,New York Jets,4.0,43.0,MetLife Stadium,,,
+11/17/2024,2024,Pittsburgh Steelers,18,Baltimore Ravens,16,Baltimore Ravens,3.0,48.0,Acrisure Stadium,,,
+11/17/2024,2024,San Francisco 49ers,17,Seattle Seahawks,20,San Francisco 49ers,6.0,49.0,Levi's Stadium,,,
+11/17/2024,2024,Tennessee Titans,13,Minnesota Vikings,23,Minnesota Vikings,6.0,40.0,Nissan Stadium,,,
+11/18/2024,2024,Dallas Cowboys,10,Houston Texans,34,Houston Texans,7.0,41.5,AT&T Stadium,72.0,,indoor
+11/21/2024,2024,Cleveland Browns,24,Pittsburgh Steelers,19,Pittsburgh Steelers,3.5,36.5,FirstEnergy Stadium,,,snow
+11/24/2024,2024,Carolina Panthers,27,Kansas City Chiefs,30,Kansas City Chiefs,10.5,43.0,Bank of America Stadium,,,
+11/24/2024,2024,Chicago Bears,27,Minnesota Vikings,30,Minnesota Vikings,3.0,39.5,Soldier Field,,,
+11/24/2024,2024,Green Bay Packers,38,San Francisco 49ers,10,Green Bay Packers,6.0,44.5,Lambeau Field,,,
+11/24/2024,2024,Houston Texans,27,Tennessee Titans,32,Houston Texans,8.0,40.5,NRG Stadium,72.0,,indoor
+11/24/2024,2024,Indianapolis Colts,6,Detroit Lions,24,Detroit Lions,7.0,50.5,Lucas Oil Stadium,72.0,,indoor
+11/24/2024,2024,Las Vegas Raiders,19,Denver Broncos,29,Denver Broncos,5.5,41.5,Allegiant Stadium,72.0,,indoor
+11/24/2024,2024,Los Angeles Rams,20,Philadelphia Eagles,37,Philadelphia Eagles,3.0,48.5,SoFi Stadium,72.0,,indoor
+11/24/2024,2024,Miami Dolphins,34,New England Patriots,15,Miami Dolphins,7.5,45.5,Hard Rock Stadium,,,
+11/24/2024,2024,New York Giants,7,Tampa Bay Buccaneers,30,Tampa Bay Buccaneers,6.0,40.0,MetLife Stadium,,,
+11/24/2024,2024,Seattle Seahawks,16,Arizona Cardinals,6,Arizona Cardinals,1.0,46.5,Lumen Field,,,
+11/24/2024,2024,Washington Commanders,26,Dallas Cowboys,34,Washington Redskins,10.5,44.5,FedEx Field,,,
+11/25/2024,2024,Los Angeles Chargers,23,Baltimore Ravens,30,Baltimore Ravens,3.0,51.0,SoFi Stadium,72.0,,indoor
+11/28/2024,2024,Dallas Cowboys,27,New York Giants,20,Dallas Cowboys,4.0,38.5,AT&T Stadium,72.0,,indoor
+11/28/2024,2024,Detroit Lions,23,Chicago Bears,20,Detroit Lions,10.0,48.0,Ford Field,72.0,,indoor
+11/28/2024,2024,Green Bay Packers,30,Miami Dolphins,17,Green Bay Packers,3.5,47.5,Lambeau Field,,,
+11/29/2024,2024,Kansas City Chiefs,19,Las Vegas Raiders,17,Kansas City Chiefs,13.5,42.0,GEHA Field at Arrowhead Stadium,,,
+12/01/2024,2024,Atlanta Falcons,13,Los Angeles Chargers,17,San Diego Chargers,1.0,47.0,Mercedes-Benz Stadium,72.0,,indoor
+12/01/2024,2024,Baltimore Ravens,19,Philadelphia Eagles,24,Baltimore Ravens,3.0,50.0,M&T Bank Stadium,,,
+12/01/2024,2024,Buffalo Bills,35,San Francisco 49ers,10,Buffalo Bills,6.5,45.5,Highmark Stadium,,,
+12/01/2024,2024,Carolina Panthers,23,Tampa Bay Buccaneers,26,Tampa Bay Buccaneers,6.5,46.0,Bank of America Stadium,,,
+12/01/2024,2024,Cincinnati Bengals,38,Pittsburgh Steelers,44,Cincinnati Bengals,3.0,46.0,Paycor Stadium,,,
+12/01/2024,2024,Jacksonville Jaguars,20,Houston Texans,23,Houston Texans,3.0,45.0,TIAA Bank Field,,,
+12/01/2024,2024,Minnesota Vikings,23,Arizona Cardinals,22,Minnesota Vikings,3.5,45.0,U.S. Bank Stadium,72.0,,indoor
+12/01/2024,2024,New England Patriots,24,Indianapolis Colts,25,Indianapolis Colts,2.5,41.5,Gillette Stadium,,,
+12/01/2024,2024,New Orleans Saints,14,Los Angeles Rams,21,St. Louis Rams,2.5,49.0,Caesars Superdome,72.0,,indoor
+12/01/2024,2024,New York Jets,21,Seattle Seahawks,26,New York Jets,1.5,41.5,MetLife Stadium,,,
+12/01/2024,2024,Washington Commanders,42,Tennessee Titans,19,Washington Redskins,6.0,45.0,FedEx Field,,,
+12/02/2024,2024,Denver Broncos,41,Cleveland Browns,32,Denver Broncos,6.5,41.5,Empower Field at Mile High,,,

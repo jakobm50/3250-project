@@ -5,7 +5,7 @@
 source data:
 
 - **Fixture Download:** https://fixturedownload.com/results/nfl-2024
-- **Sports Odds History:** https://www.sportsoddshistory.com/nfl-game-season/?y=2024
+- **Kaggle NFL scores and betting data:** https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data
 
 ### raw
 
@@ -23,17 +23,21 @@ Data after all cleaning, processing, and analyzing.
 
 ## Data Dictionary
 
-| Column                | Data Type | Description                                                                                    |
-| --------------------- | --------- | ---------------------------------------------------------------------------------------------- |
-| **Date**              | `Date`    | The date of the game in `DD-MM-YYYY HH:MM:SS` format.                                          |
-| **Location**          | `String`  | The name of the arena the game is played in.                                                   |
-| **Favorite**          | `String`  | The name of the team favored to win the game.                                                  |
-| **Underdog**          | `String`  | The name of the team expected to lose the game.                                                |
-| **Home_Team**         | `String`  | The name of the team expected who is home.                                                     |
-| **Away_Team**         | `String`  | The name of the team expected who is away.                                                     |
-| **Score**             | `String`  | The final score of the game, formatted as "Favorite_Score-Underdog_Score".                     |
-| **Moneyline_Result**  | `String`  | Indicates whether the favorite or underdog won, with values `Favorite`, `Underdog`, or `Push`. |
-| **Spread**            | `Float`   | The point spread assigned to the game, indicating how much the favorite is expected to win by. |
-| **Spread_Result**     | `String`  | The result of the spread bet, with values `Cover`, `Not Cover`, or `Push`.                     |
-| **Over_Under**        | `Float`   | The total points line for the game, combining both teams' scores.                              |
-| **Over_Under_Result** | `String`  | The result of the over/under bet, with values `Over`, `Under`, or `Push`.                      |
+| Column                  | Data Type | Description                                                                                             |
+| ----------------------- | --------- | ------------------------------------------------------------------------------------------------------- |
+| **Date**                | `Date`    | The date of the game in `MM/DD/YYYY` format.                                                            |
+| **Schedule_Season**     | `Integer` | The year of the season the game is part of.                                                             |
+| **Home_Team**           | `String`  | The name of the team playing at home.                                                                   |
+| **Score_Home**          | `Integer` | The score of the home team in the game.                                                                 |
+| **Away_Team**           | `String`  | The name of the team playing away.                                                                      |
+| **Score_Away**          | `Integer` | The score of the away team in the game.                                                                 |
+| **Team_Favorite**       | `String`  | The name of the team favored to win the game.                                                           |
+| **Spread_Favorite**     | `Float`   | The point spread assigned to the favorite team, indicating how much the favorite is expected to win by. |
+| **Over_Under_Line**     | `Float`   | The total points line for the game, combining both teams' scores.                                       |
+| **Location**            | `String`  | The name of the stadium or arena the game is played in.                                                 |
+| **Weather_Temperature** | `Float`   | The temperature (in Fahrenheit or Celsius) during the game.                                             |
+| **Weather_Humidity**    | `Float`   | The humidity percentage at the time of the game.                                                        |
+| **Weather_Detail**      | `String`  | A description of the weather conditions (e.g., "Clear skies", "Rainy", "Cloudy", etc.).                 |
+| **Result**              | `String`  | The overall result of the game.                                                                         |
+| **Spread_Result**       | `Binary`  | The result of the spread bet, with values 1 or 0                                                        |
+| **Over_Under_Result**   | `Binary`  | The result of the over/under bet, with values 1 or 0                                                    |
